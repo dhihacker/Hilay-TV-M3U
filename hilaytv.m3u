@@ -57,13 +57,13 @@ http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=LgLUskkTDkaUXYmb3ZJM9A
+/PeaceTvEnglish/index.m3u8?sid=nDGlGIovN0ah3iZ-htlBbg
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera" tvg-name="Al Jazeera TV" group-title="Hilay TV",Al Jazeera TV
-https://f803ea8ce9bb4c4da10de19d54266609.mediatailor.us-east-1.amazonaws.com/v1/manifest/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/903cca04-821e-4805-aaa3-6de2bc6c269d/4.m3u8
+https://maldivesn.net/hilaytv/aljazeeraenaws
 
 #EXTINF:-1 tvg-id="AlMayadeen" tvg-name="Al Mayadeen TV" group-title="Hilay TV",Al Mayadeen TV
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
@@ -72,19 +72,19 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://jmp2.uk/stvp-CHBD800001D0
 
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC World" group-title="Hilay TV",BBC World
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RT" tvg-name="RT International" group-title="Hilay TV",RT International
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kix" tvg-name="Arirang Korea" group-title="Hilay TV",Arirang Korea
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Kplus" tvg-name="KPOP+" group-title="Hilay TV",KPOP+
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-682e09a8dfc9c452b8f9bd66/variant.m3u8?x-plex-token=88ZAaxERjCsorAXHrZU7&x-plex-advertising-identifier=&x-plex-client-identifier=51b4294b-cda6-4978-bc73-c8a23480235a&x-plex-playback-id=p_5e7cfdd0-63f0-4f5d-91ac-3e0ef8ede11d&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Edge&x-plex-platform-version=138.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1751493831&url=4ec57ca7a554b376306f691e632713a1-ea46a0244c6148c3d89bbe792e3d6a49b036fcf0e1f1fd7492f25610c0281aac759f841af3acc91f5fea218912ccb1874a7fbbaf39872fd4778b08a47f88ecc64b2a471058d23c13b7ff45926ed52c5265003d8143fd2e2417fa00c327997b09adf28c2c88e1c2b7e25ecc490a9c90f22ac68e0812c745b19176ada3d68d83a568c1ac658a244fefe9432fdd632fb8aa09099cc3129e0def479eeb202777fdc05196f8715119bb2125475ca9b98bae6ad5cce34a569229d38da31fa49ef6a231190c9ba3fcabec436e9ccb932f8068c716c3065d7f1305e54dfe01207971ca1246742a51305806f15d4ebc393af798e61ae6f2adc36e29dfba5d7f193c809d443f934c49f6fccd75f41586f564b84b80f880002f7e6fc4804d89cce3b381923cf418ffe8424bb5a2d10bf7b1bf5b5c51ddc6bbfec1a8da2aee541512c1b6e2c1da6d174357d92db22af81a0ba7b47c4f26edec96d7b05f3823c52ffd1788b77f3582b26f386c19eb758e4864583f9edcab250ae3c99d9a6d4cb44c12bea1da361ec5894a5e74f9d2df4eb0e2e9f640ef1aed74c806a2d9756cf29518859667fe09a3c4c8bb818d8a46669c4911ae73e217fec2cc4e68bb4aebc48d1cc5931c4169a952595c5a45e045a6c37a193eff6d71fc82f9b97f3fd245cb01f9b20359f1e668670cea29bd2a00784d695e394c2d2da95c4a964fa57fad859679dc11229ab440652474351a1e016d318211d9ee7c528c6f67341394218bba3b579e3349280b385b88b52ac26f3cdb2afd4a0bbd6d39bfe2ba5d0164e62feed3f17a3f7cf2f3686db136a45a9eb02e9af5ff411c41d5406e19837189204b5c09196d44c9c7cf7afa96d6fab07d74ceb8d1ae1e5a3ad94eda952bdc121d1704ef3cddac30367cca4f0c183bd8c9b743bd18b548e9ca8868aaf04d7fd3782e4cc880348d8703081a0e6c31e74147219b3bb59ad06a27c4e284182d62e29cc8ba652f17cddc44e9aac952b16482a4720469285431ea6fcfabd41ef3977eb814864d21c5186b4586a89169be215262602242ead7f9a69a8496953ec0dc5c026fae5091caf503572d15ceedf164ccdf179ec009c08e68b4336c58e7f5df26c9e871cf299ef076debfafade6bb6fbc5b115fdeb74f84984c16297ebe81db46f68d734d40d81305cf2a09624f63629d2423e259cbd4545177992e3b66cf4d08b47ecc3a4d3b213e647751668966262a96dd256b7ebc1755a762f4787179934c5564d0a991c9613e918c479d00298358046c3b5df865c8fe75588a9ddac0e6d7d41ef0bae1661d4df67e8195637b6265862e82628f348e9e1571ca41e06d5f693ff8f74dcaac77870db7420587e453a84078c6ad93338eff570582ce6588f25016544e73a9974310fe5829bd85aa9a3d8f9513bb8dd1234e03b128b8ecf5ae6da19a631514c7da0bc3320b00846bf1dcf5a0da14c137569f8e24c48743fd9cf8a3df999effb2aab10f8ee0102b070777a29742b9ae84ccdf8183c4a3c6ec8171bf9ae00ca698892e6c6d7d95a2bde3b083a0c3d8fc3d0c22df0385400b1c695b3bc9620f65d86b7396a266317da91232bb161d488251377eb0254e385e311eb1a024bf78bbe7e1b95f3286e761b7dac9b2f7f41674db43f18b22bf0d5a3df5ec9f8465d41b6d7792ac71518860f810ea8cca216192223901a0f2771576996c9fdda3d7ea26d17cc7eedf867ab0280b16dc8771f4dd30c4d9ef15877fbe88eb529ab66fa1d071233c0a3bf2b0655d3efc938131d327cf668455b91fba945dbcbb28b48e467367b6967527b605d92397db6a8a84261d84f84dff12c71449352c338cd7cfe1d746a4d633a11c580866a68d6d2a95f588150cb711af40bd2c4bd93fb3b249df1c1bcffb1642d523f3d7e3ff855f7533b911e229adf668d07051d4535983fe3b19829e3f59e9729da561fb33facf9dff666b347d23d2102e7527d2b8a81443e38bbd20b812d1f375696367a55a9a4712ec71c7fd5885341dc55037c25845caa76ad5aa2ca1ca027de72fd1693f80c4c2a62ea23c0c03ab3f440208dc7a331a662a0055933743461a4d5aef29d95f0a71ecb257a2b0b4076c4eb3a8c2d33b220ca30e6a7fb353940893232c6e24657832b671ef0e647585450a636ef7cd2b71a2fb2c425522e04b6f0fb45dfa993bc67b3d5ec567dee7bdc88a83890545315caab265323d12adcf58e324bd5d135d12333ae8be921e39c47262f8a68cee412d2636454fa461246920f4ee7999de324dc25fbbbf33c8fd647924806d490264b340e270555e5dc88b49684cc851087174a9637b4a5026bdb1700d2f2b4a09643f71c63bb6a797316e9c58d6690a8a9c3bd1a135cd912d501093173c582e6b2982f4762a9cc2319f4811f9575261d5b026527e86b3fe2dc8694031d82573c949774936c845f39a1834569f67772825a691cec61e94a36692c84a83e72e8d7b591b7f1a8d952aa5d6b409bd6bb3101afa39471b89f736f0de48c5cd526919e5d91100fd37c322a9a768512ceeee5a4de0c3e382c107b300788afd6b9b0cbf7461a220a8e18165403c015665a395b59d3fd37b06905c082ab0156ea271c1d06ed40d713c350a0f33b5aab6c4af42d9d11fbc01fd937f4ddc0a5e732e8753c929ff0281549225a2627728d25386e0328a8669259be804457cce66d88b8e0e6aff53775b48033301fc8ca98a374a254f38a38988d3a0547cd1b3cecf505fd05b1d04362d3860d3d828
 
 #EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World" group-title="Hilay TV",KBS World
-http://mytv.dothome.co.kr/ch/catv/7.php
+http://mytv.dothome.co.kr/ch/catv/7.php/.m3u8
 
 #EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" group-title="Hilay TV",Fashion TV
 https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
@@ -114,7 +114,7 @@ https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHK World Japan" group-title="Hilay TV",NHK World Japan
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 tvg-id="RTFrance" tvg-name="Press TV" group-title="Hilay TV",Press TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
@@ -351,7 +351,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?ads.xumo_channelId=88814624&ads.xumo_streamId=88814624
 
 #EXTINF:-1 tvg-id="TNTSports1" tvg-name="TNT Sports One UK" group-title="Hilay TV",TNT Sports One UK
-https://freelivtv.xyz/oppu/oppu.php?id=346373
+http://46.105.71.222:8080/btsport1/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSports2" tvg-name="TNT Sports Two UK" group-title="Hilay TV",TNT Sports Two UK
 https://a1xs.vip/2000022
@@ -627,10 +627,13 @@ https://freelivtv.xyz/stream4k/guu.php?id=1098
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="events1" tvg-name="LIVE EVENTS 1" group-title="Hilay TV",LIVE EVENTS 1
-https://www.youtube.com/live/104f_L2o5Hs
+https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-159/t0xp-nbqa_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+https://freelivtv.xyz/oppu/oppu.php?id=238478
+
+#EXTINF:-1 tvg-id="events3" tvg-name="Asia Cup 2025" group-title="Hilay TV",Asia Cup 2025
+http://103.73.107.122:3255/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="babyrhmes" tvg-name="My Little Pony" group-title="Hilay TV",My Little Pony
 https://dbrb49pjoymg4.cloudfront.net/10001/99951442/hls/8-9-6766.m3u8?ads.xumo_channelId=99951442&ads._fw_ifa_type=&ads._fw_did=eeb8ecfa-90d4-4b9a-b4f6-2e30867798cf&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HasbroMyLittlePony&ads.csid=xumo_web_HasbroMyLittlePony_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4260&ads.xumo_contentName=HasbroMyLittlePony&ads.xumo_providerId=4260&ads.xumo_providerName=HasbroMyLittlePony&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951442&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -651,7 +654,7 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euro News" group-title="Hilay TV",Euro News
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/41a9ec08-3645-4df4-a6ab-ed33efa47385/5.m3u8
+https://aka-live1049.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a947e1f3/t2-origin/out/v1/live.m3u8
 
 #EXTINF:-1 tvg-id="howto" tvg-name="How it's Made" group-title="Hilay TV",How it's Made
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/1bf48d66-1346-41db-b80d-ecc0baf9af5c/0.m3u8
