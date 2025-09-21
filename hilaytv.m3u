@@ -57,13 +57,13 @@ http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=nDGlGIovN0ah3iZ-htlBbg
+/PeaceTvEnglish/index.m3u8?sid=vNEYSNn-x0izknvgrqKE6A
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera" tvg-name="Al Jazeera TV" group-title="Hilay TV",Al Jazeera TV
-https://maldivesn.net/hilaytv/aljazeeraenaws
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
 #EXTINF:-1 tvg-id="AlMayadeen" tvg-name="Al Mayadeen TV" group-title="Hilay TV",Al Mayadeen TV
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
@@ -165,7 +165,7 @@ https://portal-to-m3u-07.iptv07india.workers.dev/?id=3113
 https://jmp2.uk/stvp-INBD4700015M0
 
 #EXTINF:-1 tvg-id="Loupe4k" tvg-name="Loupe 4K" group-title="Hilay TV",Loupe 4K
-https://list.iptvcat.com/my_list/s/3c591096c7320ee7ebcec137a76966c6.m3u8
+https://jmp2.uk/stvp-USBB1000002TK
 
 #EXTINF:-1 tvg-id="WorldFishingNet" tvg-name="World Fishing Network" group-title="Hilay TV",World Fishing Network
 http://fl7.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
@@ -207,7 +207,7 @@ http://fl7.moveonjoy.com/VH1/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/fc0417c9-0ecd-4f3d-8040-1702a7b48eb4/0.m3u8
 
 #EXTINF:-1 tvg-id="AstroSports" tvg-name="Astro Football" group-title="Hilay TV",Astro Football
-https://freelivtv.xyz/oppu/oppu.php?id=352090
+https://stream1.freetv.fun/4a0980bf103670f7b41255f098c534877efeac1a02e3282253779e83250e0458.ctv
 
 #EXTINF:-1 tvg-id="astropl2" tvg-name="Astro Premier League 2" group-title="Hilay TV",Astro Premier League 2
 https://a1xs.vip/1100031
@@ -285,10 +285,10 @@ https://a1xs.vip/700008
 http://mains.services/live/bshorty/Zv5le07a0J/116070.ts
 
 #EXTINF:-1 tvg-id="starspselect1" tvg-name="Star Sports Select 1 HD" group-title="Hilay TV",Star Sports Select 1 HD
-https://freelivtv.xyz/oppu/oppu.php?id=109993
+https://a1xs.vip/8000011
 
 #EXTINF:-1 tvg-id="starspselect2" tvg-name="Star Sports Select 2 HD" group-title="Hilay TV",Star Sports Select 2 HD
-https://freelivtv.xyz/oppu/oppu.php?id=109994
+https://a1xs.vip/8000012
 
 #EXTINF:-1 tvg-id="starsp1" tvg-name="Star Sports 1 HD" group-title="Hilay TV",Star Sports 1 HD
 https://freelivtv.xyz/oppu/oppu.php?id=109987
@@ -321,7 +321,7 @@ https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-da
 https://ott.udptv.xyz/stream/astro/lovenature4k/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1 tvg-id="TravelXP4k" tvg-name="Travel XP" group-title="Hilay TV",Travel XP
-https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/9aead721-0f82-4fa6-8871-510c340aa21a/1.m3u8
+https://jmp2.uk/stvp-IN300000210
 
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" group-title="Hilay TV",National Geographic
 http://fl7.moveonjoy.com/National_Geographic/index.m3u8
@@ -480,7 +480,7 @@ https://ott.udptv.xyz/stream/astro/astrosportsuhd/master.m3u8?u=cocked&p=dd0abb5
 http://fl7.moveonjoy.com/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="astropl1" tvg-name="Astro Premier League 1" group-title="Hilay TV",Astro Premier League 1
-https://a1xs.vip/1100030
+https://stream1.freetv.fun/2aa7e9781189b4b216abcc849534d04a1115b3259b53a37bace07892a3cbc3b9.ctv
 
 #EXTINF:-1 tvg-id="pltv" tvg-name="Premier League TV" group-title="Hilay TV",Premier League TV
 http://mains.services/live/bshorty/Zv5le07a0J/116069.ts
@@ -627,10 +627,10 @@ https://freelivtv.xyz/stream4k/guu.php?id=1098
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="events1" tvg-name="LIVE EVENTS 1" group-title="Hilay TV",LIVE EVENTS 1
-https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-159/t0xp-nbqa_1080p/chunklist_DVR.m3u8
+https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-77/6rpz-l18y_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
-https://freelivtv.xyz/oppu/oppu.php?id=238478
+https://maldivesn.net/hilaytv/sportspersiana
 
 #EXTINF:-1 tvg-id="events3" tvg-name="Asia Cup 2025" group-title="Hilay TV",Asia Cup 2025
 http://103.73.107.122:3255/TSportsHD/index.m3u8
@@ -645,7 +645,7 @@ http://fl7.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="Hilay TV",AXN
-https://freelivtv.xyz/oppu/oppu.php?id=352731
+https://stream1.freetv.fun/8f853c064e60bf148c1b21ce6a785bffb721080741254a92b3f173a744e04cdb.m3u8
 
 #EXTINF:-1 tvg-id="abudhabisp1" tvg-name="Abu Dhabi Sports 1" group-title="Hilay TV",Abu Dhabi Sports 1
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
