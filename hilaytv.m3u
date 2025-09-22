@@ -57,7 +57,7 @@ http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=vNEYSNn-x0izknvgrqKE6A
+/PeaceTvEnglish/index.m3u8?sid=GfMXT5aJ6k-UxNCN8wQlXQ
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -132,7 +132,7 @@ https://freelivtv.xyz/oppu/oppu.php?id=109957
 https://freelivtv.xyz/oppu/oppu.php?id=104194
 
 #EXTINF:-1 tvg-id="Starplus" tvg-name="Star Plus HD" group-title="Hilay TV",Star Plus HD
-https://freelivtv.xyz/oppu/oppu.php?id=109949
+https://live.dinesh29.com.np/stream/jiotvplus/starplushd/master.m3u8
 
 #EXTINF:-1 tvg-id="StarGold" tvg-name="Star Gold HD" group-title="Hilay TV",Star Gold HD
 https://freelivtv.xyz/oppu/oppu.php?id=66178
@@ -285,16 +285,16 @@ https://a1xs.vip/700008
 http://mains.services/live/bshorty/Zv5le07a0J/116070.ts
 
 #EXTINF:-1 tvg-id="starspselect1" tvg-name="Star Sports Select 1 HD" group-title="Hilay TV",Star Sports Select 1 HD
-https://a1xs.vip/8000011
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
 
 #EXTINF:-1 tvg-id="starspselect2" tvg-name="Star Sports Select 2 HD" group-title="Hilay TV",Star Sports Select 2 HD
-https://a1xs.vip/8000012
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 
 #EXTINF:-1 tvg-id="starsp1" tvg-name="Star Sports 1 HD" group-title="Hilay TV",Star Sports 1 HD
-https://freelivtv.xyz/oppu/oppu.php?id=109987
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
 
 #EXTINF:-1 tvg-id="starsp2" tvg-name="Star Sports 2 HD" group-title="Hilay TV",Star Sports 2 HD
-https://freelivtv.xyz/oppu/oppu.php?id=109988
+https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
 
 #EXTINF:-1 tvg-id="premiersp1" tvg-name="Premier Sports One" group-title="Hilay TV",Premier Sports One
 http://mains.services/live/pmf0423/1aku0jt%40/a2de5c34-7664-4983-996d-aef9744e8ea5.m3u
@@ -351,7 +351,7 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?ads.xumo_channelId=88814624&ads.xumo_streamId=88814624
 
 #EXTINF:-1 tvg-id="TNTSports1" tvg-name="TNT Sports One UK" group-title="Hilay TV",TNT Sports One UK
-http://46.105.71.222:8080/btsport1/index.m3u8
+https://freelivtv.xyz/oppu/oppu.php?id=346373
 
 #EXTINF:-1 tvg-id="TNTSports2" tvg-name="TNT Sports Two UK" group-title="Hilay TV",TNT Sports Two UK
 https://a1xs.vip/2000022
@@ -471,7 +471,7 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/152db408-035e-4a1a-9195-fb893b03640d/2.m3u8
 
 #EXTINF:-1 tvg-id="starsports3" tvg-name="Star Sports 3 HD" group-title="Hilay TV",Star Sports 3 HD
-https://freelivtv.xyz/oppu/oppu.php?id=167577
+https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
 
 #EXTINF:-1 tvg-id="astrouhd" tvg-name="Astro UHD" group-title="Hilay TV",Astro UHD
 https://ott.udptv.xyz/stream/astro/astrosportsuhd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
@@ -606,10 +606,10 @@ https://livetv-fa.tubi.video/fast-studios-womens-sports/playlist.m3u8
 https://cloudflare.tv/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="mutv" tvg-name="Manchester United TV" group-title="Hilay TV",Manchester United TV
-https://windnew.newkso.ru/wind/premium377/mono.m3u8
+https://freelivtv.xyz/stream4k/stream.php?id=8666
 
 #EXTINF:-1 tvg-id="staruk" tvg-name="Star Plus UK" group-title="Hilay TV",Star Plus UK
-https://freelivtv.xyz/oppu/oppu.php?id=221252
+https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
 
 #EXTINF:-1 tvg-id="zeeuk" tvg-name="Shemaroo Bollywood" group-title="Hilay TV",Shemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/bcc176a6-d3b4-4044-835b-d2c65884bf8d/3.m3u8
@@ -633,7 +633,7 @@ https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-77/6rpz-l18y_1080p/chunklist_DV
 https://maldivesn.net/hilaytv/sportspersiana
 
 #EXTINF:-1 tvg-id="events3" tvg-name="Asia Cup 2025" group-title="Hilay TV",Asia Cup 2025
-http://103.73.107.122:3255/TSportsHD/index.m3u8
+https://a1xs.vip/40000042
 
 #EXTINF:-1 tvg-id="babyrhmes" tvg-name="My Little Pony" group-title="Hilay TV",My Little Pony
 https://dbrb49pjoymg4.cloudfront.net/10001/99951442/hls/8-9-6766.m3u8?ads.xumo_channelId=99951442&ads._fw_ifa_type=&ads._fw_did=eeb8ecfa-90d4-4b9a-b4f6-2e30867798cf&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HasbroMyLittlePony&ads.csid=xumo_web_HasbroMyLittlePony_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4260&ads.xumo_contentName=HasbroMyLittlePony&ads.xumo_providerId=4260&ads.xumo_providerName=HasbroMyLittlePony&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951442&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
