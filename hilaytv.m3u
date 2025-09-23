@@ -57,7 +57,7 @@ http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=GfMXT5aJ6k-UxNCN8wQlXQ
+/PeaceTvEnglish/index.m3u8?sid=PImZaKzKakWLiyMO0NSPvw
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -336,13 +336,13 @@ https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
 http://fl7.moveonjoy.com/BEIN_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="BeinSports1" tvg-name="Bein Sports One" group-title="Hilay TV",Bein Sports One
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2499/index.m3u8
+https://freelivtv.xyz/stream4k/stream.php?id=6902
 
 #EXTINF:-1 tvg-id="BeinSports2" tvg-name="Bein Sports Two" group-title="Hilay TV",Bein Sports Two
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2500/index.m3u8
+https://freelivtv.xyz/stream4k/stream.php?id=6912
 
 #EXTINF:-1 tvg-id="BeinSports3" tvg-name="Bein Sports Three" group-title="Hilay TV",Bein Sports Three
-http://f3afcb1e.rossteleccom.net/iptv/RLTULVKS3FT33Z/2501/index.m3u8
+https://freelivtv.xyz/stream4k/stream.php?id=9022
 
 #EXTINF:-1 tvg-id="BeinSportsXtra" tvg-name="Bein Sports Xtra" group-title="Hilay TV",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
@@ -390,7 +390,7 @@ http://2.magmas5.com:8000/live/Miyagi_ezR3stream/9307590414/131018.ts
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ac6366c8-78e1-4c09-bb3f-e27c4a2a51cc/5.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes" tvg-name="ESPN Deportes" group-title="Hilay TV",ESPN Deportes
-http://190.92.10.66:4000/play/a003/index.m3u8
+https://freelivtv.xyz/stream4k/stream.php?id=476956
 
 #EXTINF:-1 tvg-id="Babyfirst" tvg-name="Baby First" group-title="Hilay TV",Baby First
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/d3bb2ef6-3e31-4ee6-8697-944ecd3a029d/1.m3u8
@@ -480,7 +480,7 @@ https://ott.udptv.xyz/stream/astro/astrosportsuhd/master.m3u8?u=cocked&p=dd0abb5
 http://fl7.moveonjoy.com/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="astropl1" tvg-name="Astro Premier League 1" group-title="Hilay TV",Astro Premier League 1
-https://stream1.freetv.fun/2aa7e9781189b4b216abcc849534d04a1115b3259b53a37bace07892a3cbc3b9.ctv
+https://a1xs.vip/1100030
 
 #EXTINF:-1 tvg-id="pltv" tvg-name="Premier League TV" group-title="Hilay TV",Premier League TV
 http://mains.services/live/bshorty/Zv5le07a0J/116069.ts
@@ -489,7 +489,7 @@ http://mains.services/live/bshorty/Zv5le07a0J/116069.ts
 http://104.238.205.28:8989/278454_.m3u8
 
 #EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" group-title="Hilay TV",HGTV
-HGTV
+https://freelivtv.xyz/stream4k/stream.php?id=203
 
 #EXTINF:-1 tvg-id="rockaction" tvg-name="Rock Action" group-title="Hilay TV",Rock Action
 http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
@@ -615,7 +615,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starplus/master.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/bcc176a6-d3b4-4044-835b-d2c65884bf8d/3.m3u8
 
 #EXTINF:-1 tvg-id="vsportuhd" tvg-name="VSport UltraHD" group-title="Hilay TV",VSport UltraHD
-https://a1xs.vip/9000013
+https://maldivesn.net/hilaytv/vsportuhd
 
 #EXTINF:-1 tvg-id="skysportslaliga" tvg-name="Sky Sports LaLiga" group-title="Hilay TV",Sky Sports LaLiga
 http://190.92.10.66:4000/play/a001/index.m3u8
@@ -627,7 +627,7 @@ https://freelivtv.xyz/stream4k/guu.php?id=1098
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="events1" tvg-name="LIVE EVENTS 1" group-title="Hilay TV",LIVE EVENTS 1
-https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-77/6rpz-l18y_1080p/chunklist_DVR.m3u8
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
 https://maldivesn.net/hilaytv/sportspersiana
