@@ -3,7 +3,7 @@
 # https://hilaytv.vercel.app/
 
 #EXTINF:-1 tvg-id="TVMaldives" tvg-name="TV Maldives" group-title="Hilay TV",TV Maldives
-https://hugh.cdn.rumble.cloud/live/gke17oc4/slot-71/puhh-tw3q_360p/chunklist_DVR.m3u8
+https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-35/bulc-3xwi_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="MMTV" tvg-name="MM TV" group-title="Hilay TV",MM TV
 https://embed-cloudfront.wistia.com/deliveries/7e4d14168a287ad00e7fdf7478c8d2850ba8f4ca.m3u8
@@ -57,7 +57,7 @@ http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=L1-KBj7IqUyLnFT8TLnDew
+/PeaceTvEnglish/index.m3u8?sid=N2QyJOcj2EOK1k8jlijVOg
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -285,10 +285,10 @@ https://a1xs.vip/700008
 http://mains.services/live/bshorty/Zv5le07a0J/116070.ts
 
 #EXTINF:-1 tvg-id="starspselect1" tvg-name="Star Sports Select 1 HD" group-title="Hilay TV",Star Sports Select 1 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3BvcnRhbC5wYXRlbDRrLmNvbS9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTo3NTpFNzo1MyIsInNuIjoiOEM2MjIyMTY4RjgzQSIsImRldmljZV9pZDEiOiI3NzNFQzgyNUQwRDhDOTIxMzlCRDU2NTQ4OTEwM0VBRjE2OTY5MzZFNjJBREI4NTE2RkU4MjA4OTY2QjlFQzc1IiwiZGV2aWNlX2lkMiI6Ijc3M0VDODI1RDBEOEM5MjEzOUJENTY1NDg5MTAzRUFGMTY5NjkzNkU2MkFEQjg1MTZGRTgyMDg5NjZCOUVDNzUiLCJzaWciOiIifQ%3D%3D&id=1444
 
 #EXTINF:-1 tvg-id="starspselect2" tvg-name="Star Sports Select 2 HD" group-title="Hilay TV",Star Sports Select 2 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=397
 
 #EXTINF:-1 tvg-id="starsp1" tvg-name="Star Sports 1 HD" group-title="Hilay TV",Star Sports 1 HD
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
@@ -363,10 +363,10 @@ https://a1xs.vip/2000023
 https://a1xs.vip/2000024
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA Network East" group-title="Hilay TV",USA Network East
-http://fl7.moveonjoy.com/USA_NETWORK/index.m3u8
+https://a1xs.vip/1100020
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Hilay TV",ESPN
-https://fl7.moveonjoy.com/Espn/index.m3u8
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=14459
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="Hilay TV",ESPN 2
 https://fl7.moveonjoy.com/ESPN_2/index.m3u8
@@ -456,7 +456,7 @@ https://freelivtv.xyz/watchindia/gudu.m3u8?id=99674
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
 #EXTINF:-1 tvg-id="astrogrand" tvg-name="Astro Grandstand" group-title="Hilay TV",Astro Grandstand
-https://freelivtv.xyz/oppu/oppu.php?id=352089
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=25379
 
 #EXTINF:-1 tvg-id="kloopy" tvg-name="Kaloopy TV" group-title="Hilay TV",Kaloopy TV
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/df2e1f8e-4f47-41b0-bd26-626e8a63caf2/2.m3u8
@@ -477,10 +477,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
 https://ott.udptv.xyz/stream/astro/astrosportsuhd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1 tvg-id="usawest" tvg-name="USA Network West" group-title="Hilay TV",USA Network West
-http://fl7.moveonjoy.com/USA_NETWORK/index.m3u8
+https://a1xs.vip/1100020
 
 #EXTINF:-1 tvg-id="astropl1" tvg-name="Astro Premier League 1" group-title="Hilay TV",Astro Premier League 1
-https://a1xs.vip/1100030
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=16126
 
 #EXTINF:-1 tvg-id="pltv" tvg-name="Premier League TV" group-title="Hilay TV",Premier League TV
 http://mains.services/live/bshorty/Zv5le07a0J/116069.ts
