@@ -25,7 +25,7 @@ def get_final_url(session, url):
 def generate_m3u_playlist():
     session = get_session()
 
-    manifest_url = 'https://proxy.unblockvideos.com/index.php?q=mdnWothzZ5GdnqTGstjZZ9qapsjJo2XGqaWTn5OgyseW2NZgz6yn0A'
+    manifest_url = 'https://hilaytv.vercel.app/manifest.json'
     try:
         response = session.get(manifest_url, timeout=10)
         response.raise_for_status()
@@ -85,4 +85,5 @@ def generate_m3u_playlist():
 
 if __name__ == "__main__":
     generate_m3u_playlist()
+
 
