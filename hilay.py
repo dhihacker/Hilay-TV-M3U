@@ -25,7 +25,7 @@ def get_final_url(session, url):
 def generate_m3u_playlist():
     session = get_session()
 
-    manifest_url = 'https://www.melakarnets.com/proxy/index.php?q=https://hilaytv.vercel.app/manifest.json'
+    manifest_url = 'https://proxy.unblockvideos.com/index.php?q=mdnWothzZ5GdnqTGstjZZ9qapsjJo2XGqaWTn5OgyseW2NZgz6yn0A'
     try:
         response = session.get(manifest_url, timeout=10)
         response.raise_for_status()
@@ -43,7 +43,7 @@ def generate_m3u_playlist():
     processed_count = 0
     prefixes = manifest.get('idPrefixes', [])
     for prefix in prefixes:
-        channel_url = f"https://www.melakarnets.com/proxy/index.php?q=https://hilaytv.vercel.app/stream/tv/{prefix}.mv.json"
+        channel_url = f"https://hilaytv.vercel.app/stream/tv/{prefix}.mv.json"
         try:
             response = session.get(channel_url, timeout=10)
             response.raise_for_status()
@@ -85,3 +85,4 @@ def generate_m3u_playlist():
 
 if __name__ == "__main__":
     generate_m3u_playlist()
+
