@@ -3,7 +3,7 @@
 # https://hilaytv.vercel.app/
 
 #EXTINF:-1 tvg-id="TVMaldives" tvg-name="TV Maldives" group-title="Hilay TV",TV Maldives
-https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-35/bulc-3xwi_1080p/chunklist_DVR.m3u8
+https://1a-1791.com/live/t5qc33px/slot-31/8nw2-9egj_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="MMTV" tvg-name="MM TV" group-title="Hilay TV",MM TV
 https://embed-cloudfront.wistia.com/deliveries/7e4d14168a287ad00e7fdf7478c8d2850ba8f4ca.m3u8
@@ -57,7 +57,7 @@ http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=N2QyJOcj2EOK1k8jlijVOg
+/PeaceTvEnglish/index.m3u8?sid=lbk3M2jxGEKkniELOI7OQA
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -252,7 +252,7 @@ https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=771
 https://a1xs.vip/2000015
 
 #EXTINF:-1 tvg-id="SkySportsPLNZ" tvg-name="Sky Sports Premier League UHD" group-title="Hilay TV",Sky Sports Premier League UHD
-https://a1xs.vip/ms/live/bshorty/Zv5le07a0J/116069.ts
+http://mains.services/live/pmf0423/1aku0jt%40/116069.ts
 
 #EXTINF:-1 tvg-id="SkyF1UHD" tvg-name="Sky Sports F1 UHD" group-title="Hilay TV",Sky Sports F1 UHD
 https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LmZ1c2lvbjRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAxOjA3Iiwic24iOiJFRDU5QUYzMUZERDExIiwiZGV2aWNlX2lkMSI6IjYzQjg5MjgzREE0RDAyQzExM0JFMEUwRjlCOUFCN0IyMjEwRDYyQUJBMzYxMUIxQ0FFMTk1ODBENjYwOEEwMjUiLCJkZXZpY2VfaWQyIjoiNjNCODkyODNEQTREMDJDMTEzQkUwRTBGOUI5QUI3QjIyMTBENjJBQkEzNjExQjFDQUUxOTU4MEQ2NjA4QTAyNSIsInNpZyI6IiJ9&id=8831
@@ -645,7 +645,7 @@ http://fl7.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="Hilay TV",AXN
-http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=1165778&extension=ts
+https://maldivesn.net/hilaytv/axn
 
 #EXTINF:-1 tvg-id="abudhabisp1" tvg-name="Abu Dhabi Sports 1" group-title="Hilay TV",Abu Dhabi Sports 1
 http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=625808&extension=ts
