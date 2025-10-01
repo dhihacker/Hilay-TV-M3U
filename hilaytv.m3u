@@ -51,13 +51,13 @@ https://api.m3use.projectmoose.xyz/m3u/mv-tv/MVTV/67fd6eb7eadb6c734863693e.m3u8?
 https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
 
 #EXTINF:-1 tvg-id="Yes" tvg-name="YES TV" group-title="Hilay TV",YES TV
-http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
+https://1a-1791.com/live/v0xi25uh/live-hls/u92u-f13x/chunklist_i1_DVR.m3u8
 
 #EXTINF:-1 tvg-id="SanguTV" tvg-name="Sangu TV" group-title="Hilay TV",Sangu TV
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=XyDQvEXM-k-RRwnk6mPRbg
+/PeaceTvEnglish/index.m3u8?sid=VjOIuPUyvEuV4Nq4aVCU4Q
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -390,7 +390,7 @@ http://2.magmas5.com:8000/live/Miyagi_ezR3stream/9307590414/131018.ts
 https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/ac6366c8-78e1-4c09-bb3f-e27c4a2a51cc/5.m3u8
 
 #EXTINF:-1 tvg-id="ESPNDeportes" tvg-name="ESPN Deportes" group-title="Hilay TV",ESPN Deportes
-https://freelivtv.xyz/stream4k/stream.php?id=476956
+http://23.227.130.90/CF5A68754DA1ZZZZac969f94552f5dea8224836daaf053254acef5d68c1f85/index.m3u8?token=acf832e627ebb53672f5025adf273562
 
 #EXTINF:-1 tvg-id="Babyfirst" tvg-name="Baby First" group-title="Hilay TV",Baby First
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/d3bb2ef6-3e31-4ee6-8697-944ecd3a029d/1.m3u8
@@ -627,13 +627,13 @@ https://freelivtv.xyz/stream4k/guu.php?id=1098
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="events1" tvg-name="LIVE EVENTS 1" group-title="Hilay TV",LIVE EVENTS 1
-https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+https://freelivtv.xyz/oppu/oppu.php?id=238478
 
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
-http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=287804&extension=ts
+https://maldivesn.net/hilaytv/golazo
 
 #EXTINF:-1 tvg-id="events3" tvg-name="Asia Cup 2025" group-title="Hilay TV",Asia Cup 2025
-https://a1xs.vip/40000042
+https://freelivtv.xyz/oppu/oppu.php?id=238480
 
 #EXTINF:-1 tvg-id="babyrhmes" tvg-name="My Little Pony" group-title="Hilay TV",My Little Pony
 https://dbrb49pjoymg4.cloudfront.net/10001/99951442/hls/8-9-6766.m3u8?ads.xumo_channelId=99951442&ads._fw_ifa_type=&ads._fw_did=eeb8ecfa-90d4-4b9a-b4f6-2e30867798cf&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HasbroMyLittlePony&ads.csid=xumo_web_HasbroMyLittlePony_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4260&ads.xumo_contentName=HasbroMyLittlePony&ads.xumo_providerId=4260&ads.xumo_providerName=HasbroMyLittlePony&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951442&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
