@@ -12,7 +12,7 @@ https://embed-cloudfront.wistia.com/deliveries/7e4d14168a287ad00e7fdf7478c8d2850
 http://s5.alltvfree.com:8081/live/psmnews12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaajjeTV" tvg-name="Raajje TV" group-title="Hilay TV",Raajje TV
-https://stream.raajje.mv/live/rtv_live/index.m3u8
+https://1a-1791.com/live/4gf18j5s/slot-67/m1c8-wz34/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="SSTV" tvg-name="SSTV" group-title="Hilay TV",SSTV
 https://sunplay-cdn.bitratelabs.com/live/sstv-live/index.m3u8
@@ -57,7 +57,7 @@ http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=_WaX0yjYm0a-uhCN4k7NkQ
+/PeaceTvEnglish/index.m3u8?sid=G_EpMhB-ekipgx9eDVpptw
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -633,7 +633,7 @@ https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
 https://maldivesn.net/hilaytv/golazo
 
 #EXTINF:-1 tvg-id="events3" tvg-name="LIVE now" group-title="Hilay TV",LIVE now
-https://sunplay.b-cdn.net/sstv_extra/channel9/index.m3u8
+https://rumble.com/live-hls-dvr/6xmn0u/playlist.m3u8?level=1
 
 #EXTINF:-1 tvg-id="babyrhmes" tvg-name="My Little Pony" group-title="Hilay TV",My Little Pony
 https://dbrb49pjoymg4.cloudfront.net/10001/99951442/hls/8-9-6766.m3u8?ads.xumo_channelId=99951442&ads._fw_ifa_type=&ads._fw_did=eeb8ecfa-90d4-4b9a-b4f6-2e30867798cf&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HasbroMyLittlePony&ads.csid=xumo_web_HasbroMyLittlePony_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4260&ads.xumo_contentName=HasbroMyLittlePony&ads.xumo_providerId=4260&ads.xumo_providerName=HasbroMyLittlePony&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951442&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
