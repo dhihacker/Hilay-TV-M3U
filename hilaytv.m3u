@@ -57,7 +57,7 @@ http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=G_EpMhB-ekipgx9eDVpptw
+/PeaceTvEnglish/index.m3u8?sid=pr3r10c9dE64b_0wuxogiA
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -234,7 +234,7 @@ https://ott.udptv.xyz/stream/astro/astrosportsplus/master.m3u8?u=cocked&p=dd0abb
 https://af.ayassport.ir/hls2/ssc1.m3u8
 
 #EXTINF:-1 tvg-id="ssc2" tvg-name="SSC Sports 2" group-title="Hilay TV",SSC Sports 2
-http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=156500&extension=ts
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6654.m3u8
 
 #EXTINF:-1 tvg-id="ssc3" tvg-name="SSC Sports 3" group-title="Hilay TV",SSC Sports 3
 http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=156501&extension=ts
@@ -285,10 +285,10 @@ https://a1xs.vip/700008
 http://mains.services/live/bshorty/Zv5le07a0J/116070.ts
 
 #EXTINF:-1 tvg-id="starspselect1" tvg-name="Star Sports Select 1 HD" group-title="Hilay TV",Star Sports Select 1 HD
-https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3BvcnRhbC5wYXRlbDRrLmNvbS9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTo3NTpFNzo1MyIsInNuIjoiOEM2MjIyMTY4RjgzQSIsImRldmljZV9pZDEiOiI3NzNFQzgyNUQwRDhDOTIxMzlCRDU2NTQ4OTEwM0VBRjE2OTY5MzZFNjJBREI4NTE2RkU4MjA4OTY2QjlFQzc1IiwiZGV2aWNlX2lkMiI6Ijc3M0VDODI1RDBEOEM5MjEzOUJENTY1NDg5MTAzRUFGMTY5NjkzNkU2MkFEQjg1MTZGRTgyMDg5NjZCOUVDNzUiLCJzaWciOiIifQ%3D%3D&id=1444
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/472298.m3u8
 
 #EXTINF:-1 tvg-id="starspselect2" tvg-name="Star Sports Select 2 HD" group-title="Hilay TV",Star Sports Select 2 HD
-https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=397
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/783.m3u8
 
 #EXTINF:-1 tvg-id="starsp1" tvg-name="Star Sports 1 HD" group-title="Hilay TV",Star Sports 1 HD
 https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
@@ -333,16 +333,16 @@ http://fl25.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BeinSports" tvg-name="Bein Sports" group-title="Hilay TV",Bein Sports
-http://fl25.moveonjoy.com/BEIN_SPORTS/index.m3u8
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=25098
 
 #EXTINF:-1 tvg-id="BeinSports1" tvg-name="Bein Sports One" group-title="Hilay TV",Bein Sports One
-https://freelivtv.xyz/stream4k/stream.php?id=6902
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=594
 
 #EXTINF:-1 tvg-id="BeinSports2" tvg-name="Bein Sports Two" group-title="Hilay TV",Bein Sports Two
-https://freelivtv.xyz/stream4k/stream.php?id=6895
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=18269
 
 #EXTINF:-1 tvg-id="BeinSports3" tvg-name="Bein Sports Three" group-title="Hilay TV",Bein Sports Three
-https://freelivtv.xyz/stream4k/stream.php?id=476810
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=18314
 
 #EXTINF:-1 tvg-id="BeinSportsXtra" tvg-name="Bein Sports Xtra" group-title="Hilay TV",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
@@ -648,10 +648,10 @@ http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=1165778&extension=ts
 
 #EXTINF:-1 tvg-id="abudhabisp1" tvg-name="Abu Dhabi Sports 1" group-title="Hilay TV",Abu Dhabi Sports 1
-http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=625808&extension=ts
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/2719.m3u8
 
 #EXTINF:-1 tvg-id="abudhabisp2" tvg-name="Abu Dhabi Sports 2" group-title="Hilay TV",Abu Dhabi Sports 2
-http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=625809&extension=ts
+https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/2720.m3u8
 
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euro News" group-title="Hilay TV",Euro News
 https://aka-live1049.delivery.roku.com/f5af26d1-822b-43f3-93f4-2301a947e1f3/t2-origin/out/v1/live.m3u8
