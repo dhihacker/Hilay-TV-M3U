@@ -12,7 +12,7 @@ https://embed-cloudfront.wistia.com/deliveries/7e4d14168a287ad00e7fdf7478c8d2850
 http://s5.alltvfree.com:8081/live/psmnews12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaajjeTV" tvg-name="Raajje TV" group-title="Hilay TV",Raajje TV
-https://1a-1791.com/live/4gf18j5s/slot-67/m1c8-wz34/chunklist_DVR.m3u8
+https://1a-1791.com/live/y16rq9u0/slot-51/lyux-a0xp/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SSTV" tvg-name="SSTV" group-title="Hilay TV",SSTV
 https://sunplay-cdn.bitratelabs.com/live/sstv-live/index.m3u8
@@ -57,7 +57,7 @@ http://s5.alltvfree.com:8081/live/yestv/playlist.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=pr3r10c9dE64b_0wuxogiA
+/PeaceTvEnglish/index.m3u8?sid=pi7EK5w8nUK0jJWxnl8Xtg
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
