@@ -3,7 +3,7 @@
 # https://hilaytv.vercel.app/
 
 #EXTINF:-1 tvg-id="TVMaldives" tvg-name="TV Maldives" group-title="Hilay TV",TV Maldives
-https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-129/j0qf-2vbw_1080p/chunklist_DVR.m3u8
+https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-129/eyl6-zlou_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="MMTV" tvg-name="MM TV" group-title="Hilay TV",MM TV
 https://embed-cloudfront.wistia.com/deliveries/7e4d14168a287ad00e7fdf7478c8d2850ba8f4ca.m3u8
@@ -12,7 +12,7 @@ https://embed-cloudfront.wistia.com/deliveries/7e4d14168a287ad00e7fdf7478c8d2850
 http://s5.alltvfree.com:8081/live/psmnews12/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaajjeTV" tvg-name="Raajje TV" group-title="Hilay TV",Raajje TV
-https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-51/lyux-a0xp/chunklist.m3u8
+https://stream.raajje.mv/live/rtv_live/index.m3u8
 
 #EXTINF:-1 tvg-id="SSTV" tvg-name="SSTV" group-title="Hilay TV",SSTV
 https://sunplay-cdn.bitratelabs.com/live/sstv-live/index.m3u8
@@ -57,7 +57,7 @@ https://1a-1791.com/live/kd32s8ur/slot-93/8a7v-hhvg/chunklist.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=MNKYvw9Y_kOYM9as7ry_2g
+/PeaceTvEnglish/index.m3u8?sid=K3-O6y2V_EyAfTN6Wh6JEg
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
