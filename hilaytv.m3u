@@ -45,19 +45,19 @@ https://cheddar-us.samsung.wurl.tv/playlist.m3u8
 http://s5.alltvfree.com:8081/live/munnaaru1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DhaarisTV" tvg-name="Dhaaris TV" group-title="Hilay TV",Dhaaris TV
-https://1a-1791.com/live/t5qc33px/slot-59/nodu-5bfm/chunklist.m3u8
+https://1a-1791.com/live/hr6yv36f/slot-39/c3o4-45cl_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="Channel13" tvg-name="Channel 13" group-title="Hilay TV",Channel 13
 https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
 
 #EXTINF:-1 tvg-id="Yes" tvg-name="YES TV" group-title="Hilay TV",YES TV
-https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-93/8a7v-hhvg_1080p/chunklist.m3u8
+http://ott.neongreenlight.com:2912/memfs/63b33b85-d7de-45ae-ba18-e910319a10df.m3u8
 
 #EXTINF:-1 tvg-id="SanguTV" tvg-name="Sangu TV" group-title="Hilay TV",Sangu TV
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=dG1jyOuaR0m6Mmb7CKZpqg
+/PeaceTvEnglish/index.m3u8?sid=W8d35CSBy0WrWHCSrxeIlQ
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -132,7 +132,7 @@ https://freelivtv.xyz/oppu/oppu.php?id=109957
 https://freelivtv.xyz/oppu/oppu.php?id=104194
 
 #EXTINF:-1 tvg-id="Starplus" tvg-name="Star Plus HD" group-title="Hilay TV",Star Plus HD
-https://freelivtv.xyz/oppu/oppu.php?id=66208
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=103
 
 #EXTINF:-1 tvg-id="StarGold" tvg-name="Star Gold HD" group-title="Hilay TV",Star Gold HD
 https://freelivtv.xyz/oppu/oppu.php?id=66178
@@ -213,13 +213,13 @@ https://stream1.freetv.fun/4a0980bf103670f7b41255f098c534877efeac1a02e3282253779
 http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=1163683&extension=ts
 
 #EXTINF:-1 tvg-id="Sonyten1" tvg-name="SONY SPORTS TEN 1 HD" group-title="Hilay TV",SONY SPORTS TEN 1 HD
-https://freelivtv.xyz/oppu/oppu.php?id=109983
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=23817
 
 #EXTINF:-1 tvg-id="Sonyten2" tvg-name="SONY SPORTS TEN 2 HD" group-title="Hilay TV",SONY SPORTS TEN 2 HD
-https://freelivtv.xyz/oppu/oppu.php?id=109984
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=23818
 
 #EXTINF:-1 tvg-id="Sonyten3" tvg-name="SONY SPORTS TEN 3 HD" group-title="Hilay TV",SONY SPORTS TEN 3 HD
-https://freelivtv.xyz/oppu/oppu.php?id=109985
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=23819
 
 #EXTINF:-1 tvg-id="Sonyten4" tvg-name="SONY SPORTS TEN 4 HD" group-title="Hilay TV",SONY SPORTS TEN 4 HD
 https://freelivtv.xyz/oppu/oppu.php?id=167595
@@ -609,7 +609,7 @@ https://cloudflare.tv/hls/live.m3u8
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:D6:C2:2B&stream=106609&extension=ts
 
 #EXTINF:-1 tvg-id="staruk" tvg-name="Star Plus UK" group-title="Hilay TV",Star Plus UK
-https://freelivtv.xyz/oppu/oppu.php?id=388691
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3NreS5kaXR0b3R2di5jYy9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTo1ODoyNzo0NCIsInNuIjoiREYwQTlCNTY3QThBRCIsImRldmljZV9pZDEiOiIzOUI4QURBRjJCMkJGODc3MzYwOTUwRkIxOEI5QjVDRDYzNDhBNTlDMjdCOUU1RDUwNjQyREU1QTNGRjYzMDI1IiwiZGV2aWNlX2lkMiI6IjM5QjhBREFGMkIyQkY4NzczNjA5NTBGQjE4QjlCNUNENjM0OEE1OUMyN0I5RTVENTA2NDJERTVBM0ZGNjMwMjUiLCJzaWciOiIifQ%3D%3D&id=1430
 
 #EXTINF:-1 tvg-id="zeeuk" tvg-name="Shemaroo Bollywood" group-title="Hilay TV",Shemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/f5c67a7c-ee7f-41bd-92c9-bbf9de32c363/0.m3u8
