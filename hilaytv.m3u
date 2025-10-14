@@ -6,10 +6,10 @@
 https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-69/rw6o-epmz_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="MMTV" tvg-name="MM TV" group-title="Hilay TV",MM TV
-https://embed-cloudfront.wistia.com/deliveries/7e4d14168a287ad00e7fdf7478c8d2850ba8f4ca.m3u8
+https://sendlive.online/hls/mmtv.m3u8
 
 #EXTINF:-1 tvg-id="PSM" tvg-name="PSM NEWS" group-title="Hilay TV",PSM NEWS
-http://s5.alltvfree.com:8081/live/psmnews12/playlist.m3u8
+--
 
 #EXTINF:-1 tvg-id="RaajjeTV" tvg-name="Raajje TV" group-title="Hilay TV",Raajje TV
 https://stream.raajje.mv/live/rtv_live/index.m3u8
@@ -42,7 +42,7 @@ https://6fae2fb516504b2eaa11e5eb1e48bf1c.mediatailor.us-east-1.amazonaws.com/v1/
 https://cheddar-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Munnaaru" tvg-name="Munnaaru TV" group-title="Hilay TV",Munnaaru TV
-http://s5.alltvfree.com:8081/live/munnaaru1/playlist.m3u8
+---
 
 #EXTINF:-1 tvg-id="DhaarisTV" tvg-name="Dhaaris TV" group-title="Hilay TV",Dhaaris TV
 https://1a-1791.com/live/hr6yv36f/slot-39/c3o4-45cl_1080p/chunklist_DVR.m3u8
@@ -51,13 +51,13 @@ https://1a-1791.com/live/hr6yv36f/slot-39/c3o4-45cl_1080p/chunklist_DVR.m3u8
 https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
 
 #EXTINF:-1 tvg-id="Yes" tvg-name="YES TV" group-title="Hilay TV",YES TV
-http://ott.neongreenlight.com:2912/memfs/63b33b85-d7de-45ae-ba18-e910319a10df.m3u8
+-
 
 #EXTINF:-1 tvg-id="SanguTV" tvg-name="Sangu TV" group-title="Hilay TV",Sangu TV
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=W8d35CSBy0WrWHCSrxeIlQ
+/PeaceTvEnglish/index.m3u8?sid=zceunB0HvE28s9AqQaRiVQ
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
