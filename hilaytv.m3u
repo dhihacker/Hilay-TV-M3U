@@ -3,7 +3,7 @@
 # https://hilaytv.vercel.app/
 
 #EXTINF:-1 tvg-id="TVMaldives" tvg-name="TV Maldives" group-title="Hilay TV",TV Maldives
-https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-139/z6a0-y9ye_1080p/chunklist_DVR.m3u8
+https://hugh.cdn.rumble.cloud/live/d5a20b4d/slot-71/uvxu-qmyx_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="MMTV" tvg-name="MM TV" group-title="Hilay TV",MM TV
 https://sendlive.online/hls/mmtv.m3u8
@@ -57,7 +57,7 @@ http://xui.neongreenlight.com:80/hileytv/hileytv/801.ts
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=4jRq8n_gdUyIyL5n2msT-g
+/PeaceTvEnglish/index.m3u8?sid=7uBnK1afWEWgdxZUDHnRFQ
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
