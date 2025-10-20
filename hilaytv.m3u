@@ -45,7 +45,7 @@ https://cheddar-us.samsung.wurl.tv/playlist.m3u8
 http://xui.neongreenlight.com:80/hileytv/hileytv/802.ts
 
 #EXTINF:-1 tvg-id="DhaarisTV" tvg-name="Dhaaris TV" group-title="Hilay TV",Dhaaris TV
-https://1a-1791.com/live/dn14c9xg/live-hls/ggtg-3y6t/chunklist_i1_DVR.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760935795/ei/E2v1aKXcKs-RssUPvv-O6A4/ip/115.99.175.62/id/orn806_rqbg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSWCl5-NM1XiiUq7r7-1oHVcNLbj3qaWotENlvz-ergzl_jPzausCJ5x2HHuMpBZeCLWcdZlzI9t/spc/hcYD5fABUo0m3Xj7I0d5fJVqYhWLEGR3bdTvCByE47k4lSfj5ps7CF3ckirCFJ-sQPEc_B7ntG4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPHHfh1AV-reWAlVzbKsJmdMc6XTmA-id2jJeUia8zvUAiA5hm68bJKvQjf9e6F_NQKaulo5J1-o-bUbVG_MTxPFoA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="Channel13" tvg-name="Channel 13" group-title="Hilay TV",Channel 13
 https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
@@ -57,7 +57,7 @@ https://1a-1791.com/live/t34ch9px/live-hls/vnsj-xy96/chunklist_i1_DVR.m3u8
 http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=T2JsgVS-VEarg7i08NdeeQ
+/PeaceTvEnglish/index.m3u8?sid=KDPzZPVuo0GQGVCCJJjMEg
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -537,7 +537,7 @@ https://maldivesn.net/hilaytv/wellbeingtv
 http://fl7.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" group-title="Hilay TV",Discovery Science
-http://fl7.moveonjoy.com/Discovery_Science/index.m3u8
+http://clarotv7.com/live/508373667/k717x9942z/21297.m3u8
 
 #EXTINF:-1 tvg-id="investigationdiscovery" tvg-name="Investigation Discovery" group-title="Hilay TV",Investigation Discovery
 http://fl7.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
@@ -627,7 +627,7 @@ https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlc
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="events1" tvg-name="LIVE EVENTS 1" group-title="Hilay TV",LIVE EVENTS 1
-https://freelivtv.xyz/oppu/oppu.php?id=109984
+http://clarotv7.com/live/508373667/k717x9942z/234275.m3u8
 
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
 https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
