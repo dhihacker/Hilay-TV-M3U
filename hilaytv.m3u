@@ -3,7 +3,7 @@
 # https://hilaytv.vercel.app/
 
 #EXTINF:-1 tvg-id="TVMaldives" tvg-name="TV Maldives" group-title="Hilay TV",TV Maldives
-https://rumble.com/live-hls-dvr/6ydxym/playlist.m3u8
+https://rumble.com/live-hls-dvr/6yer12/playlist.m3u8?level=1
 
 #EXTINF:-1 tvg-id="MMTV" tvg-name="MM TV" group-title="Hilay TV",MM TV
 https://sendlive.online/hls/mmtv.m3u8
@@ -45,7 +45,7 @@ https://cheddar-us.samsung.wurl.tv/playlist.m3u8
 http://xui.neongreenlight.com:80/hileytv/hileytv/802.ts
 
 #EXTINF:-1 tvg-id="DhaarisTV" tvg-name="Dhaaris TV" group-title="Hilay TV",Dhaaris TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760935795/ei/E2v1aKXcKs-RssUPvv-O6A4/ip/115.99.175.62/id/orn806_rqbg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSWCl5-NM1XiiUq7r7-1oHVcNLbj3qaWotENlvz-ergzl_jPzausCJ5x2HHuMpBZeCLWcdZlzI9t/spc/hcYD5fABUo0m3Xj7I0d5fJVqYhWLEGR3bdTvCByE47k4lSfj5ps7CF3ckirCFJ-sQPEc_B7ntG4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPHHfh1AV-reWAlVzbKsJmdMc6XTmA-id2jJeUia8zvUAiA5hm68bJKvQjf9e6F_NQKaulo5J1-o-bUbVG_MTxPFoA%3D%3D/file/index.m3u8
+https://rumble.com/live-hls-dvr/6ycqws/playlist.m3u8?level=1
 
 #EXTINF:-1 tvg-id="Channel13" tvg-name="Channel 13" group-title="Hilay TV",Channel 13
 https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
@@ -54,10 +54,10 @@ https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9b
 https://1a-1791.com/live/t34ch9px/live-hls/vnsj-xy96/chunklist_i1_DVR.m3u8
 
 #EXTINF:-1 tvg-id="SanguTV" tvg-name="Sangu TV" group-title="Hilay TV",Sangu TV
-http://s5.alltvfree.com:8081/live/sangu/playlist.m3u8
+https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-109/9lvz-kljs_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=YFou3iqlb0KjYJ5whfUnlA
+/PeaceTvEnglish/index.m3u8?sid=qTxD_x5ToUCeo-wdi6xCyw
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -213,19 +213,19 @@ https://stream1.freetv.fun/4a0980bf103670f7b41255f098c534877efeac1a02e3282253779
 http://premium-ott4k.xyz:80/play/live.php?mac=00:1A:79:81:5B:16&stream=1163683&extension=ts
 
 #EXTINF:-1 tvg-id="Sonyten1" tvg-name="SONY SPORTS TEN 1 HD" group-title="Hilay TV",SONY SPORTS TEN 1 HD
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/473383.m3u8
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnN0cmVhbTRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5Ojk3OjFDOjFCIiwic24iOiIwMDoxQTo3OTo5NzoxQzoxQiIsImRldmljZV9pZDEiOiIwODdGQzNEMkY4NzEyOUU4MUUwMzYyREQ1NURFMTg1MTA4QTdBNDg5MDYzNTFBRkZDODc3MjgzREY4ODFDOEQzIiwiZGV2aWNlX2lkMiI6IjA4N0ZDM0QyRjg3MTI5RTgxRTAzNjJERDU1REUxODUxMDhBN0E0ODkwNjM1MUFGRkM4NzcyODNERjg4MUM4RDMiLCJzaWciOiIifQ%3D%3D&id=777
 
 #EXTINF:-1 tvg-id="Sonyten2" tvg-name="SONY SPORTS TEN 2 HD" group-title="Hilay TV",SONY SPORTS TEN 2 HD
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/473384.m3u8
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnN0cmVhbTRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5Ojk3OjFDOjFCIiwic24iOiIwMDoxQTo3OTo5NzoxQzoxQiIsImRldmljZV9pZDEiOiIwODdGQzNEMkY4NzEyOUU4MUUwMzYyREQ1NURFMTg1MTA4QTdBNDg5MDYzNTFBRkZDODc3MjgzREY4ODFDOEQzIiwiZGV2aWNlX2lkMiI6IjA4N0ZDM0QyRjg3MTI5RTgxRTAzNjJERDU1REUxODUxMDhBN0E0ODkwNjM1MUFGRkM4NzcyODNERjg4MUM4RDMiLCJzaWciOiIifQ%3D%3D&id=778
 
 #EXTINF:-1 tvg-id="Sonyten3" tvg-name="SONY SPORTS TEN 3 HD" group-title="Hilay TV",SONY SPORTS TEN 3 HD
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/473385.m3u8
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnN0cmVhbTRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5Ojk3OjFDOjFCIiwic24iOiIwMDoxQTo3OTo5NzoxQzoxQiIsImRldmljZV9pZDEiOiIwODdGQzNEMkY4NzEyOUU4MUUwMzYyREQ1NURFMTg1MTA4QTdBNDg5MDYzNTFBRkZDODc3MjgzREY4ODFDOEQzIiwiZGV2aWNlX2lkMiI6IjA4N0ZDM0QyRjg3MTI5RTgxRTAzNjJERDU1REUxODUxMDhBN0E0ODkwNjM1MUFGRkM4NzcyODNERjg4MUM4RDMiLCJzaWciOiIifQ%3D%3D&id=779
 
 #EXTINF:-1 tvg-id="Sonyten4" tvg-name="SONY SPORTS TEN 4 HD" group-title="Hilay TV",SONY SPORTS TEN 4 HD
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/473386.m3u8
 
 #EXTINF:-1 tvg-id="Sonyten5" tvg-name="SONY SPORTS TEN 5 HD" group-title="Hilay TV",SONY SPORTS TEN 5 HD
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/476849.m3u8
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnN0cmVhbTRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5Ojk3OjFDOjFCIiwic24iOiIwMDoxQTo3OTo5NzoxQzoxQiIsImRldmljZV9pZDEiOiIwODdGQzNEMkY4NzEyOUU4MUUwMzYyREQ1NURFMTg1MTA4QTdBNDg5MDYzNTFBRkZDODc3MjgzREY4ODFDOEQzIiwiZGV2aWNlX2lkMiI6IjA4N0ZDM0QyRjg3MTI5RTgxRTAzNjJERDU1REUxODUxMDhBN0E0ODkwNjM1MUFGRkM4NzcyODNERjg4MUM4RDMiLCJzaWciOiIifQ%3D%3D&id=476849
 
 #EXTINF:-1 tvg-id="AstroSportsPlus" tvg-name="Astro Sports Plus" group-title="Hilay TV",Astro Sports Plus
 https://ott.udptv.xyz/stream/astro/astrosportsplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
@@ -297,7 +297,7 @@ https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/472295.m3u8
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/472297.m3u8
 
 #EXTINF:-1 tvg-id="premiersp1" tvg-name="Premier Sports One" group-title="Hilay TV",Premier Sports One
-http://mains.services/live/pmf0423/1aku0jt%40/a2de5c34-7664-4983-996d-aef9744e8ea5.m3u
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LmZ1c2lvbjRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAxOjA3Iiwic24iOiJFRDU5QUYzMUZERDExIiwiZGV2aWNlX2lkMSI6IjYzQjg5MjgzREE0RDAyQzExM0JFMEUwRjlCOUFCN0IyMjEwRDYyQUJBMzYxMUIxQ0FFMTk1ODBENjYwOEEwMjUiLCJkZXZpY2VfaWQyIjoiNjNCODkyODNEQTREMDJDMTEzQkUwRTBGOUI5QUI3QjIyMTBENjJBQkEzNjExQjFDQUUxOTU4MEQ2NjA4QTAyNSIsInNpZyI6IiJ9&id=8698
 
 #EXTINF:-1 tvg-id="premiersp2" tvg-name="Premier Sports Two" group-title="Hilay TV",Premier Sports Two
 http://mains.services/live/pmf0423/1aku0jt%40/f5453f84-b9c5-4541-aada-319183ca88c8.m3u
@@ -399,7 +399,7 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
 
 #EXTINF:-1 tvg-id="Cartoonnetwork" tvg-name="Cartoon Network US" group-title="Hilay TV",Cartoon Network US
-https://fl41.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+http://clarotv7.com/live/508373667/k717x9942z/285592.m3u8
 
 #EXTINF:-1 tvg-id="Moonbug" tvg-name="Moonbug kids" group-title="Hilay TV",Moonbug kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
@@ -627,13 +627,13 @@ https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlc
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="events1" tvg-name="LIVE EVENTS 1" group-title="Hilay TV",LIVE EVENTS 1
-http://clarotv7.com/live/508373667/k717x9942z/234275.m3u8
+http://109.61.81.147:1935/cdn7/5668/mpegts?token=82a39af7ff7687971215ec4ad951e4d8
 
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
-https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LmZ1c2lvbjRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAxOjA3Iiwic24iOiJFRDU5QUYzMUZERDExIiwiZGV2aWNlX2lkMSI6IjYzQjg5MjgzREE0RDAyQzExM0JFMEUwRjlCOUFCN0IyMjEwRDYyQUJBMzYxMUIxQ0FFMTk1ODBENjYwOEEwMjUiLCJkZXZpY2VfaWQyIjoiNjNCODkyODNEQTREMDJDMTEzQkUwRTBGOUI5QUI3QjIyMTBENjJBQkEzNjExQjFDQUUxOTU4MEQ2NjA4QTAyNSIsInNpZyI6IiJ9&id=8846
 
 #EXTINF:-1 tvg-id="events3" tvg-name="LIVE now" group-title="Hilay TV",LIVE now
-https://a1xs.vip/140002
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LmZ1c2lvbjRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAxOjA3Iiwic24iOiJFRDU5QUYzMUZERDExIiwiZGV2aWNlX2lkMSI6IjYzQjg5MjgzREE0RDAyQzExM0JFMEUwRjlCOUFCN0IyMjEwRDYyQUJBMzYxMUIxQ0FFMTk1ODBENjYwOEEwMjUiLCJkZXZpY2VfaWQyIjoiNjNCODkyODNEQTREMDJDMTEzQkUwRTBGOUI5QUI3QjIyMTBENjJBQkEzNjExQjFDQUUxOTU4MEQ2NjA4QTAyNSIsInNpZyI6IiJ9&id=8948
 
 #EXTINF:-1 tvg-id="babyrhmes" tvg-name="My Little Pony" group-title="Hilay TV",My Little Pony
 https://dbrb49pjoymg4.cloudfront.net/10001/99951442/hls/8-9-6766.m3u8?ads.xumo_channelId=99951442&ads._fw_ifa_type=&ads._fw_did=eeb8ecfa-90d4-4b9a-b4f6-2e30867798cf&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HasbroMyLittlePony&ads.csid=xumo_web_HasbroMyLittlePony_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4260&ads.xumo_contentName=HasbroMyLittlePony&ads.xumo_providerId=4260&ads.xumo_providerName=HasbroMyLittlePony&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951442&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
