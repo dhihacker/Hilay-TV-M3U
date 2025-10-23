@@ -3,7 +3,7 @@
 # https://hilaytv.vercel.app/
 
 #EXTINF:-1 tvg-id="TVMaldives" tvg-name="TV Maldives" group-title="Hilay TV",TV Maldives
-https://rumble.com/live-hls-dvr/6yer12/playlist.m3u8?level=1
+http://xui.neongreenlight.com/hileytv/hileytv/799.ts
 
 #EXTINF:-1 tvg-id="MMTV" tvg-name="MM TV" group-title="Hilay TV",MM TV
 https://sendlive.online/hls/mmtv.m3u8
@@ -45,19 +45,19 @@ https://cheddar-us.samsung.wurl.tv/playlist.m3u8
 http://xui.neongreenlight.com:80/hileytv/hileytv/802.ts
 
 #EXTINF:-1 tvg-id="DhaarisTV" tvg-name="Dhaaris TV" group-title="Hilay TV",Dhaaris TV
-https://rumble.com/live-hls-dvr/6ycqws/playlist.m3u8?level=1
+https://rumble.com/live-hls-dvr/6yfx08/playlist.m3u8?level=1
 
 #EXTINF:-1 tvg-id="Channel13" tvg-name="Channel 13" group-title="Hilay TV",Channel 13
 https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
 
 #EXTINF:-1 tvg-id="Yes" tvg-name="YES TV" group-title="Hilay TV",YES TV
-https://1a-1791.com/live/t34ch9px/live-hls/vnsj-xy96/chunklist_i1_DVR.m3u8
+http://xui.neongreenlight.com:80/hileytv/hileytv/801.ts
 
 #EXTINF:-1 tvg-id="SanguTV" tvg-name="Sangu TV" group-title="Hilay TV",Sangu TV
-https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-109/9lvz-kljs_1080p/chunklist_DVR.m3u8
+https://hugh.cdn.rumble.cloud/live/gke17oc4/slot-153/2xof-0ocl_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=qTxD_x5ToUCeo-wdi6xCyw
+/PeaceTvEnglish/index.m3u8?sid=VHZjmjrSOkyiEQNpQDiWsA
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
