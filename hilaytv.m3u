@@ -51,13 +51,13 @@ http://xui.neongreenlight.com:80/hileytv/hileytv/810.ts
 https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
 
 #EXTINF:-1 tvg-id="Yes" tvg-name="YES TV" group-title="Hilay TV",YES TV
-http://xui.neongreenlight.com:80/hileytv/hileytv/801.ts
-
-#EXTINF:-1 tvg-id="SanguTV" tvg-name="Sangu TV" group-title="Hilay TV",Sangu TV
 https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-123/d0qf-57xd_1080p/chunklist_DVR.m3u8
 
+#EXTINF:-1 tvg-id="SanguTV" tvg-name="Sangu TV" group-title="Hilay TV",Sangu TV
+--
+
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=SabOrTVrfk2YhF21poJ5Fg
+/PeaceTvEnglish/index.m3u8?sid=b_S2YplRXEmRXKZhOwThkw
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -141,7 +141,7 @@ https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3172.m3u8
 https://ranapk-me-awcu.spidy.online/XTM/VOCO/play.php?id=694101
 
 #EXTINF:-1 tvg-id="colourshd" tvg-name="Colors HD" group-title="Hilay TV",Colors HD
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3089.m3u8
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=106
 
 #EXTINF:-1 tvg-id="Zeetvhd" tvg-name="Zee TV HD" group-title="Hilay TV",Zee TV HD
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/3094.m3u8
