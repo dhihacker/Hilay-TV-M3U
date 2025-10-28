@@ -42,10 +42,10 @@ https://6fae2fb516504b2eaa11e5eb1e48bf1c.mediatailor.us-east-1.amazonaws.com/v1/
 https://cheddar-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Munnaaru" tvg-name="Munnaaru TV" group-title="Hilay TV",Munnaaru TV
-http://xui.neongreenlight.com:80/hileytv/hileytv/802.ts
+http://ott.neongreenlight.com:2912/memfs/696889c1-3297-42a1-9bf1-029307453a40.m3u8
 
 #EXTINF:-1 tvg-id="DhaarisTV" tvg-name="Dhaaris TV" group-title="Hilay TV",Dhaaris TV
-http://xui.neongreenlight.com:80/hileytv/hileytv/810.ts
+http://ott.neongreenlight.com:2912/memfs/19129c84-4890-4539-9339-8508fa0882e3.m3u8
 
 #EXTINF:-1 tvg-id="Channel13" tvg-name="Channel 13" group-title="Hilay TV",Channel 13
 https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
@@ -54,10 +54,10 @@ https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9b
 http://ott.neongreenlight.com:2912/memfs/f85d13f8-b6f4-40cf-8a21-138084859af6.m3u8
 
 #EXTINF:-1 tvg-id="SanguTV" tvg-name="Sangu TV" group-title="Hilay TV",Sangu TV
-https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-153/icig-kiml_1080p/chunklist_DVR.m3u8
+https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-103/uvem-02xw_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=jGPsWIE2pU-XVtD0VfWjcQ
+/PeaceTvEnglish/index.m3u8?sid=T_2gnS0MOUO8kbJhVl5Hzg
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -168,7 +168,7 @@ https://jmp2.uk/stvp-INBD4700015M0
 https://jmp2.uk/stvp-USBB1000002TK
 
 #EXTINF:-1 tvg-id="WorldFishingNet" tvg-name="World Fishing Network" group-title="Hilay TV",World Fishing Network
-https://fl41.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="AlQuranTV" tvg-name="Saudi Quran TV" group-title="Hilay TV",Saudi Quran TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
@@ -201,7 +201,7 @@ https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VH1" tvg-name="VH1 TV" group-title="Hilay TV",VH1 TV
-https://fl41.moveonjoy.com/VH1/index.m3u8
+https://fl1.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="mplus" tvg-name="M+ HD" group-title="Hilay TV",M+ HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/fc0417c9-0ecd-4f3d-8040-1702a7b48eb4/0.m3u8
@@ -297,10 +297,10 @@ https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/472295.m3u8
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/472297.m3u8
 
 #EXTINF:-1 tvg-id="premiersp1" tvg-name="Premier Sports One" group-title="Hilay TV",Premier Sports One
-https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LmZ1c2lvbjRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAxOjA3Iiwic24iOiJFRDU5QUYzMUZERDExIiwiZGV2aWNlX2lkMSI6IjYzQjg5MjgzREE0RDAyQzExM0JFMEUwRjlCOUFCN0IyMjEwRDYyQUJBMzYxMUIxQ0FFMTk1ODBENjYwOEEwMjUiLCJkZXZpY2VfaWQyIjoiNjNCODkyODNEQTREMDJDMTEzQkUwRTBGOUI5QUI3QjIyMTBENjJBQkEzNjExQjFDQUUxOTU4MEQ2NjA4QTAyNSIsInNpZyI6IiJ9&id=8698
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LmZ1c2lvbjRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAxOjA3Iiwic24iOiJFRDU5QUYzMUZERDExIiwiZGV2aWNlX2lkMSI6IjYzQjg5MjgzREE0RDAyQzExM0JFMEUwRjlCOUFCN0IyMjEwRDYyQUJBMzYxMUIxQ0FFMTk1ODBENjYwOEEwMjUiLCJkZXZpY2VfaWQyIjoiNjNCODkyODNEQTREMDJDMTEzQkUwRTBGOUI5QUI3QjIyMTBENjJBQkEzNjExQjFDQUUxOTU4MEQ2NjA4QTAyNSIsInNpZyI6IiJ9&id=8699
 
 #EXTINF:-1 tvg-id="premiersp2" tvg-name="Premier Sports Two" group-title="Hilay TV",Premier Sports Two
-http://mains.services/live/pmf0423/1aku0jt%40/f5453f84-b9c5-4541-aada-319183ca88c8.m3u
+https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LmZ1c2lvbjRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAxOjA3Iiwic24iOiJFRDU5QUYzMUZERDExIiwiZGV2aWNlX2lkMSI6IjYzQjg5MjgzREE0RDAyQzExM0JFMEUwRjlCOUFCN0IyMjEwRDYyQUJBMzYxMUIxQ0FFMTk1ODBENjYwOEEwMjUiLCJkZXZpY2VfaWQyIjoiNjNCODkyODNEQTREMDJDMTEzQkUwRTBGOUI5QUI3QjIyMTBENjJBQkEzNjExQjFDQUUxOTU4MEQ2NjA4QTAyNSIsInNpZyI6IiJ9&id=8701
 
 #EXTINF:-1 tvg-id="Golazo" tvg-name="CBS Golazo Network" group-title="Hilay TV",CBS Golazo Network
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7elivestitch/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291880-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=38bc0031-c914-4d68-b55f-12d8ef870e44&profilesFromStream=true
@@ -324,10 +324,10 @@ https://ott.udptv.xyz/stream/astro/lovenature4k/master.m3u8?u=cocked&p=dd0abb527
 https://jmp2.uk/stvp-IN300000210
 
 #EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" group-title="Hilay TV",National Geographic
-https://fl41.moveonjoy.com/National_Geographic/index.m3u8
+https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 
 #EXTINF:-1 tvg-id="NatWild" tvg-name="National Geographic Wild" group-title="Hilay TV",National Geographic Wild
-https://fl41.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
 #EXTINF:-1 tvg-id="DesignNetwork" tvg-name="The Design Network" group-title="Hilay TV",The Design Network
 https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
@@ -363,19 +363,19 @@ https://a1xs.vip/2000023
 https://a1xs.vip/2000024
 
 #EXTINF:-1 tvg-id="USA" tvg-name="USA Network East" group-title="Hilay TV",USA Network East
-https://a1xs.vip/1100020
+https://depawali.riobucky17.workers.dev/?id=353
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Hilay TV",ESPN
 https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=14459
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="Hilay TV",ESPN 2
-https://fl41.moveonjoy.com/ESPN_2/index.m3u8
+https://fl1.moveonjoy.com/ESPN_2/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPN U" group-title="Hilay TV",ESPN U
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNNews" tvg-name="ESPN NEWS" group-title="Hilay TV",ESPN NEWS
-https://fl41.moveonjoy.com/ESPN_NEWS/index.m3u8
+https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1" tvg-name="Fox Sports One" group-title="Hilay TV",Fox Sports One
 https://7pal.short.gy/fs1us
@@ -405,43 +405,43 @@ http://clarotv7.com/live/508373667/k717x9942z/285592.m3u8
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel" group-title="Hilay TV",Disney Channel
-https://fl41.moveonjoy.com/DISNEY/index.m3u8
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Junior" group-title="Hilay TV",Disney Junior
-https://fl41.moveonjoy.com/DISNEY_JR/index.m3u8
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" group-title="Hilay TV",Disney XD
-https://fl41.moveonjoy.com/DISNEY_XD/index.m3u8
+https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" group-title="Hilay TV",Boomerang
-https://fl41.moveonjoy.com/BOOMERANG/index.m3u8
+https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="Hilay TV",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" group-title="Hilay TV",Nicktoons
-https://fl41.moveonjoy.com/NICKTOONS/index.m3u8
+https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" group-title="Hilay TV",Nick Jr
-https://fl41.moveonjoy.com/NICK_JR/index.m3u8
+https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="PBSKids" tvg-name="PBS Kids" group-title="Hilay TV",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOfamily" tvg-name="HBO Family" group-title="Hilay TV",HBO Family
-https://fl41.moveonjoy.com/HBO_FAMILY/index.m3u8
+https://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Hilay TV",HBO
-https://fl41.moveonjoy.com/HBO/index.m3u8
+https://fl1.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO Comedy" group-title="Hilay TV",HBO Comedy
-https://fl41.moveonjoy.com/HBO_COMEDY/index.m3u8
+https://fl1.moveonjoy.com/HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOZone" tvg-name="HBO Zone" group-title="Hilay TV",HBO Zone
-https://fl41.moveonjoy.com/HBO_ZONE/index.m3u8
+https://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" group-title="Hilay TV",HBO 2
-https://fl41.moveonjoy.com/HBO_2/index.m3u8
+https://fl1.moveonjoy.com/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-id="boxgamers" tvg-name="Box Gamers" group-title="Hilay TV",Box Gamers
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/N2IXYNBLLX4DWYFU7VAP/hls3/now,-1m/m.m3u8
@@ -477,7 +477,7 @@ https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/1138.m3u8
 https://ott.udptv.xyz/stream/astro/astrosportsuhd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #EXTINF:-1 tvg-id="usawest" tvg-name="USA Network West" group-title="Hilay TV",USA Network West
-https://a1xs.vip/1100020
+https://depawali.riobucky17.workers.dev/?id=353
 
 #EXTINF:-1 tvg-id="astropl1" tvg-name="Astro Premier League 1" group-title="Hilay TV",Astro Premier League 1
 https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LnB1c2g0ay50di9zdGFsa2VyX3BvcnRhbC8iLCJtYWMiOiIwMDoxQTo3OTowNDo0MjpDOSIsInNuIjoiQkJBQUZERTg3NDg1MCIsImRldmljZV9pZDEiOiJEMDlBNDM1Mzk2QUFGRTRBNkQ0NjMyQUQzNDQwOTNEM0M3OTYyNzA0NEI4NUNFNDkyNDFFNjlGRjEwRTE5RkJGIiwiZGV2aWNlX2lkMiI6IkQwOUE0MzUzOTZBQUZFNEE2RDQ2MzJBRDM0NDA5M0QzQzc5NjI3MDQ0Qjg1Q0U0OTI0MUU2OUZGMTBFMTlGQkYiLCJzaWciOiIifQ%3D%3D&id=16126
@@ -510,10 +510,10 @@ https://portal-to-m3u-07.iptv07india.workers.dev/?id=5548
 https://portal-to-m3u-07.iptv07india.workers.dev/?id=5534
 
 #EXTINF:-1 tvg-id="sonymovie" tvg-name="Sony Movie Channel" group-title="Hilay TV",Sony Movie Channel
-http://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="param" tvg-name="Paramount Network" group-title="Hilay TV",Paramount Network
-http://fl7.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="boxingtv" tvg-name="Boxing TV" group-title="Hilay TV",Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/bxntv.m3u8
@@ -534,40 +534,40 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951268/hls/playlist.m3u8?ads.xumo_c
 https://maldivesn.net/hilaytv/wellbeingtv
 
 #EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" group-title="Hilay TV",Discovery Channel
-https://fl41.moveonjoy.com/Discovery_Channel/index.m3u8
+https://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" group-title="Hilay TV",Discovery Science
 http://clarotv7.com/live/508373667/k717x9942z/21297.m3u8
 
 #EXTINF:-1 tvg-id="investigationdiscovery" tvg-name="Investigation Discovery" group-title="Hilay TV",Investigation Discovery
-https://fl41.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
+https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="discoverylife" tvg-name="Discovery Life" group-title="Hilay TV",Discovery Life
-https://fl41.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+https://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
 #EXTINF:-1 tvg-id="tlc" tvg-name="Discovery TLC" group-title="Hilay TV",Discovery TLC
-https://fl41.moveonjoy.com/TLC/index.m3u8
+https://fl1.moveonjoy.com/TLC/index.m3u8
 
 #EXTINF:-1 tvg-id="animalplanet" tvg-name="Discovery Animal Planet" group-title="Hilay TV",Discovery Animal Planet
-https://fl41.moveonjoy.com/Animal_Planet/index.m3u8
+https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryfamily" tvg-name="Discovery Family Channel" group-title="Hilay TV",Discovery Family Channel
-https://fl41.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="history" tvg-name="History Channel" group-title="Hilay TV",History Channel
-https://fl41.moveonjoy.com/history_channel/index.m3u8
+https://fl1.moveonjoy.com/history_channel/index.m3u8
 
 #EXTINF:-1 tvg-id="smithsonian" tvg-name="Smithsonian Channel" group-title="Hilay TV",Smithsonian Channel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f21ea08007a49000762d349/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="travelch" tvg-name="Travel Channel" group-title="Hilay TV",Travel Channel
-https://fl41.moveonjoy.com/Travel_Channel/index.m3u8
+https://fl1.moveonjoy.com/Travel_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="abcaustralia" tvg-name="Australia News" group-title="Hilay TV",Australia News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1 tvg-id="hallmarkfamily" tvg-name="Hallmark Family" group-title="Hilay TV",Hallmark Family
-https://fl41.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
+https://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
 #EXTINF:-1 tvg-id="swar" tvg-name="Swarnavahini" group-title="Hilay TV",Swarnavahini
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8
@@ -582,13 +582,13 @@ https://d2396zb8liu8hs.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="foodnetwork" tvg-name="Food Network" group-title="Hilay TV",Food Network
-https://fl41.moveonjoy.com/FOOD_NETWORK/index.m3u8
+https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="tntultimate" tvg-name="TNT Sports Ultimate UHD" group-title="Hilay TV",TNT Sports Ultimate UHD
 https://a1xs.vip/2000031
 
 #EXTINF:-1 tvg-id="malikutv" tvg-name="Maliku TV" group-title="Hilay TV",Maliku TV
-https://hugh.cdn.rumble.cloud/live/r31jzt5k/live-hls/sk53-g0ex/chunklist_i1_DVR.m3u8
+https://rumble.com/hls-vod/6ybqyi/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ddsports" tvg-name="DD Sports" group-title="Hilay TV",DD Sports
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3a330290-aff5-4ddd-88ea-994a73c5f2d8/4.m3u8
@@ -627,19 +627,19 @@ https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlc
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="events1" tvg-name="LIVE EVENTS 1" group-title="Hilay TV",LIVE EVENTS 1
-http://clarotv7.com/live/508373667/k717x9942z/284584.m3u8
+http://clarotv7.com/live/508373667/k717x9942z/234253.m3u8
 
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
 https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LmZ1c2lvbjRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAxOjA3Iiwic24iOiJFRDU5QUYzMUZERDExIiwiZGV2aWNlX2lkMSI6IjYzQjg5MjgzREE0RDAyQzExM0JFMEUwRjlCOUFCN0IyMjEwRDYyQUJBMzYxMUIxQ0FFMTk1ODBENjYwOEEwMjUiLCJkZXZpY2VfaWQyIjoiNjNCODkyODNEQTREMDJDMTEzQkUwRTBGOUI5QUI3QjIyMTBENjJBQkEzNjExQjFDQUUxOTU4MEQ2NjA4QTAyNSIsInNpZyI6IiJ9&id=8846
 
-#EXTINF:-1 tvg-id="events3" tvg-name="LIVE now" group-title="Hilay TV",LIVE now
+#EXTINF:-1 tvg-id="events3" tvg-name="LLIVE EVENTS 3" group-title="Hilay TV",LLIVE EVENTS 3
 http://clarotv7.com/live/508373667/k717x9942z/234267.m3u8
 
 #EXTINF:-1 tvg-id="babyrhmes" tvg-name="My Little Pony" group-title="Hilay TV",My Little Pony
 https://dbrb49pjoymg4.cloudfront.net/10001/99951442/hls/8-9-6766.m3u8?ads.xumo_channelId=99951442&ads._fw_ifa_type=&ads._fw_did=eeb8ecfa-90d4-4b9a-b4f6-2e30867798cf&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HasbroMyLittlePony&ads.csid=xumo_web_HasbroMyLittlePony_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4260&ads.xumo_contentName=HasbroMyLittlePony&ads.xumo_providerId=4260&ads.xumo_providerName=HasbroMyLittlePony&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951442&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
 
 #EXTINF:-1 tvg-id="cookingch" tvg-name="Cooking Channel" group-title="Hilay TV",Cooking Channel
-https://fl41.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="arabica" tvg-name="Arabica TV" group-title="Hilay TV",Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
