@@ -9,7 +9,7 @@ http://ott.neongreenlight.com:2912/memfs/4e2e99af-e830-43d0-a37f-09f951edb7ee.m3
 https://sendlive.online/hls/mmtv.m3u8
 
 #EXTINF:-1 tvg-id="PSM" tvg-name="PSM NEWS" group-title="Hilay TV",PSM NEWS
-http://xui.neongreenlight.com:80/hileytv/hileytv/800.ts
+http://ott.neongreenlight.com:2912/memfs/0eed00cc-81a2-4e57-b3fc-70f0c0870700.m3u8
 
 #EXTINF:-1 tvg-id="RaajjeTV" tvg-name="Raajje TV" group-title="Hilay TV",Raajje TV
 https://stream.raajje.mv/live/rtv_live/index.m3u8
@@ -54,10 +54,10 @@ https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9b
 http://ott.neongreenlight.com:2912/memfs/f85d13f8-b6f4-40cf-8a21-138084859af6.m3u8
 
 #EXTINF:-1 tvg-id="SanguTV" tvg-name="Sangu TV" group-title="Hilay TV",Sangu TV
-https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-103/uvem-02xw_1080p/chunklist_DVR.m3u8
+https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-103/d2h7-rkci_1080p/chunklist_DVR.m3u8
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=T_2gnS0MOUO8kbJhVl5Hzg
+/PeaceTvEnglish/index.m3u8?sid=1a8ZsH2OZUuNwjVzpXRAww
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -252,7 +252,7 @@ https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=771
 https://a1xs.vip/2000015
 
 #EXTINF:-1 tvg-id="SkySportsPLNZ" tvg-name="Sky Sports Premier League UHD" group-title="Hilay TV",Sky Sports Premier League UHD
-http://mains.services/live/pmf0423/1aku0jt%40/116069.ts
+http://fast-smartplus.com/live/443432469215731/4362020837/808739.ts
 
 #EXTINF:-1 tvg-id="SkyF1UHD" tvg-name="Sky Sports F1 UHD" group-title="Hilay TV",Sky Sports F1 UHD
 https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LmZ1c2lvbjRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAxOjA3Iiwic24iOiJFRDU5QUYzMUZERDExIiwiZGV2aWNlX2lkMSI6IjYzQjg5MjgzREE0RDAyQzExM0JFMEUwRjlCOUFCN0IyMjEwRDYyQUJBMzYxMUIxQ0FFMTk1ODBENjYwOEEwMjUiLCJkZXZpY2VfaWQyIjoiNjNCODkyODNEQTREMDJDMTEzQkUwRTBGOUI5QUI3QjIyMTBENjJBQkEzNjExQjFDQUUxOTU4MEQ2NjA4QTAyNSIsInNpZyI6IiJ9&id=8831
@@ -627,7 +627,7 @@ https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlc
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="events1" tvg-name="LIVE EVENTS 1" group-title="Hilay TV",LIVE EVENTS 1
-http://clarotv7.com/live/508373667/k717x9942z/234253.m3u8
+https://depawali.riobucky17.workers.dev/?id=1731
 
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
 https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LmZ1c2lvbjRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAxOjA3Iiwic24iOiJFRDU5QUYzMUZERDExIiwiZGV2aWNlX2lkMSI6IjYzQjg5MjgzREE0RDAyQzExM0JFMEUwRjlCOUFCN0IyMjEwRDYyQUJBMzYxMUIxQ0FFMTk1ODBENjYwOEEwMjUiLCJkZXZpY2VfaWQyIjoiNjNCODkyODNEQTREMDJDMTEzQkUwRTBGOUI5QUI3QjIyMTBENjJBQkEzNjExQjFDQUUxOTU4MEQ2NjA4QTAyNSIsInNpZyI6IiJ9&id=8846
