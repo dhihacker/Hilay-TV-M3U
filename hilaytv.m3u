@@ -3,31 +3,31 @@
 # https://hilaytv.vercel.app/
 
 #EXTINF:-1 tvg-id="TVMaldives" tvg-name="TV Maldives" group-title="Hilay TV",TV Maldives
-http://ott.neongreenlight.com:2912/memfs/4e2e99af-e830-43d0-a37f-09f951edb7ee.m3u8
+https://hilay.tv/l/tvm
 
 #EXTINF:-1 tvg-id="MMTV" tvg-name="MM TV" group-title="Hilay TV",MM TV
-https://sendlive.online/hls/mmtv.m3u8
+https://hilay.tv/l/hilaytv/mmtv
 
 #EXTINF:-1 tvg-id="PSM" tvg-name="PSM NEWS" group-title="Hilay TV",PSM NEWS
-http://ott.neongreenlight.com:2912/memfs/0eed00cc-81a2-4e57-b3fc-70f0c0870700.m3u8
+https://hilay.tv/l/hilaytv/psmnews
 
 #EXTINF:-1 tvg-id="RaajjeTV" tvg-name="Raajje TV" group-title="Hilay TV",Raajje TV
-https://stream.raajje.mv/live/rtv_live/index.m3u8
+https://hilay.tv/l/hilaytv/raajjetv
 
 #EXTINF:-1 tvg-id="SSTV" tvg-name="SSTV" group-title="Hilay TV",SSTV
-https://sunplay-cdn.bitratelabs.com/live/sstv-live/index.m3u8
+https://hilay.tv/l/hilaytv/sstv
 
 #EXTINF:-1 tvg-id="RelaxTV" tvg-name="Relax TV" group-title="Hilay TV",Relax TV
-https://serv1.vlix.io/media/videos/h264/4c30cad7b1f0935cd62a.mp4
+https://hilay.tv/l/hilaytv/relaxtv
 
 #EXTINF:-1 tvg-id="vom" tvg-name="Dhivehi Rajjeyge Adu - Radio" group-title="Hilay TV",Dhivehi Rajjeyge Adu - Radio
-https://radio.psm.mv/draair
+https://hilay.tv/l/hilaytv/vom
 
 #EXTINF:-1 tvg-id="dfm" tvg-name="Dhivehi FM - Radio " group-title="Hilay TV",Dhivehi FM - Radio 
-https://radio.psm.mv/fmair
+https://hilay.tv/l/dhivehifm
 
 #EXTINF:-1 tvg-id="dheenugeadu" tvg-name="Dheenuge Adu Radio" group-title="Hilay TV",Dheenuge Adu Radio
-https://radio.psm.mv/dheenugeaduair
+https://hilay.tv/l/dheenugeadu
 
 #EXTINF:-1 tvg-id="vtv" tvg-name="VTV" group-title="Hilay TV",VTV
 https://sstv.ssplay.mv/hls/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
@@ -42,22 +42,22 @@ https://6fae2fb516504b2eaa11e5eb1e48bf1c.mediatailor.us-east-1.amazonaws.com/v1/
 https://cheddar-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Munnaaru" tvg-name="Munnaaru TV" group-title="Hilay TV",Munnaaru TV
-http://ott.neongreenlight.com:2912/memfs/696889c1-3297-42a1-9bf1-029307453a40.m3u8
+https://hilay.tv/l/munnaaruhilay
 
 #EXTINF:-1 tvg-id="DhaarisTV" tvg-name="Dhaaris TV" group-title="Hilay TV",Dhaaris TV
-http://ott.neongreenlight.com:2912/memfs/19129c84-4890-4539-9339-8508fa0882e3.m3u8
+https://hilay.tv/l/dhaaris
 
 #EXTINF:-1 tvg-id="Channel13" tvg-name="Channel 13" group-title="Hilay TV",Channel 13
 https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
 
 #EXTINF:-1 tvg-id="Yes" tvg-name="YES TV" group-title="Hilay TV",YES TV
-http://ott.neongreenlight.com:2912/memfs/f85d13f8-b6f4-40cf-8a21-138084859af6.m3u8
+https://hilay.tv/l/hilaytv/yeshilay
 
 #EXTINF:-1 tvg-id="SanguTV" tvg-name="Sangu TV" group-title="Hilay TV",Sangu TV
-https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-103/d2h7-rkci_1080p/chunklist_DVR.m3u8
+https://hilay.tv/l/sangutv
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=1a8ZsH2OZUuNwjVzpXRAww
+/PeaceTvEnglish/index.m3u8?sid=kJZGKPHwVEW_VAhKjRtbyw
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -588,7 +588,7 @@ https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 https://a1xs.vip/2000031
 
 #EXTINF:-1 tvg-id="malikutv" tvg-name="Maliku TV" group-title="Hilay TV",Maliku TV
-https://rumble.com/hls-vod/6ybqyi/playlist.m3u8
+https://hilay.tv/l/malikutv
 
 #EXTINF:-1 tvg-id="ddsports" tvg-name="DD Sports" group-title="Hilay TV",DD Sports
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/3a330290-aff5-4ddd-88ea-994a73c5f2d8/4.m3u8
@@ -627,13 +627,13 @@ https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlc
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-id="events1" tvg-name="LIVE EVENTS 1" group-title="Hilay TV",LIVE EVENTS 1
-https://depawali.riobucky17.workers.dev/?id=1731
+https://hilay.tv/l/hilaytv/events1
 
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
-https://uxplaylists-portalizer.stevosure123.workers.dev/?c=eyJtb2RlIjoic3RhbGtlciIsInN0YWxrZXJfdXJsIjoiaHR0cDovL3R2LmZ1c2lvbjRrLmNjL3N0YWxrZXJfcG9ydGFsLyIsIm1hYyI6IjAwOjFBOjc5OjAwOjAxOjA3Iiwic24iOiJFRDU5QUYzMUZERDExIiwiZGV2aWNlX2lkMSI6IjYzQjg5MjgzREE0RDAyQzExM0JFMEUwRjlCOUFCN0IyMjEwRDYyQUJBMzYxMUIxQ0FFMTk1ODBENjYwOEEwMjUiLCJkZXZpY2VfaWQyIjoiNjNCODkyODNEQTREMDJDMTEzQkUwRTBGOUI5QUI3QjIyMTBENjJBQkEzNjExQjFDQUUxOTU4MEQ2NjA4QTAyNSIsInNpZyI6IiJ9&id=8846
+https://hilay.tv/l/hilaytv/events2
 
 #EXTINF:-1 tvg-id="events3" tvg-name="LLIVE EVENTS 3" group-title="Hilay TV",LLIVE EVENTS 3
-http://clarotv7.com/live/508373667/k717x9942z/234267.m3u8
+https://hilay.tv/l/hilaytv/events3
 
 #EXTINF:-1 tvg-id="babyrhmes" tvg-name="My Little Pony" group-title="Hilay TV",My Little Pony
 https://dbrb49pjoymg4.cloudfront.net/10001/99951442/hls/8-9-6766.m3u8?ads.xumo_channelId=99951442&ads._fw_ifa_type=&ads._fw_did=eeb8ecfa-90d4-4b9a-b4f6-2e30867798cf&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=HasbroMyLittlePony&ads.csid=xumo_web_HasbroMyLittlePony_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=1&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4260&ads.xumo_contentName=HasbroMyLittlePony&ads.xumo_providerId=4260&ads.xumo_providerName=HasbroMyLittlePony&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951442&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
@@ -645,7 +645,7 @@ https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="Hilay TV",AXN
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6480.m3u8
+https://maldivesn.net/hilaytv/axn
 
 #EXTINF:-1 tvg-id="abudhabisp1" tvg-name="Abu Dhabi Sports 1" group-title="Hilay TV",Abu Dhabi Sports 1
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/2719.m3u8
