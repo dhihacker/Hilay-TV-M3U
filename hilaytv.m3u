@@ -57,7 +57,7 @@ https://hilay.tv/l/hilaytv/yeshilay
 https://hilay.tv/l/sangutv
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=LlWUNDG8JE-zOVY53TLEIQ
+/PeaceTvEnglish/index.m3u8?sid=gClidE0ClkWqiHiKcvAE8g
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -645,7 +645,7 @@ https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="Hilay TV",AXN
-https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/6480.m3u8
+https://maldivesn.net/hilaytv/axn
 
 #EXTINF:-1 tvg-id="abudhabisp1" tvg-name="Abu Dhabi Sports 1" group-title="Hilay TV",Abu Dhabi Sports 1
 https://crimson-sea-7857.aayushmansinghrajpurohit95.workers.dev/2719.m3u8
