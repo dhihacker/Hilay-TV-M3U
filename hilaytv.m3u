@@ -36,7 +36,7 @@ https://sstv.ssplay.mv/hls/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/in
 https://hilay.tv/l/skysportsnews
 
 #EXTINF:-1 tvg-id="Bloomburg" tvg-name="Bloomberg UHD" group-title="Hilay TV",Bloomberg UHD
-https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8?ads.device_did%3D%7BPSID%7D%26ads.device_dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D
+https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8
 
 #EXTINF:-1 tvg-id="Cheddar" tvg-name="Cheddar News HD" group-title="Hilay TV",Cheddar News HD
 https://hilay.tv/l/cheddarnews
@@ -57,7 +57,7 @@ https://hilay.tv/l/yeshilay
 https://hilay.tv/l/sangutv
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=w_tQp4uQJUG07fUibyUOWA
+/PeaceTvEnglish/index.m3u8?sid=B2lj95LN1UegwFRhyB56FA
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
