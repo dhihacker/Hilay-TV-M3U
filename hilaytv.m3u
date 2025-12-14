@@ -3,19 +3,19 @@
 # https://hilaytv.vercel.app/
 
 #EXTINF:-1 tvg-id="TVMaldives" tvg-name="TV Maldives FHD" group-title="Hilay TV",TV Maldives FHD
-https://hilay.tv/l/tvm
+https://hugh.cdn.rumble.cloud/live/u7gf26qm/live-hls/n7vr-2k6k/chunklist_i1.m3u8
 
 #EXTINF:-1 tvg-id="MMTV" tvg-name="MM TV" group-title="Hilay TV",MM TV
-https://hilay.tv/l/mmtv
+https://sendlive.online/hls/mmtv.m3u8
 
 #EXTINF:-1 tvg-id="PSM" tvg-name="PSM NEWS" group-title="Hilay TV",PSM NEWS
 https://hilay.tv/l/psmnews
 
 #EXTINF:-1 tvg-id="RaajjeTV" tvg-name="Raajje TV SD" group-title="Hilay TV",Raajje TV SD
-https://hilay.tv/l/raajjetv
+https://stream.raajje.mv/live/rtv_live/index.m3u8
 
 #EXTINF:-1 tvg-id="SSTV" tvg-name="SSTV" group-title="Hilay TV",SSTV
-https://hilay.tv/l/sstv
+https://sunplay-cdn.bitratelabs.com/live/sstv-live/index.m3u8
 
 #EXTINF:-1 tvg-id="RelaxTV" tvg-name="Relax TV" group-title="Hilay TV",Relax TV
 https://hilay.tv/l/relaxtv
@@ -57,7 +57,7 @@ https://hilay.tv/l/yeshilay
 https://hilay.tv/l/sangutv
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=dEI1SI6iDEyEMxar5yFMaw
+/PeaceTvEnglish/index.m3u8?sid=SltTtrFYp0ah2a_dfenfaw
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -588,7 +588,7 @@ https://hilay.tv/l/foodnetwork
 https://hilay.tv/l/tntultimateuhd
 
 #EXTINF:-1 tvg-id="malikutv" tvg-name="Maliku TV" group-title="Hilay TV",Maliku TV
-https://hilay.tv/l/malikutv
+https://hugh.cdn.rumble.cloud/live/k5e12sb4/live-hls/yzp5-rw3e/chunklist_i1_DVR.m3u8
 
 #EXTINF:-1 tvg-id="ddsports" tvg-name="DD Sports" group-title="Hilay TV",DD Sports
 https://hilay.tv/l/ddsports
