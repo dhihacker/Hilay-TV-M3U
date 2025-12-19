@@ -32,9 +32,6 @@ https://hilay.tv/l/dheenugeadu
 #EXTINF:-1 tvg-id="vtv" tvg-name="VTV" group-title="Hilay TV",VTV
 https://sstv.ssplay.mv/hls/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8
 
-#EXTINF:-1 tvg-id="SkyNewsSports" tvg-name="Sky Sports News" group-title="Hilay TV",Sky Sports News
-https://hilay.tv/l/skysportsnews
-
 #EXTINF:-1 tvg-id="Bloomburg" tvg-name="Bloomberg UHD" group-title="Hilay TV",Bloomberg UHD
 https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8
 
@@ -57,7 +54,7 @@ https://hilay.tv/l/yeshilay
 https://hilay.tv/l/sangutv
 
 #EXTINF:-1 tvg-id="Peacetv" tvg-name="Peace TV HD" group-title="Hilay TV",Peace TV HD
-/PeaceTvEnglish/index.m3u8?sid=4mGGH_S4HEK2Ij9hyUUeTQ
+/PeaceTvEnglish/index.m3u8?sid=hHTXOi-NpUucbMEPaEBL7A
 
 #EXTINF:-1 tvg-id="Reuters" tvg-name="Reuters TV" group-title="Hilay TV",Reuters TV
 https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
@@ -68,29 +65,11 @@ https://hilay.tv/l/aljazeeraenaws
 #EXTINF:-1 tvg-id="AlMayadeen" tvg-name="Al Mayadeen TV" group-title="Hilay TV",Al Mayadeen TV
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN International" group-title="Hilay TV",CNN International
-https://hilay.tv/l/cnninternational
-
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC World" group-title="Hilay TV",BBC World
 https://hilay.tv/l/bbcuk
 
 #EXTINF:-1 tvg-id="RT" tvg-name="RT International" group-title="Hilay TV",RT International
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Kix" tvg-name="Arirang Korea" group-title="Hilay TV",Arirang Korea
-https://hilay.tv/l/arirang
-
-#EXTINF:-1 tvg-id="Kplus" tvg-name="KPOP+" group-title="Hilay TV",KPOP+
-https://hilay.tv/l/kpopplus
-
-#EXTINF:-1 tvg-id="KBSWorld" tvg-name="KBS World" group-title="Hilay TV",KBS World
-https://hilay.tv/l/kbsworld
-
-#EXTINF:-1 tvg-id="FashionTV" tvg-name="Fashion TV" group-title="Hilay TV",Fashion TV
-https://hilay.tv/l/fashiontvhd
-
-#EXTINF:-1 tvg-id="FashionTVUHD" tvg-name="Fashion TV 4K" group-title="Hilay TV",Fashion TV 4K
-https://hilay.tv/l/fashiontv4k
 
 #EXTINF:-1 tvg-id="GBNews" tvg-name="GB News" group-title="Hilay TV",GB News
 https://amg01076-lightningintern-gbnewsnz-samsungnz-rlcsd.amagi.tv/playlist/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
@@ -122,275 +101,11 @@ https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeInfo" tvg-name="TV5 Monde Info" group-title="Hilay TV",TV5 Monde Info
 https://hilay.tv/l/tv5mondeinfo
 
-#EXTINF:-1 tvg-id="SonyKal" tvg-name="Sony Kal US" group-title="Hilay TV",Sony Kal US
-https://hilay.tv/l/sonykal
-
-#EXTINF:-1 tvg-id="SonyMax" tvg-name="Sony MAX HD" group-title="Hilay TV",Sony MAX HD
-https://hilay.tv/l/sonysatmax
-
-#EXTINF:-1 tvg-id="SonySab" tvg-name="Sony SAB HD" group-title="Hilay TV",Sony SAB HD
-https://hilay.tv/l/sonysab
-
-#EXTINF:-1 tvg-id="Starplus" tvg-name="Star Plus HD" group-title="Hilay TV",Star Plus HD
-https://hilay.tv/l/starplus
-
-#EXTINF:-1 tvg-id="StarGold" tvg-name="Star Gold HD" group-title="Hilay TV",Star Gold HD
-https://hilay.tv/l/stargold
-
-#EXTINF:-1 tvg-id="Starbharat" tvg-name="Star Bharat HD" group-title="Hilay TV",Star Bharat HD
-https://hilay.tv/l/starbharat
-
-#EXTINF:-1 tvg-id="colourshd" tvg-name="Colors HD" group-title="Hilay TV",Colors HD
-https://hilay.tv/l/colors
-
-#EXTINF:-1 tvg-id="Zeetvhd" tvg-name="Zee TV HD" group-title="Hilay TV",Zee TV HD
-https://hilay.tv/l/zeetv
-
-#EXTINF:-1 tvg-id="zeecinema" tvg-name="Zee Bollywood" group-title="Hilay TV",Zee Bollywood
-https://hilay.tv/l/zeebollywood
-
-#EXTINF:-1 tvg-id="stargoldsel" tvg-name="Star Gold Select HD" group-title="Hilay TV",Star Gold Select HD
-https://hilay.tv/l/stargoldselect
-
-#EXTINF:-1 tvg-id="SEThd" tvg-name="Sony TV HD" group-title="Hilay TV",Sony TV HD
-https://hilay.tv/l/sonytvhd
-
-#EXTINF:-1 tvg-id="MTVbeatshd" tvg-name="MTV Music LIVE" group-title="Hilay TV",MTV Music LIVE
-https://hilay.tv/l/mtvlive
-
-#EXTINF:-1 tvg-id="MTVHD" tvg-name="MTV HD" group-title="Hilay TV",MTV HD
-https://hilay.tv/l/mtvplus
-
-#EXTINF:-1 tvg-id="musicindia" tvg-name="Music India" group-title="Hilay TV",Music India
-https://hilay.tv/l/musicindia
-
-#EXTINF:-1 tvg-id="Loupe4k" tvg-name="Loupe 4K" group-title="Hilay TV",Loupe 4K
-https://hilay.tv/l/loupe4k
-
-#EXTINF:-1 tvg-id="WorldFishingNet" tvg-name="World Fishing Network" group-title="Hilay TV",World Fishing Network
-https://hilay.tv/l/worldfishingnet
-
 #EXTINF:-1 tvg-id="AlQuranTV" tvg-name="Saudi Quran TV" group-title="Hilay TV",Saudi Quran TV
 https://hilay.tv/l/quruantv
 
 #EXTINF:-1 tvg-id="Islamch" tvg-name="Islam Channel UK" group-title="Hilay TV",Islam Channel UK
 https://hilay.tv/l/islamch
-
-#EXTINF:-1 tvg-id="TraceSportsStars" tvg-name="Trace Sport Stars" group-title="Hilay TV",Trace Sport Stars
-http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TraceUrbanMusic" tvg-name="Trace Urban Music" group-title="Hilay TV",Trace Urban Music
-https://hilay.tv/l/traceurbanmusic
-
-#EXTINF:-1 tvg-id="traceuk" tvg-name="Trace UK Music" group-title="Hilay TV",Trace UK Music
-https://hilay.tv/l/traceuk
-
-#EXTINF:-1 tvg-id="balle" tvg-name="Balle Balle" group-title="Hilay TV",Balle Balle
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/30a793e7-6de0-4725-afd4-ebc856ab2a02/2.m3u8
-
-#EXTINF:-1 tvg-id="9xjalwa" tvg-name="9x Jalwa" group-title="Hilay TV",9x Jalwa
-https://hilay.tv/l/9xjalwa
-
-#EXTINF:-1 tvg-id="hindihits" tvg-name="Hindi Hits HD" group-title="Hilay TV",Hindi Hits HD
-https://hilay.tv/l/hindihits
-
-#EXTINF:-1 tvg-id="E24" tvg-name="E 24" group-title="Hilay TV",E 24
-https://hilay.tv/l/e24
-
-#EXTINF:-1 tvg-id="CountryMusic" tvg-name="The Country Network" group-title="Hilay TV",The Country Network
-https://hilay.tv/l/thecountrymusic
-
-#EXTINF:-1 tvg-id="VH1" tvg-name="VH1 TV" group-title="Hilay TV",VH1 TV
-https://hilay.tv/l/vh1
-
-#EXTINF:-1 tvg-id="mplus" tvg-name="M+ HD" group-title="Hilay TV",M+ HD
-https://hilay.tv/l/mplus
-
-#EXTINF:-1 tvg-id="AstroSports" tvg-name="Astro Football" group-title="Hilay TV",Astro Football
-https://hilay.tv/l/astrofootball
-
-#EXTINF:-1 tvg-id="astropl2" tvg-name="Astro Premier League 2" group-title="Hilay TV",Astro Premier League 2
-https://hilay.tv/l/astropremierleague2
-
-#EXTINF:-1 tvg-id="Sonyten1" tvg-name="SONY SPORTS TEN 1 HD" group-title="Hilay TV",SONY SPORTS TEN 1 HD
-https://hilay.tv/l/sonyten1
-
-#EXTINF:-1 tvg-id="Sonyten2" tvg-name="SONY SPORTS TEN 2 HD" group-title="Hilay TV",SONY SPORTS TEN 2 HD
-https://hilay.tv/l/sonyten2
-
-#EXTINF:-1 tvg-id="Sonyten3" tvg-name="SONY SPORTS TEN 3 HD" group-title="Hilay TV",SONY SPORTS TEN 3 HD
-https://hilay.tv/l/sonyten3
-
-#EXTINF:-1 tvg-id="Sonyten4" tvg-name="SONY SPORTS TEN 4 HD" group-title="Hilay TV",SONY SPORTS TEN 4 HD
-https://hilay.tv/l/sonyten4
-
-#EXTINF:-1 tvg-id="Sonyten5" tvg-name="SONY SPORTS TEN 5 HD" group-title="Hilay TV",SONY SPORTS TEN 5 HD
-https://hilay.tv/l/sonyten5
-
-#EXTINF:-1 tvg-id="AstroSportsPlus" tvg-name="Astro Sports Plus" group-title="Hilay TV",Astro Sports Plus
-https://hilay.tv/l/astrosportsplus
-
-#EXTINF:-1 tvg-id="ssc1" tvg-name="SSC Sports 1" group-title="Hilay TV",SSC Sports 1
-https://hilay.tv/l/ssc1
-
-#EXTINF:-1 tvg-id="ssc2" tvg-name="SSC Sports 2" group-title="Hilay TV",SSC Sports 2
-https://hilay.tv/l/ssc2
-
-#EXTINF:-1 tvg-id="ssc3" tvg-name="SSC Sports 3" group-title="Hilay TV",SSC Sports 3
-https://hilay.tv/l/ssc3
-
-#EXTINF:-1 tvg-id="ssc4" tvg-name="SSC Sports 4" group-title="Hilay TV",SSC Sports 4
-https://hilay.tv/l/ssc4
-
-#EXTINF:-1 tvg-id="ssc5" tvg-name="SSC Sports 5" group-title="Hilay TV",SSC Sports 5
-https://hilay.tv/l/ssc5
-
-#EXTINF:-1 tvg-id="SkySportsME" tvg-name="Sky Sports Main Event HD" group-title="Hilay TV",Sky Sports Main Event HD
-https://hilay.tv/l/skysportsmaineventud
-
-#EXTINF:-1 tvg-id="SkySportsMEUHD" tvg-name="Sky Sports Main Event UHD" group-title="Hilay TV",Sky Sports Main Event UHD
-https://hilay.tv/l/skysportsmaineventuhd
-
-#EXTINF:-1 tvg-id="SkySportsPLNZ" tvg-name="Sky Sports Premier League UHD" group-title="Hilay TV",Sky Sports Premier League UHD
-http://chunkymunky.site/live/jsYSS7uA/fZ7Fgq8/236298.ts
-
-#EXTINF:-1 tvg-id="SkyF1UHD" tvg-name="Sky Sports F1 UHD" group-title="Hilay TV",Sky Sports F1 UHD
-https://hilay.tv/l/skyf1uhd
-
-#EXTINF:-1 tvg-id="SkySports1" tvg-name="Sky Sports 1 FHD" group-title="Hilay TV",Sky Sports 1 FHD
-https://hilay.tv/l/skysportsnz1
-
-#EXTINF:-1 tvg-id="SkySports2" tvg-name="Sky Sports 2 FHD" group-title="Hilay TV",Sky Sports 2 FHD
-https://hilay.tv/l/skysportsnz2
-
-#EXTINF:-1 tvg-id="SkySports3" tvg-name="Sky Sports 3 FHD" group-title="Hilay TV",Sky Sports 3 FHD
-https://hilay.tv/l/skysportsnz3
-
-#EXTINF:-1 tvg-id="SkySports4" tvg-name="Sky Sports 4 FHD" group-title="Hilay TV",Sky Sports 4 FHD
-https://hilay.tv/l/skysportsnz4
-
-#EXTINF:-1 tvg-id="SkySports5" tvg-name="Sky Sports 5 FHD" group-title="Hilay TV",Sky Sports 5 FHD
-https://hilay.tv/l/skysportsnz5
-
-#EXTINF:-1 tvg-id="SkySports6" tvg-name="Sky Sports 6 FHD" group-title="Hilay TV",Sky Sports 6 FHD
-https://hilay.tv/l/skysportsnz6
-
-#EXTINF:-1 tvg-id="SkySports7" tvg-name="Sky Sports 7 FHD" group-title="Hilay TV",Sky Sports 7 FHD
-https://hilay.tv/l/skysportsnz7
-
-#EXTINF:-1 tvg-id="SkySports8" tvg-name="Sky Sports 8 FHD" group-title="Hilay TV",Sky Sports 8 FHD
-https://hilay.tv/l/skysportsnz8
-
-#EXTINF:-1 tvg-id="SkySports9" tvg-name="Sky Sports 9 FHD" group-title="Hilay TV",Sky Sports 9 FHD
-https://hilay.tv/l/skysportsnz9
-
-#EXTINF:-1 tvg-id="starspselect1" tvg-name="Star Sports Select 1 HD" group-title="Hilay TV",Star Sports Select 1 HD
-https://hilay.tv/l/starsportsselect1
-
-#EXTINF:-1 tvg-id="starspselect2" tvg-name="Star Sports Select 2 HD" group-title="Hilay TV",Star Sports Select 2 HD
-https://hilay.tv/l/starsportsselect2
-
-#EXTINF:-1 tvg-id="starsp1" tvg-name="Star Sports 1 HD" group-title="Hilay TV",Star Sports 1 HD
-https://hilay.tv/l/starsports1
-
-#EXTINF:-1 tvg-id="starsp2" tvg-name="Star Sports 2 HD" group-title="Hilay TV",Star Sports 2 HD
-https://hilay.tv/l/starsports2
-
-#EXTINF:-1 tvg-id="premiersp1" tvg-name="Premier Sports One" group-title="Hilay TV",Premier Sports One
-https://hilay.tv/l/premiersports1
-
-#EXTINF:-1 tvg-id="premiersp2" tvg-name="Premier Sports Two" group-title="Hilay TV",Premier Sports Two
-https://hilay.tv/l/premiersports2
-
-#EXTINF:-1 tvg-id="Golazo" tvg-name="CBS Golazo Network" group-title="Hilay TV",CBS Golazo Network
-https://hilay.tv/l/golazo
-
-#EXTINF:-1 tvg-id="SuperLaliga" tvg-name="Fuel TV" group-title="Hilay TV",Fuel TV
-https://hilay.tv/l/fueltv
-
-#EXTINF:-1 tvg-id="dazn2" tvg-name="DAZN TV" group-title="Hilay TV",DAZN TV
-https://hilay.tv/l/dazntv
-
-#EXTINF:-1 tvg-id="daznlaliga2" tvg-name="Ryz Sports network" group-title="Hilay TV",Ryz Sports network
-https://hilay.tv/l/ryzsportsnetwork
-
-#EXTINF:-1 tvg-id="daznf1" tvg-name="DAZN Women's Football" group-title="Hilay TV",DAZN Women's Football
-https://hilay.tv/l/daznwomenfootball
-
-#EXTINF:-1 tvg-id="LoveNature4K" tvg-name="Love Nature 4K" group-title="Hilay TV",Love Nature 4K
-https://hilay.tv/l/lovenature4k
-
-#EXTINF:-1 tvg-id="TravelXP4k" tvg-name="Travel XP" group-title="Hilay TV",Travel XP
-https://hilay.tv/l/travelxp
-
-#EXTINF:-1 tvg-id="NatGeo" tvg-name="National Geographic" group-title="Hilay TV",National Geographic
-https://hilay.tv/l/natgeo
-
-#EXTINF:-1 tvg-id="NatWild" tvg-name="National Geographic Wild" group-title="Hilay TV",National Geographic Wild
-https://hilay.tv/l/natgeowild
-
-#EXTINF:-1 tvg-id="DesignNetwork" tvg-name="The Design Network" group-title="Hilay TV",The Design Network
-https://hilay.tv/l/designnetwork
-
-#EXTINF:-1 tvg-id="BeinSports" tvg-name="Bein Sports" group-title="Hilay TV",Bein Sports
-https://hilay.tv/l/beinsports
-
-#EXTINF:-1 tvg-id="BeinSports1" tvg-name="Bein Sports One" group-title="Hilay TV",Bein Sports One
-https://hilay.tv/l/bein1
-
-#EXTINF:-1 tvg-id="BeinSports2" tvg-name="Bein Sports Two" group-title="Hilay TV",Bein Sports Two
-https://hilay.tv/l/bein2
-
-#EXTINF:-1 tvg-id="BeinSports3" tvg-name="Bein Sports Three" group-title="Hilay TV",Bein Sports Three
-https://hilay.tv/l/bein3
-
-#EXTINF:-1 tvg-id="BeinSportsXtra" tvg-name="Bein Sports Xtra" group-title="Hilay TV",Bein Sports Xtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="nbcsportsnow" tvg-name="NBC Sports now" group-title="Hilay TV",NBC Sports now
-https://hilay.tv/l/nbcsportsnow
-
-#EXTINF:-1 tvg-id="TNTSports1" tvg-name="TNT Sports One UK" group-title="Hilay TV",TNT Sports One UK
-https://hilay.tv/l/tnt1
-
-#EXTINF:-1 tvg-id="TNTSports2" tvg-name="TNT Sports Two UK" group-title="Hilay TV",TNT Sports Two UK
-https://hilay.tv/l/tnt2
-
-#EXTINF:-1 tvg-id="TNTSports3" tvg-name="TNT Sports Three UK" group-title="Hilay TV",TNT Sports Three UK
-https://hilay.tv/l/tnt3
-
-#EXTINF:-1 tvg-id="TNTSports4" tvg-name="TNT Sports Four" group-title="Hilay TV",TNT Sports Four
-https://hilay.tv/l/tnt4
-
-#EXTINF:-1 tvg-id="USA" tvg-name="USA Network East" group-title="Hilay TV",USA Network East
-https://hilay.tv/l/usanetwork
-
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" group-title="Hilay TV",ESPN
-https://hilay.tv/l/espn
-
-#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" group-title="Hilay TV",ESPN 2
-https://hilay.tv/l/espn2
-
-#EXTINF:-1 tvg-id="ESPNU" tvg-name="ESPN U" group-title="Hilay TV",ESPN U
-https://hilay.tv/l/espnu
-
-#EXTINF:-1 tvg-id="ESPNNews" tvg-name="ESPN NEWS" group-title="Hilay TV",ESPN NEWS
-https://hilay.tv/l/espnnews
-
-#EXTINF:-1 tvg-id="FoxSports1" tvg-name="Fox Sports One" group-title="Hilay TV",Fox Sports One
-https://hilay.tv/l/foxsports1
-
-#EXTINF:-1 tvg-id="TennisCh" tvg-name="Tennis Channel" group-title="Hilay TV",Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBSN" tvg-name="CBS Sports Network" group-title="Hilay TV",CBS Sports Network
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="realmadrid" tvg-name="Real Madrid TV" group-title="Hilay TV",Real Madrid TV
-https://hilay.tv/l/realmadridtv
-
-#EXTINF:-1 tvg-id="ESPNDeportes" tvg-name="ESPN Deportes" group-title="Hilay TV",ESPN Deportes
-https://freelivtv.xyz/stream4k/stream.php?id=476956
 
 #EXTINF:-1 tvg-id="Babyfirst" tvg-name="Baby First" group-title="Hilay TV",Baby First
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/d3bb2ef6-3e31-4ee6-8697-944ecd3a029d/1.m3u8
@@ -398,101 +113,8 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 #EXTINF:-1 tvg-id="ToonGoggles" tvg-name="Toon Goggles" group-title="Hilay TV",Toon Goggles
 https://hilay.tv/l/toongoggles
 
-#EXTINF:-1 tvg-id="Cartoonnetwork" tvg-name="Cartoon Network US" group-title="Hilay TV",Cartoon Network US
-https://hilay.tv/l/cartoonnetwork
-
 #EXTINF:-1 tvg-id="Moonbug" tvg-name="Moonbug kids" group-title="Hilay TV",Moonbug kids
 https://hilay.tv/l/moonbughd
-
-#EXTINF:-1 tvg-id="Disney" tvg-name="Disney Channel" group-title="Hilay TV",Disney Channel
-https://hilay.tv/l/disneychannel
-
-#EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Junior" group-title="Hilay TV",Disney Junior
-https://hilay.tv/l/disneyjr
-
-#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" group-title="Hilay TV",Disney XD
-https://hilay.tv/l/disneyxd
-
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" group-title="Hilay TV",Boomerang
-https://hilay.tv/l/boomerang
-
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" group-title="Hilay TV",Nickelodeon
-https://hilay.tv/l/nickelodeon
-
-#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons" group-title="Hilay TV",Nicktoons
-https://hilay.tv/l/nicktoons
-
-#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" group-title="Hilay TV",Nick Jr
-https://hilay.tv/l/nickjr
-
-#EXTINF:-1 tvg-id="PBSKids" tvg-name="PBS Kids" group-title="Hilay TV",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBOfamily" tvg-name="HBO Family" group-title="Hilay TV",HBO Family
-https://hilay.tv/l/hbofamily
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Hilay TV",HBO
-https://hilay.tv/l/hbo
-
-#EXTINF:-1 tvg-id="HBOComedy" tvg-name="HBO Comedy" group-title="Hilay TV",HBO Comedy
-https://hilay.tv/l/hbocomedy
-
-#EXTINF:-1 tvg-id="HBOZone" tvg-name="HBO Zone" group-title="Hilay TV",HBO Zone
-https://hilay.tv/l/hbozone
-
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" group-title="Hilay TV",HBO 2
-https://hilay.tv/l/hbo2
-
-#EXTINF:-1 tvg-id="boxgamers" tvg-name="Box Gamers" group-title="Hilay TV",Box Gamers
-https://hilay.tv/l/boxgamer
-
-#EXTINF:-1 tvg-id="9xm" tvg-name="9xM India" group-title="Hilay TV",9xM India
-https://hilay.tv/l/9xm
-
-#EXTINF:-1 tvg-id="humhd" tvg-name="Hum HD" group-title="Hilay TV",Hum HD
-https://hilay.tv/l/hum
-
-#EXTINF:-1 tvg-id="foxsp2" tvg-name="Fox Sports Two" group-title="Hilay TV",Fox Sports Two
-https://hilay.tv/l/foxsports2
-
-#EXTINF:-1 tvg-id="astrogrand" tvg-name="Astro Grandstand" group-title="Hilay TV",Astro Grandstand
-https://hilay.tv/l/astrograndstand
-
-#EXTINF:-1 tvg-id="kloopy" tvg-name="Kaloopy TV" group-title="Hilay TV",Kaloopy TV
-https://hilay.tv/l/kaloopy
-
-#EXTINF:-1 tvg-id="stingrayhitlist" tvg-name="Stinngray Hitlist" group-title="Hilay TV",Stinngray Hitlist
-https://hilay.tv/l/stingrayhitlist
-
-#EXTINF:-1 tvg-id="b4umusic" tvg-name="B4U Music India" group-title="Hilay TV",B4U Music India
-https://hilay.tv/l/b4umusic
-
-#EXTINF:-1 tvg-id="b4umovies" tvg-name="B4U Movies" group-title="Hilay TV",B4U Movies
-https://hilay.tv/l/b4umovies
-
-#EXTINF:-1 tvg-id="starsports3" tvg-name="Star Sports 3 HD" group-title="Hilay TV",Star Sports 3 HD
-https://hilay.tv/l/starsports3
-
-#EXTINF:-1 tvg-id="astrouhd" tvg-name="Astro UHD" group-title="Hilay TV",Astro UHD
-https://hilay.tv/l/astrouhd
-
-#EXTINF:-1 tvg-id="usawest" tvg-name="USA Network West" group-title="Hilay TV",USA Network West
-https://hilay.tv/l/usanetwork
-
-#EXTINF:-1 tvg-id="astropl1" tvg-name="Astro Premier League 1" group-title="Hilay TV",Astro Premier League 1
-https://hilay.tv/l/astropremierleague1
-
-#EXTINF:-1 tvg-id="pltv" tvg-name="Premier League TV" group-title="Hilay TV",Premier League TV
-https://hilay.tv/l/premierleaguetv
-
-#EXTINF:-1 tvg-id="wb" tvg-name="Warner TV" group-title="Hilay TV",Warner TV
-https://hilay.tv/l/wb
-
-#EXTINF:-1 tvg-id="hgtv" tvg-name="HGTV" group-title="Hilay TV",HGTV
-https://hilay.tv/l/hgtv
-
-#EXTINF:-1 tvg-id="rockaction" tvg-name="Rock Action" group-title="Hilay TV",Rock Action
-https://hilay.tv/l/rockaction
 
 #EXTINF:-1 tvg-id="france24" tvg-name="France 24" group-title="Hilay TV",France 24
 https://hilay.tv/l/france24
@@ -500,134 +122,17 @@ https://hilay.tv/l/france24
 #EXTINF:-1 tvg-id="cgtn" tvg-name="CGTN" group-title="Hilay TV",CGTN
 https://hilay.tv/l/cgtn
 
-#EXTINF:-1 tvg-id="arydigital" tvg-name="Ary Digital HD" group-title="Hilay TV",Ary Digital HD
-https://hilay.tv/l/arydigital
-
-#EXTINF:-1 tvg-id="humsitaray" tvg-name="Hum HD" group-title="Hilay TV",Hum HD
-https://hilay.tv/l/humsitaray
-
-#EXTINF:-1 tvg-id="geoent" tvg-name="Geo Entertainment HD" group-title="Hilay TV",Geo Entertainment HD
-https://hilay.tv/l/geoentertainment
-
-#EXTINF:-1 tvg-id="sonymovie" tvg-name="Sony Movie Channel" group-title="Hilay TV",Sony Movie Channel
-https://hilay.tv/l/sonymoviech
-
-#EXTINF:-1 tvg-id="param" tvg-name="Paramount Network" group-title="Hilay TV",Paramount Network
-https://hilay.tv/l/paramountnetwork
-
-#EXTINF:-1 tvg-id="boxingtv" tvg-name="Boxing TV" group-title="Hilay TV",Boxing TV
-https://hilay.tv/l/boxingtv
-
-#EXTINF:-1 tvg-id="impactwrestling" tvg-name="TNA Impact Wrestling" group-title="Hilay TV",TNA Impact Wrestling
-https://hilay.tv/l/impactwrestling
-
-#EXTINF:-1 tvg-id="billiard" tvg-name="Billiard TV" group-title="Hilay TV",Billiard TV
-https://hilay.tv/l/billiardtv
-
-#EXTINF:-1 tvg-id="powernation" tvg-name="PowerNation" group-title="Hilay TV",PowerNation
-https://hilay.tv/l/powernation
-
-#EXTINF:-1 tvg-id="speedvision" tvg-name="Speedvision" group-title="Hilay TV",Speedvision
-https://hilay.tv/l/speedvision
-
-#EXTINF:-1 tvg-id="myzen" tvg-name="MyZen Wellbeing TV" group-title="Hilay TV",MyZen Wellbeing TV
-https://hilay.tv/l/myzen4k
-
-#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" group-title="Hilay TV",Discovery Channel
-https://hilay.tv/l/discovery
-
-#EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" group-title="Hilay TV",Discovery Science
-https://hilay.tv/l/discoveryscience
-
-#EXTINF:-1 tvg-id="investigationdiscovery" tvg-name="Investigation Discovery" group-title="Hilay TV",Investigation Discovery
-https://hilay.tv/l/investigationdiscovery
-
-#EXTINF:-1 tvg-id="discoverylife" tvg-name="Discovery Life" group-title="Hilay TV",Discovery Life
-https://hilay.tv/l/discoverylife
-
-#EXTINF:-1 tvg-id="tlc" tvg-name="Discovery TLC" group-title="Hilay TV",Discovery TLC
-https://hilay.tv/l/tlc
-
-#EXTINF:-1 tvg-id="animalplanet" tvg-name="Discovery Animal Planet" group-title="Hilay TV",Discovery Animal Planet
-https://hilay.tv/l/animalplanet
-
-#EXTINF:-1 tvg-id="discoveryfamily" tvg-name="Discovery Family Channel" group-title="Hilay TV",Discovery Family Channel
-https://hilay.tv/ldiscoveryfamily
-
-#EXTINF:-1 tvg-id="history" tvg-name="History Channel" group-title="Hilay TV",History Channel
-https://hilay.tv/l/history
-
-#EXTINF:-1 tvg-id="smithsonian" tvg-name="Smithsonian Channel" group-title="Hilay TV",Smithsonian Channel
-https://hilay.tv/l/smithsonian
-
-#EXTINF:-1 tvg-id="travelch" tvg-name="Travel Channel" group-title="Hilay TV",Travel Channel
-https://hilay.tv/l/travelchannel
-
 #EXTINF:-1 tvg-id="abcaustralia" tvg-name="Australia News" group-title="Hilay TV",Australia News
 https://hilay.tv/l/abcaustralia
 
-#EXTINF:-1 tvg-id="hallmarkfamily" tvg-name="Hallmark Family" group-title="Hilay TV",Hallmark Family
-https://hilay.tv/l/hallmarkfamily
-
-#EXTINF:-1 tvg-id="swar" tvg-name="Swarnavahini" group-title="Hilay TV",Swarnavahini
-https://hilay.tv/l/swarnavahini
-
-#EXTINF:-1 tvg-id="skybundesliga" tvg-name="Sky Sports Bundesliga" group-title="Hilay TV",Sky Sports Bundesliga
-https://hilay.tv/l/skysportsbundesliga
-
-#EXTINF:-1 tvg-id="sportsfirst" tvg-name="Sports First TV" group-title="Hilay TV",Sports First TV
-https://hilay.tv/l/sportsfirst
-
-#EXTINF:-1 tvg-id="unbeaten" tvg-name="Unbeaten" group-title="Hilay TV",Unbeaten
-https://hilay.tv/l/unbeaten
-
-#EXTINF:-1 tvg-id="foodnetwork" tvg-name="Food Network" group-title="Hilay TV",Food Network
-https://hilay.tv/l/foodnetwork
-
-#EXTINF:-1 tvg-id="tntultimate" tvg-name="TNT Sports Ultimate UHD" group-title="Hilay TV",TNT Sports Ultimate UHD
-https://hilay.tv/l/tntultimateuhd
-
 #EXTINF:-1 tvg-id="malikutv" tvg-name="Maliku TV" group-title="Hilay TV",Maliku TV
-https://hugh.cdn.rumble.cloud/live/k5e12sb4/live-hls/yzp5-rw3e/chunklist_i1_DVR.m3u8
-
-#EXTINF:-1 tvg-id="ddsports" tvg-name="DD Sports" group-title="Hilay TV",DD Sports
-https://hilay.tv/l/ddsports
-
-#EXTINF:-1 tvg-id="zeebollywood" tvg-name="Bollywood HD" group-title="Hilay TV",Bollywood HD
-https://hilay.tv/l/bollywoodhd
-
-#EXTINF:-1 tvg-id="zeeclassic" tvg-name="BollyWood Classic" group-title="Hilay TV",BollyWood Classic
-https://hilay.tv/l/bollywoodclassichd
-
-#EXTINF:-1 tvg-id="goltv" tvg-name="Women Sports Network" group-title="Hilay TV",Women Sports Network
-https://hilay.tv/l/womesportsnet
+https://hilay.tv/l/malikutv
 
 #EXTINF:-1 tvg-id="cloudflaretv" tvg-name="Cloudflare TV" group-title="Hilay TV",Cloudflare TV
 https://hilay.tv/l/cloudflaretv
 
-#EXTINF:-1 tvg-id="mutv" tvg-name="Manchester United TV" group-title="Hilay TV",Manchester United TV
-https://hilay.tv/l/mutv
-
-#EXTINF:-1 tvg-id="staruk" tvg-name="Star Plus UK" group-title="Hilay TV",Star Plus UK
-https://hilay.tv/l/starplusuk
-
-#EXTINF:-1 tvg-id="zeeuk" tvg-name="Shemaroo Bollywood" group-title="Hilay TV",Shemaroo Bollywood
-https://hilay.tv/l/shemaroobollywood
-
-#EXTINF:-1 tvg-id="vsportuhd" tvg-name="VSport UltraHD" group-title="Hilay TV",VSport UltraHD
-https://hilay.tv/l/vsportuhd
-
-#EXTINF:-1 tvg-id="skysportslaliga" tvg-name="Sky Sports LaLiga" group-title="Hilay TV",Sky Sports LaLiga
-https://hilay.tv/l/skysportslaliga
-
-#EXTINF:-1 tvg-id="tensports" tvg-name="Ten Sports HD" group-title="Hilay TV",Ten Sports HD
-https://hilay.tv/l/tensportspk
-
-#EXTINF:-1 tvg-id="redbulltv" tvg-name="Redbull TV" group-title="Hilay TV",Redbull TV
-https://hilay.tv/l/redbulltv
-
 #EXTINF:-1 tvg-id="events1" tvg-name="LIVE EVENTS 1" group-title="Hilay TV",LIVE EVENTS 1
-https://hilay.tv/levents1
+https://hilay.tv/l/events1
 
 #EXTINF:-1 tvg-id="events2" tvg-name="LIVE EVENTS 2" group-title="Hilay TV",LIVE EVENTS 2
 https://hilay.tv/l/events2
@@ -637,21 +142,6 @@ https://hilay.tv/l/events3
 
 #EXTINF:-1 tvg-id="babyrhmes" tvg-name="My Little Pony" group-title="Hilay TV",My Little Pony
 https://hilay.tv/l/babyrhymes
-
-#EXTINF:-1 tvg-id="cookingch" tvg-name="Cooking Channel" group-title="Hilay TV",Cooking Channel
-https://hilay.tv/l/cookingch
-
-#EXTINF:-1 tvg-id="arabica" tvg-name="Arabica TV" group-title="Hilay TV",Arabica TV
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" group-title="Hilay TV",AXN
-https://hilay.tv/l/axn
-
-#EXTINF:-1 tvg-id="abudhabisp1" tvg-name="Abu Dhabi Sports 1" group-title="Hilay TV",Abu Dhabi Sports 1
-https://hilay.tv/l/abudhabi1
-
-#EXTINF:-1 tvg-id="abudhabisp2" tvg-name="Abu Dhabi Sports 2" group-title="Hilay TV",Abu Dhabi Sports 2
-https://hilay.tv/l/abudhabi2
 
 #EXTINF:-1 tvg-id="euronews" tvg-name="Euro News" group-title="Hilay TV",Euro News
 https://hilay.tv/l/euronews
