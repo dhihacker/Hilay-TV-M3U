@@ -11,12 +11,12 @@ OUTPUT_FILE = "hilaytv.m3u"
 
 def download_m3u():
     headers = {
-        "User-Agent": CHROME_UA,
-        "X-Forwarded-For": "124.195.199.1",
-        "X-Real-IP": "124.195.199.1",
-        "CF-Connecting-IP": "124.195.199.1",
-        "CF-IPCountry": "MV"
-    }
+    'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Mobile Safari/537.36',
+    'sec-ch-ua': '"Google Chrome";v="143", "Chromium";v="143", "Not A(Brand";v="24"',
+    'sec-ch-ua-mobile': '?1',
+    'sec-ch-ua-platform': '"Android"',
+}
 
     try:
         response = requests.get(
@@ -36,3 +36,4 @@ def download_m3u():
 
 if __name__ == "__main__":
     download_m3u()
+
