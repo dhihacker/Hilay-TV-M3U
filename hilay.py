@@ -11,11 +11,19 @@ OUTPUT_FILE = "hilaytv.m3u"
 
 def download_m3u():
     headers = {
-        "User-Agent": CHROME_UA
+        "User-Agent": CHROME_UA,
+        "X-Forwarded-For": "124.195.199.1",
+        "X-Real-IP": "124.195.199.1",
+        "CF-Connecting-IP": "124.195.199.1",
+        "CF-IPCountry": "MV"
     }
 
     try:
-        response = requests.get(M3U_URL, headers=headers, timeout=15)
+        response = requests.get(
+            M3U_URL,
+            headers=headers,
+            timeout=15
+        )
         response.raise_for_status()
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
