@@ -17,15 +17,15 @@ Hilay TV M3U Playlist Generator
     <img src="https://img.shields.io/badge/Made_With-Python_3.12%2B-blue"
          alt="Gitter">
   
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="">
+  <a href="">
+    
   </a>
   <a href="https://t.me/freetvmv">
     <img src="https://i.postimg.cc/JnygVFyn/image.jpg">
   </a>
   </a>
-  <a href=""><img src=""></a>
-<a href=""><img src=""/></a>
+
+
 </p>
 
 <h1 align="center">
