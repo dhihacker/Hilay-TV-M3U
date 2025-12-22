@@ -871,13 +871,13 @@ https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist.m3u8
 https://hilay.tv/l/colors
 
 #EXTINF:-1 tvg-id="SEThd.mv" tvg-name="Sony TV HD" tvg-logo="https://8upload.com/image/68c54fc154af0/sonytvhilay.png" group-title="Hindi",Sony TV HD
-http://217.20.112.199/sethd/index.m3u8
+https://hilay.tv/l/sonytvhd
 
 #EXTINF:-1 tvg-id="SonyMax.mv" tvg-name="Sony MAX HD" tvg-logo="https://8upload.com/image/68c54fc13c0be/sonymaxhilay.png" group-title="Hindi",Sony MAX HD
 https://hilay.tv/l/sonysatmax
 
 #EXTINF:-1 tvg-id="SonySab.mv" tvg-name="Sony SAB HD" tvg-logo="https://8upload.com/image/68c54ae345699/sonysabhilay.png" group-title="Hindi",Sony SAB HD
-http://87.255.35.150:18810/
+https://hilay.tv/l/sonysab
 
 #EXTINF:-1 tvg-id="SonyKal.mv" tvg-name="Sony Kal US" tvg-logo="https://8upload.com/image/67dcf1b5a7ed4/SonyKal.jpg" group-title="Hindi",Sony Kal US
 https://hilay.tv/l/sonykal
