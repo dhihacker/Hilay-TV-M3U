@@ -93,10 +93,10 @@ https://sunplay-cdn.bitratelabs.com/live/sunplay/m-hits-780a8af3140fb1c7d7e1286b
 https://sunplay-cdn.bitratelabs.com/live/sunplay/did-ai-90268398e36c817279835077b4bddba7/index.m3u8
 
 #EXTINF:-1 tvg-id="Yes.mv" tvg-name="YES TV" tvg-logo="https://8upload.com/image/67da24021b0f7/10-yestv.png" group-title="Dhivehi",YES TV
-http://xui.neongreenlight.com:8081/memfs/0612b757-a236-4fc2-8ce3-1b1979502793.m3u8
+https://www.youtube.com/@yestvmv/live
 
 #EXTINF:-1 tvg-id="PSM.mv" tvg-name="PSM NEWS" tvg-logo="https://8upload.com/image/67da22692b909/8-psm-news.png" group-title="Dhivehi",PSM NEWS
-http://xui.neongreenlight.com:8081/memfs/f5576451-511a-47a5-95e4-ea2e0d568314.m3u8
+https://www.youtube.com/@psmnewslive/live
 
 #EXTINF:-1 tvg-id="mendhuru" tvg-name="Mendhuru TV" tvg-logo="https://8upload.com/image/68683c0866423/mendurutvhilay.png" group-title="Dhivehi",Mendhuru TV
 https://l.hilay.tv/mendhurutv
@@ -146,7 +146,7 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/chunklist_w10728
 #EXTINF:-1 tvg-id="shquruan" tvg-name="Sharjah Quruan" tvg-logo="https://8upload.com/image/689753073f52a/sharjaQurantvhilay.png" group-title="Islam",Sharjah Quruan
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlQuranTV.mv" tvg-name="Al Quran TV" tvg-logo="https://8upload.com/image/67da25cd4ebe6/20-alqurantv.png" group-title="Islam",Al Quran TV
+#EXTINF:-1 tvg-id="AlQuranTV.mv" tvg-name="Saudi Quran TV" tvg-logo="https://8upload.com/image/67da25cd4ebe6/20-alqurantv.png" group-title="Islam",Saudi Quruan TV
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Islamch.mv" tvg-name="Islam Channel UK" tvg-logo="https://8upload.com/image/67da25cd59fdd/21-islam_channel_UK.png" group-title="Islam",Islam Channel UK
@@ -874,6 +874,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="andtv" tvg-name="&TV HD" tvg-logo="https://8upload.com/image/68579e314310e/andtvhilay.png" group-title="Hindi",&TV HD
 https://l.hilay.tv/andtv
+
+#EXTINF:-1 tvg-id="dangaltv" tvg-name="DangalTV" tvg-logo="https://8upload.com/image/10feeda9088985fc/dangaltvhilay.png" group-title="Hindi",Dangal TV
+https://l.hilay.tv/dangaltv
 
 #EXTINF:-1 tvg-id="zeeone" tvg-name="Z One" tvg-logo="https://8upload.com/image/68729f0b484f9/zeeonehilay.png" group-title="Hindi",Z One
 https://jmp2.uk/stvp-GBBD1100013BJ
