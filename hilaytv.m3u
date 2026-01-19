@@ -53,6 +53,12 @@ https://sstv.ssplay.mv/hls/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/in
 #EXTINF:-1 tvg-id="SSTV.mv" tvg-name="SSTV" tvg-logo="https://8upload.com/image/67da240232521/12-sstv.png" group-title="Dhivehi",SSTV
 https://sunplay-cdn.bitratelabs.com/live/sstv-live/index.m3u8
 
+#EXTINF:-1 tvg-id="Yes.mv" tvg-name="YES TV" tvg-logo="https://8upload.com/image/67da24021b0f7/10-yestv.png" group-title="Dhivehi",YES TV FHD
+https://l.hilay.tv/yeshilay
+
+#EXTINF:-1 tvg-id="Yes.mv" tvg-name="YES TV" tvg-logo="https://8upload.com/image/67da24021b0f7/10-yestv.png" group-title="Dhivehi",YES TV SD
+https://l.hilay.tv/yessd
+
 #EXTINF:-1 tvg-id="sportskool" tvg-name="sportskool" tvg-logo="https://a.jsrdn.com/hls/22697/sportskool-tv/logo_20231219_222110_70.png" group-title="Sports", Sportskool
 https://l.hilay.tv/sportskool
 
@@ -237,9 +243,6 @@ https://sunplay-cdn.bitratelabs.com/live/sunplay/m-hits-780a8af3140fb1c7d7e1286b
 
 #EXTINF:-1 tvg-id="hilayplay2" tvg-name="Hilay Play 2" tvg-logo="https://8upload.com/image/68df10f7e1640/hilayplay.png" group-title="Dhivehi", Hilay Play 2
 https://sunplay-cdn.bitratelabs.com/live/sunplay/did-ai-90268398e36c817279835077b4bddba7/index.m3u8
-
-#EXTINF:-1 tvg-id="Yes.mv" tvg-name="YES TV" tvg-logo="https://8upload.com/image/67da24021b0f7/10-yestv.png" group-title="Dhivehi",YES TV
-https://www.youtube.com/@yestvmv/live
 
 #EXTINF:-1 tvg-id="PSM.mv" tvg-name="PSM NEWS" tvg-logo="https://8upload.com/image/67da22692b909/8-psm-news.png" group-title="Dhivehi",PSM NEWS
 https://www.youtube.com/@psmnewslive/live
