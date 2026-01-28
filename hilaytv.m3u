@@ -116,7 +116,7 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/2tBx8pR/TNT1.png" group-title="SPORTS", TNT Sport 1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -140,7 +140,7 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/7Md2qy9/fubosp.png" group-title="SPORTS", FUBO SPORTS 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -154,8 +154,8 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC-ziqZMsoRYfc6wGnXmOAUd0TZ2cGABVvxVJA2ZUZIG2BeY-bN5TMCoI&s=10" group-title="SPORTS",LALIGA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -167,10 +167,10 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0d
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="events1.mv" tvg-name="LIVE EVENTS 1" tvg-logo="https://8upload.com/image/67fea38cdeccb/liveevent1hilay.png" group-title="Sports", LIVE EVENTS 1
-https://www.youtube.com/@sportzworkz/live
+https://l.hilay.tv/events1
 
 #EXTINF:-1 tvg-id="events2.mv" tvg-name="LIVE EVENTS 2" tvg-logo="https://8upload.com/image/67fea38cd266d/liveevent2hilay.png" group-title="Sports", LIVE EVENTS 2
 https://l.hilay.tv/events2
@@ -263,13 +263,13 @@ https://www.youtube.com/@psmnewslive/live
 https://l.hilay.tv/mendhurutv
 
 #EXTINF:-1 tvg-id="SanguTV.mv" tvg-name="Sangu TV" tvg-logo="https://8upload.com/image/67da24024be16/14-sangu.png" group-title="Dhivehi",Sangu TV
-http://xui.neongreenlight.com:8081/memfs/44ad185e-2d15-4a26-8422-04df8fd4e4bd.m3u8
+https://l.hilay.tv/sangutv
 
 #EXTINF:-1 tvg-id="RelaxTV.mv" tvg-name="Relax TV" tvg-logo="https://8upload.com/image/67da25cd3ea78/19-relaxtv.png" group-title="Music",Relax TV
 https://serv1.vlix.io/media/videos/h264/4c30cad7b1f0935cd62a.mp4
 
 #EXTINF:-1 tvg-id="aslutv" tvg-name="Aslu TV" tvg-logo="https://8upload.com/image/67da22690ed9e/5-aslutv.png" group-title="Dhivehi",Aslu TV
-http://xui.neongreenlight.com:8081/memfs/b2ee6ee7-28c6-4a71-8ae4-c47ec07bcd22.m3u8
+https://l.hilay.tv/aslutv
 
 #EXTINF:-1 tvg-id="majilistv" tvg-name="Majilis TV" tvg-logo="https://8upload.com/image/686dfede837cd/majlistvhilay.png" group-title="Dhivehi",Majilis TV
 https://www.youtube.com/@PeoplesMajlis/live
@@ -1309,7 +1309,7 @@ https://jmp2.uk/stvp-DE300020D3
 https://jmp2.uk/stvp-CHBA3300016BA
 #EXTINF:-1 channel-id="ITBC1100008L4-it" tvg-id="ITBC1100008L4" tvg-chno="4870" tvg-name="Alberto Sordi & Co" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC1100008L4_20250513T010703SQUARE.png" group-title="Italy",Alberto Sordi & Co
 https://jmp2.uk/stvp-ITBC1100008L4
-#EXTINF:-1 channel-id="FRBC4700002RF-fr" tvg-id="FRBC4700002RF" tvg-chno="4242" tvg-name="Alerte  Malibu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700002RF_20241015T040200SQUARE.png" group-title="France",Alerte à Malibu
+#EXTINF:-1 channel-id="FRBC4700002RF-fr" tvg-id="FRBC4700002RF" tvg-chno="4242" tvg-name="Alerte  Malibu" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700002RF_20241015T040200SQUARE.png" group-title="France",Alerte  Malibu
 https://jmp2.uk/stvp-FRBC4700002RF
 #EXTINF:-1 channel-id="CHBD2000023S-ch" tvg-id="CHBD2000023S" tvg-chno="4251" tvg-name="Alerte  Malibu [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBD2000023S_20250107T031444SQUARE.png" group-title="Switzerland",Alerte à Malibu [FR]
 https://jmp2.uk/stvp-CHBD2000023S
@@ -1561,7 +1561,7 @@ https://jmp2.uk/stvp-IN4600011RZ
 https://jmp2.uk/stvp-CA4100001H8
 #EXTINF:-1 channel-id="US37000017A-us" tvg-id="US37000017A" tvg-chno="2390" tvg-name="Big 12 Studios" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US37000017A_20241210T013843SQUARE.png" group-title="United States",Big 12 Studios
 https://jmp2.uk/stvp-US37000017A
-#EXTINF:-1 channel-id="ESBC2700003T8-es" tvg-id="ESBC2700003T8" tvg-chno="4927" tvg-name="Bigtime - Películas Gratis" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png" group-title="Spain",Bigtime - Pelculas Gratis
+#EXTINF:-1 channel-id="ESBC2700003T8-es" tvg-id="ESBC2700003T8" tvg-chno="4927" tvg-name="Bigtime - Pelculas Gratis" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700003T8_20241022T050457SQUARE.png" group-title="Spain",Bigtime - Pelculas Gratis
 https://jmp2.uk/stvp-ESBC2700003T8
 #EXTINF:-1 channel-id="IN800014F8-in" tvg-id="IN800014F8" tvg-chno="1229" tvg-name="Billiard TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN800014F8_20250811T033434SQUARE.png" group-title="India",Billiard TV
 https://jmp2.uk/stvp-IN800014F8
@@ -1733,7 +1733,7 @@ https://jmp2.uk/stvp-ITBA14000093A
 https://jmp2.uk/stvp-CA46000098X
 #EXTINF:-1 channel-id="US4600005ST-us" tvg-id="US4600005ST" tvg-chno="3818" tvg-name="CG MMA En Español" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4600005ST_20250428T223427SQUARE.png" group-title="United States",CG MMA En Espaol
 https://jmp2.uk/stvp-US4600005ST
-#EXTINF:-1 channel-id="KRBC32000126M-kr" tvg-id="KRBC32000126M" tvg-chno="708" tvg-name="ch.핑크" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20250514T082333SQUARE.png" group-title="South Korea",ch.퐁
+#EXTINF:-1 channel-id="KRBC32000126M-kr" tvg-id="KRBC32000126M" tvg-chno="708" tvg-name="ch.핑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000126M_20250514T082333SQUARE.png" group-title="South Korea",ch.
 https://jmp2.uk/stvp-KRBC32000126M
 #EXTINF:-1 channel-id="GBBD3100005RX-gb" tvg-id="GBBD3100005RX" tvg-chno="4106" tvg-name="Challenge" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100005RX_20250107T030606SQUARE.png" group-title="United Kingdom",Challenge
 https://jmp2.uk/stvp-GBBD3100005RX
@@ -1789,7 +1789,7 @@ https://jmp2.uk/stvp-ITBB20000072M
 https://jmp2.uk/stvp-FRBB39000020C
 #EXTINF:-1 channel-id="CHBB3900007I2-ch" tvg-id="CHBB3900007I2" tvg-chno="4887" tvg-name="Cin Nanar [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB3900007I2_20250107T031338SQUARE.png" group-title="Switzerland",Ciné Nanar [FR]
 https://jmp2.uk/stvp-CHBB3900007I2
-#EXTINF:-1 channel-id="FRBD19000095S-fr" tvg-id="FRBD19000095S" tvg-chno="4927" tvg-name="Ciné Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20250708T031656SQUARE.png" group-title="France",Ciné Western
+#EXTINF:-1 channel-id="FRBD19000095S-fr" tvg-id="FRBD19000095S" tvg-chno="4927" tvg-name="Ciné Western" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20250708T031656SQUARE.png" group-title="France",Cin Western
 https://jmp2.uk/stvp-FRBD19000095S
 #EXTINF:-1 channel-id="USBA300035FV-us" tvg-id="USBA300035FV" tvg-chno="1425" tvg-name="Circle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300035FV_20240528T020917SQUARE.png" group-title="United States",Circle
 https://jmp2.uk/stvp-USBA300035FV
@@ -1825,7 +1825,7 @@ https://jmp2.uk/stvp-CHBD800001D0
 https://jmp2.uk/stvp-DEBD800001S4
 #EXTINF:-1 channel-id="GBBD8000016N-gb" tvg-id="GBBD8000016N" tvg-chno="4006" tvg-name="CNN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20250415T020925SQUARE.png" group-title="United Kingdom",CNN
 https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 channel-id="ES34000039I-es" tvg-id="ES34000039I" tvg-chno="4569" tvg-name="CNN en Español" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png" group-title="Spain",CNN en Español
+#EXTINF:-1 channel-id="ES34000039I-es" tvg-id="ES34000039I" tvg-chno="4569" tvg-name="CNN en Espaol" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES34000039I_20241022T050503SQUARE.png" group-title="Spain",CNN en Espaol
 https://jmp2.uk/stvp-ES34000039I
 #EXTINF:-1 channel-id="ATBD190000101-at" tvg-id="ATBD190000101" tvg-chno="4557" tvg-name="CNN Headlines" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBD190000101_20250422T045222SQUARE.png" group-title="Austria",CNN Headlines
 https://jmp2.uk/stvp-ATBD190000101
@@ -1993,7 +1993,7 @@ https://jmp2.uk/stvp-DEBA3300014CV
 https://jmp2.uk/stvp-ES1400002CJ
 #EXTINF:-1 channel-id="GB1400001E4-gb" tvg-id="GB1400001E4" tvg-chno="4425" tvg-name="CURIOSITY Now" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB1400001E4_20250107T031103SQUARE.png" group-title="United Kingdom",CURIOSITY Now
 https://jmp2.uk/stvp-GB1400001E4
-#EXTINF:-1 channel-id="ES400002P5-es" tvg-id="ES400002P5" tvg-chno="4006" tvg-name="Cuntame cómo pasó" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20250513T005442SQUARE.png" group-title="Spain",Cuéntame cmo pasó
+#EXTINF:-1 channel-id="ES400002P5-es" tvg-id="ES400002P5" tvg-chno="4006" tvg-name="Cuntame cómo pasó" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES400002P5_20250513T005442SQUARE.png" group-title="Spain",Cuéntame cmo pas
 https://jmp2.uk/stvp-ES400002P5
 #EXTINF:-1 channel-id="CA34000054K-ca" tvg-id="CA34000054K" tvg-chno="1635" tvg-name="D&D Adventures" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA34000054K_20250318T021211SQUARE.png" group-title="Canada",D&D Adventures
 https://jmp2.uk/stvp-CA34000054K
@@ -2288,7 +2288,7 @@ https://jmp2.uk/stvp-IT4600001JQ
 https://jmp2.uk/stvp-CA900003IF
 #EXTINF:-1 channel-id="GB2700003KS-gb" tvg-id="GB2700003KS" tvg-chno="4481" tvg-name="Evolution Earth" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700003KS_20250107T031117SQUARE.png" group-title="United Kingdom",Evolution Earth
 https://jmp2.uk/stvp-GB2700003KS
-#EXTINF:-1 channel-id="KRBC4100008Z6-kr" tvg-id="KRBC4100008Z6" tvg-chno="588" tvg-name="E널 토요  아" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20250402T010153SQUARE.png" group-title="South Korea",E 토  좋
+#EXTINF:-1 channel-id="KRBC4100008Z6-kr" tvg-id="KRBC4100008Z6" tvg-chno="588" tvg-name="E널 토  아" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100008Z6_20250402T010153SQUARE.png" group-title="South Korea",E 토  좋
 https://jmp2.uk/stvp-KRBC4100008Z6
 #EXTINF:-1 channel-id="ATBA1500012BI-at" tvg-id="ATBA1500012BI" tvg-chno="4890" tvg-name="Fabella" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATBA1500012BI_20250107T021630SQUARE.png" group-title="Austria",Fabella
 https://jmp2.uk/stvp-ATBA1500012BI
@@ -2934,7 +2934,7 @@ https://jmp2.uk/stvp-USBB1000003HL
 https://jmp2.uk/stvp-KRBC50000218R
 #EXTINF:-1 channel-id="KRBD5200002XY-kr" tvg-id="KRBD5200002XY" tvg-chno="818" tvg-name="JTBC " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200002XY_20250521T005531SQUARE.png" group-title="South Korea",JTBC 
 https://jmp2.uk/stvp-KRBD5200002XY
-#EXTINF:-1 channel-id="KR400006MW-kr" tvg-id="KR400006MW" tvg-chno="572" tvg-name="JTBC 고 해" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400006MW_20250514T082410SQUARE.png" group-title="South Korea",JTBC 장고를 탁
+#EXTINF:-1 channel-id="KR400006MW-kr" tvg-id="KR400006MW" tvg-chno="572" tvg-name="JTBC 고 해" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400006MW_20250514T082410SQUARE.png" group-title="South Korea",JTBC 장고 탁
 https://jmp2.uk/stvp-KR400006MW
 #EXTINF:-1 channel-id="KRBC46000014A-kr" tvg-id="KRBC46000014A" tvg-chno="558" tvg-name="JTBC 냉 부탁 2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000014A_20250402T010207SQUARE.png" group-title="South Korea",JTBC 냉 탁 2
 https://jmp2.uk/stvp-KRBC46000014A
@@ -2946,7 +2946,7 @@ https://jmp2.uk/stvp-KR4000020F
 https://jmp2.uk/stvp-KRBD5200003O2
 #EXTINF:-1 channel-id="KRBD43000023M-kr" tvg-id="KRBD43000023M" tvg-chno="722" tvg-name="JTBC 비긴 - " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD43000023M_20250402T010222SQUARE.png" group-title="South Korea",JTBC 긴인 - 픈마
 https://jmp2.uk/stvp-KRBD43000023M
-#EXTINF:-1 channel-id="KRBC5000019FB-kr" tvg-id="KRBC5000019FB" tvg-chno="568" tvg-name="JTBC 이숙캠" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20250402T010225SQUARE.png" group-title="South Korea",JTBC 이려
+#EXTINF:-1 channel-id="KRBC5000019FB-kr" tvg-id="KRBC5000019FB" tvg-chno="568" tvg-name="JTBC 숙캠" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000019FB_20250402T010225SQUARE.png" group-title="South Korea",JTBC 이려
 https://jmp2.uk/stvp-KRBC5000019FB
 #EXTINF:-1 channel-id="KR400003IP-kr" tvg-id="KR400003IP" tvg-chno="632" tvg-name="JTBC 벌 막아" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400003IP_20250514T082415SQUARE.png" group-title="South Korea",JTBC 벌집 막
 https://jmp2.uk/stvp-KR400003IP
@@ -2958,7 +2958,7 @@ https://jmp2.uk/stvp-KR40000410
 https://jmp2.uk/stvp-KRBD4300003MW
 #EXTINF:-1 channel-id="KRBC5000020AF-kr" tvg-id="KRBC5000020AF" tvg-chno="683" tvg-name="JTBC 한의 스뷰" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000020AF_20250402T010244SQUARE.png" group-title="South Korea",JTBC 문철 블박스
 https://jmp2.uk/stvp-KRBC5000020AF
-#EXTINF:-1 channel-id="KRBD5200001G8-kr" tvg-id="KRBD5200001G8" tvg-chno="576" tvg-name="JTBC 효리 민1&2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200001G8_20250402T010247SQUARE.png" group-title="South Korea",JTBC 효 민박1&2
+#EXTINF:-1 channel-id="KRBD5200001G8-kr" tvg-id="KRBD5200001G8" tvg-chno="576" tvg-name="JTBC 효리 1&2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200001G8_20250402T010247SQUARE.png" group-title="South Korea",JTBC 효 민박1&2
 https://jmp2.uk/stvp-KRBD5200001G8
 #EXTINF:-1 channel-id="ATAJ0500443A-at" tvg-id="ATAJ0500443A" tvg-chno="4519" tvg-name="Just Cooking" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ATAJ0500443A_20250107T021716SQUARE.png" group-title="Austria",Just Cooking
 https://jmp2.uk/stvp-ATAJ0500443A
@@ -3014,7 +3014,7 @@ https://jmp2.uk/stvp-KRBC3200009M7
 https://jmp2.uk/stvp-KRBC4000005EP
 #EXTINF:-1 channel-id="KR7000023Z-kr" tvg-id="KR7000023Z" tvg-chno="624" tvg-name="KBS 구 린 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000023Z_20250811T061427SQUARE.png" group-title="South Korea",KBS 르 린 달
 https://jmp2.uk/stvp-KR7000023Z
-#EXTINF:-1 channel-id="KRBC4400001TZ-kr" tvg-id="KRBC4400001TZ" tvg-chno="634" tvg-name="KBS 와 가씨" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20250514T082306SQUARE.png" group-title="South Korea",KBS 신 가씨
+#EXTINF:-1 channel-id="KRBC4400001TZ-kr" tvg-id="KRBC4400001TZ" tvg-chno="634" tvg-name="KBS 와 가" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400001TZ_20250514T082306SQUARE.png" group-title="South Korea",KBS  가씨
 https://jmp2.uk/stvp-KRBC4400001TZ
 #EXTINF:-1 channel-id="KRBC4400002AO-kr" tvg-id="KRBC4400002AO" tvg-chno="631" tvg-name="KBS 의 후예" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4400002AO_20250514T082308SQUARE.png" group-title="South Korea",KBS 태의 
 https://jmp2.uk/stvp-KRBC4400002AO
@@ -3218,11 +3218,11 @@ https://jmp2.uk/stvp-INBD4700014DU
 https://jmp2.uk/stvp-GB28000063B
 #EXTINF:-1 channel-id="KRBB500037T3-kr" tvg-id="KRBB500037T3" tvg-chno="641" tvg-name="MBC every1 순" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500037T3_20250514T082349SQUARE.png" group-title="South Korea",MBC every1 순
 https://jmp2.uk/stvp-KRBB500037T3
-#EXTINF:-1 channel-id="KRBB500034DY-kr" tvg-id="KRBB500034DY" tvg-chno="587" tvg-name="MBC every1 어와 국 음이?" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20250402T010314SQUARE.png" group-title="South Korea",MBC every1 어와 국 지?
+#EXTINF:-1 channel-id="KRBB500034DY-kr" tvg-id="KRBB500034DY" tvg-chno="587" tvg-name="MBC every1 어와 국 음이?" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500034DY_20250402T010314SQUARE.png" group-title="South Korea",MBC every1 어와  지?
 https://jmp2.uk/stvp-KRBB500034DY
 #EXTINF:-1 channel-id="KRBC2000010X-kr" tvg-id="KRBC2000010X" tvg-chno="553" tvg-name="MBC 침없이 하" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC2000010X_20250402T010318SQUARE.png" group-title="South Korea",MBC 침 킥
 https://jmp2.uk/stvp-KRBC2000010X
-#EXTINF:-1 channel-id="KRBC200002I0-kr" tvg-id="KRBC200002I0" tvg-chno="546" tvg-name="MBC 나혼자다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20250402T010323SQUARE.png" group-title="South Korea",MBC 혼다
+#EXTINF:-1 channel-id="KRBC200002I0-kr" tvg-id="KRBC200002I0" tvg-chno="546" tvg-name="MBC 나혼자다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200002I0_20250402T010323SQUARE.png" group-title="South Korea",MBC 혼
 https://jmp2.uk/stvp-KRBC200002I0
 #EXTINF:-1 channel-id="KRBB5000073UD-kr" tvg-id="KRBB5000073UD" tvg-chno="571" tvg-name="MBC 면 니" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20250514T082406SQUARE.png" group-title="South Korea",MBC 놀면 
 https://jmp2.uk/stvp-KRBB5000073UD
@@ -3230,21 +3230,21 @@ https://jmp2.uk/stvp-KRBB5000073UD
 https://jmp2.uk/stvp-KRBB5000069BS
 #EXTINF:-1 channel-id="KRBB5000070U4-kr" tvg-id="KRBB5000070U4" tvg-chno="640" tvg-name="MBC 밤에  " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000070U4_20250514T082404SQUARE.png" group-title="South Korea",MBC  피는 
 https://jmp2.uk/stvp-KRBB5000070U4
-#EXTINF:-1 channel-id="KRBB50000711L-kr" tvg-id="KRBB50000711L" tvg-chno="561" tvg-name="MBC 심괴담회" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230913T010327SQUARE.png_20230913010328.png" group-title="South Korea",MBC 야회
+#EXTINF:-1 channel-id="KRBB50000711L-kr" tvg-id="KRBB50000711L" tvg-chno="561" tvg-name="MBC 심괴담회" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000711L_20230913T010327SQUARE.png_20230913010328.png" group-title="South Korea",MBC 회
 https://jmp2.uk/stvp-KRBB50000711L
 #EXTINF:-1 channel-id="KRBC20000347-kr" tvg-id="KRBC20000347" tvg-chno="566" tvg-name="MBC 우면 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000347_20250402T010336SQUARE.png" group-title="South Korea",MBC  행이야
 https://jmp2.uk/stvp-KRBC20000347
-#EXTINF:-1 channel-id="KRBB50000721W-kr" tvg-id="KRBB50000721W" tvg-chno="581" tvg-name="MBC 오영리 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20250402T010339SQUARE.png" group-title="South Korea",MBC 트 혼지옥
+#EXTINF:-1 channel-id="KRBB50000721W-kr" tvg-id="KRBB50000721W" tvg-chno="581" tvg-name="MBC 오영리 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB50000721W_20250402T010339SQUARE.png" group-title="South Korea",MBC 트 혼옥
 https://jmp2.uk/stvp-KRBB50000721W
 #EXTINF:-1 channel-id="KRBC20000418-kr" tvg-id="KRBC20000418" tvg-chno="563" tvg-name="MBC 적 참 시점" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC20000418_20250402T010342SQUARE.png" group-title="South Korea",MBC  참 
 https://jmp2.uk/stvp-KRBC20000418
-#EXTINF:-1 channel-id="KRBC200005H6-kr" tvg-id="KRBC200005H6" tvg-chno="552" tvg-name="MBC 지붕고 하이" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20250402T010345SQUARE.png" group-title="South Korea",MBC 지고 하이킥
+#EXTINF:-1 channel-id="KRBC200005H6-kr" tvg-id="KRBC200005H6" tvg-chno="552" tvg-name="MBC 지붕고 하이" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC200005H6_20250402T010345SQUARE.png" group-title="South Korea",MBC 지 하이킥
 https://jmp2.uk/stvp-KRBC200005H6
 #EXTINF:-1 channel-id="KRBC3500017PO-kr" tvg-id="KRBC3500017PO" tvg-chno="682" tvg-name="MBN 나 연" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500017PO_20250402T010348SQUARE.png" group-title="South Korea",MBN 는 자연인
 https://jmp2.uk/stvp-KRBC3500017PO
-#EXTINF:-1 channel-id="KRBC3500019CD-kr" tvg-id="KRBC3500019CD" tvg-chno="595" tvg-name="MBN 속 동" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500019CD_20250402T010351SQUARE.png" group-title="South Korea",MBN 풀 동치
+#EXTINF:-1 channel-id="KRBC3500019CD-kr" tvg-id="KRBC3500019CD" tvg-chno="595" tvg-name="MBN  동" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500019CD_20250402T010351SQUARE.png" group-title="South Korea",MBN 풀 동치
 https://jmp2.uk/stvp-KRBC3500019CD
-#EXTINF:-1 channel-id="KRBC3500018J9-kr" tvg-id="KRBC3500018J9" tvg-chno="689" tvg-name="MBN 휴다 사면" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20250402T010354SQUARE.png" group-title="South Korea",MBN 휴다 사면
+#EXTINF:-1 channel-id="KRBC3500018J9-kr" tvg-id="KRBC3500018J9" tvg-chno="689" tvg-name="MBN 휴다 사면" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500018J9_20250402T010354SQUARE.png" group-title="South Korea",MBN 휴다 면
 https://jmp2.uk/stvp-KRBC3500018J9
 #EXTINF:-1 channel-id="CA210000317-ca" tvg-id="CA210000317" tvg-chno="1003" tvg-name="MeatEater" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA210000317_20250812T003306SQUARE.png" group-title="Canada",MeatEater
 https://jmp2.uk/stvp-CA210000317
@@ -4042,7 +4042,7 @@ https://jmp2.uk/stvp-ES33000036Q
 https://jmp2.uk/stvp-ES3300004P0
 #EXTINF:-1 channel-id="ES33000058B-es" tvg-id="ES33000058B" tvg-chno="4866" tvg-name="RTVE Somos Cine" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES33000058B_20250729T045042SQUARE.png" group-title="Spain",RTVE Somos Cine
 https://jmp2.uk/stvp-ES33000058B
-#EXTINF:-1 channel-id="ES3300006QL-es" tvg-id="ES3300006QL" tvg-chno="4235" tvg-name="RTVE Época" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20250729T045045SQUARE.png" group-title="Spain",RTVE Época
+#EXTINF:-1 channel-id="ES3300006QL-es" tvg-id="ES3300006QL" tvg-chno="4235" tvg-name="RTVE Época" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES3300006QL_20250729T045045SQUARE.png" group-title="Spain",RTVE poca
 https://jmp2.uk/stvp-ES3300006QL
 #EXTINF:-1 channel-id="GB330000144-gb" tvg-id="GB330000144" tvg-chno="4608" tvg-name="RugbyPass TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB330000144_20250624T020553SQUARE.png" group-title="United Kingdom",RugbyPass TV
 https://jmp2.uk/stvp-GB330000144
@@ -4097,15 +4097,15 @@ https://jmp2.uk/stvp-KRBB420000769
 https://jmp2.uk/stvp-KRBB4200016TZ
 #EXTINF:-1 channel-id="KRBB4200017HA-kr" tvg-id="KRBB4200017HA" tvg-chno="686" tvg-name="SBS 그것 알다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200017HA_20250402T010428SQUARE.png" group-title="South Korea",SBS 그것 싶다
 https://jmp2.uk/stvp-KRBB4200017HA
-#EXTINF:-1 channel-id="KRBB4200005CK-kr" tvg-id="KRBB4200005CK" tvg-chno="633" tvg-name="SBS  자 자" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20250402T010431SQUARE.png" group-title="South Korea",SBS 내 남 여자
+#EXTINF:-1 channel-id="KRBB4200005CK-kr" tvg-id="KRBB4200005CK" tvg-chno="633" tvg-name="SBS   자" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200005CK_20250402T010431SQUARE.png" group-title="South Korea",SBS 내 남 여자
 https://jmp2.uk/stvp-KRBB4200005CK
 #EXTINF:-1 channel-id="KRBB4200002MM-kr" tvg-id="KRBB4200002MM" tvg-chno="544" tvg-name="SBS " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200002MM_20250514T082354SQUARE.png" group-title="South Korea",SBS 닝
 https://jmp2.uk/stvp-KRBB4200002MM
-#EXTINF:-1 channel-id="KRBB4200003ZL-kr" tvg-id="KRBB4200003ZL" tvg-chno="584" tvg-name="SBS 미운 리 새" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20250514T082359SQUARE.png" group-title="South Korea",SBS 운 우리 새
+#EXTINF:-1 channel-id="KRBB4200003ZL-kr" tvg-id="KRBB4200003ZL" tvg-chno="584" tvg-name="SBS 미운 리 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200003ZL_20250514T082359SQUARE.png" group-title="South Korea",SBS  우리 새
 https://jmp2.uk/stvp-KRBB4200003ZL
 #EXTINF:-1 channel-id="KRBB4200011RB-kr" tvg-id="KRBB4200011RB" tvg-chno="585" tvg-name="SBS  골식" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200011RB_20250402T010440SQUARE.png" group-title="South Korea",SBS 종원 목식
 https://jmp2.uk/stvp-KRBB4200011RB
-#EXTINF:-1 channel-id="KRBB42000100V-kr" tvg-id="KRBB42000100V" tvg-chno="586" tvg-name="SBS 불타는 춘" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20250402T010443SQUARE.png" group-title="South Korea",SBS 불는 춘
+#EXTINF:-1 channel-id="KRBB42000100V-kr" tvg-id="KRBB42000100V" tvg-chno="586" tvg-name="SBS 타는 춘" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB42000100V_20250402T010443SQUARE.png" group-title="South Korea",SBS 불는 춘
 https://jmp2.uk/stvp-KRBB42000100V
 #EXTINF:-1 channel-id="KRBB4200018FT-kr" tvg-id="KRBB4200018FT" tvg-chno="688" tvg-name="SBS 활의 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200018FT_20250402T010447SQUARE.png" group-title="South Korea",SBS  달
 https://jmp2.uk/stvp-KRBB4200018FT
@@ -4121,7 +4121,7 @@ https://jmp2.uk/stvp-KRBB42000061Z
 https://jmp2.uk/stvp-KRBB420001572
 #EXTINF:-1 channel-id="KRBB4200012PV-kr" tvg-id="KRBB4200012PV" tvg-chno="554" tvg-name="SBS 정글의 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200012PV_20250402T010506SQUARE.png" group-title="South Korea",SBS  법
 https://jmp2.uk/stvp-KRBB4200012PV
-#EXTINF:-1 channel-id="KRBB4200014MY-kr" tvg-id="KRBB4200014MY" tvg-chno="589" tvg-name="SBS 패 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200014MY_20250402T010509SQUARE.png" group-title="South Korea",SBS 리가 
+#EXTINF:-1 channel-id="KRBB4200014MY-kr" tvg-id="KRBB4200014MY" tvg-chno="589" tvg-name="SBS  " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200014MY_20250402T010509SQUARE.png" group-title="South Korea",SBS 가 
 https://jmp2.uk/stvp-KRBB4200014MY
 #EXTINF:-1 channel-id="KRBB420000180-kr" tvg-id="KRBB420000180" tvg-chno="628" tvg-name="SBS 피인" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB420000180_20250514T082312SQUARE.png" group-title="South Korea",SBS 피고인
 https://jmp2.uk/stvp-KRBB420000180
@@ -4855,7 +4855,7 @@ https://jmp2.uk/stvp-CABD1200007HY
 https://jmp2.uk/stvp-GBBD1100007AC
 #EXTINF:-1 channel-id="CA1400003R3-ca" tvg-id="CA1400003R3" tvg-chno="2341" tvg-name="TSN The Ocho" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20250729T185423SQUARE.png" group-title="Canada",TSN The Ocho
 https://jmp2.uk/stvp-CA1400003R3
-#EXTINF:-1 channel-id="KRBC3200008M6-kr" tvg-id="KRBC3200008M6" tvg-chno="590" tvg-name="TV CHOSUN 식 허만의 반" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20250402T010521SQUARE.png" group-title="South Korea",TV CHOSUN 식  기
+#EXTINF:-1 channel-id="KRBC3200008M6-kr" tvg-id="KRBC3200008M6" tvg-chno="590" tvg-name="TV CHOSUN 식 허만 반" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200008M6_20250402T010521SQUARE.png" group-title="South Korea",TV CHOSUN 식  기
 https://jmp2.uk/stvp-KRBC3200008M6
 #EXTINF:-1 channel-id="USBB3500002FL-us" tvg-id="USBB3500002FL" tvg-chno="1595" tvg-name="TV Land Drama" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3500002FL_20241112T000745SQUARE.png" group-title="United States",TV Land Drama
 https://jmp2.uk/stvp-USBB3500002FL
@@ -4887,15 +4887,15 @@ https://jmp2.uk/stvp-KRBC800015MH
 https://jmp2.uk/stvp-KRBC3200014XZ
 #EXTINF:-1 channel-id="KRBC4500002Q4-kr" tvg-id="KRBC4500002Q4" tvg-chno="627" tvg-name="tvN 검색 력하세요 WWW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500002Q4_20250716T005506SQUARE.png" group-title="South Korea",tvN 검색를 요 WWW
 https://jmp2.uk/stvp-KRBC4500002Q4
-#EXTINF:-1 channel-id="KRBC320002200-kr" tvg-id="KRBC320002200" tvg-chno="519" tvg-name="tvN 꽃보 청  아보" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20250813T025714SQUARE.png" group-title="South Korea",tvN 보다 청 시 모보
+#EXTINF:-1 channel-id="KRBC320002200-kr" tvg-id="KRBC320002200" tvg-chno="519" tvg-name="tvN 꽃보 청  보" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC320002200_20250813T025714SQUARE.png" group-title="South Korea",tvN 보다 청 시 모보
 https://jmp2.uk/stvp-KRBC320002200
 #EXTINF:-1 channel-id="KRBC32000261J-kr" tvg-id="KRBC32000261J" tvg-chno="578" tvg-name="tvN 운 요 하이이트" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000261J_20250402T005952SQUARE.png" group-title="South Korea",tvN 놀  이이트
 https://jmp2.uk/stvp-KRBC32000261J
-#EXTINF:-1 channel-id="KRBC800016YS-kr" tvg-id="KRBC800016YS" tvg-chno="560" tvg-name="tvN  전 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800016YS_20250402T005954SQUARE.png" group-title="South Korea",tvN 탈출  즌
+#EXTINF:-1 channel-id="KRBC800016YS-kr" tvg-id="KRBC800016YS" tvg-chno="560" tvg-name="tvN  전 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC800016YS_20250402T005954SQUARE.png" group-title="South Korea",tvN 탈출  
 https://jmp2.uk/stvp-KRBC800016YS
 #EXTINF:-1 channel-id="KRBC3200029C4-kr" tvg-id="KRBC3200029C4" tvg-chno="517" tvg-name="tvN 무 1~2 이어기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200029C4_20250811T061431SQUARE.png" group-title="South Korea",tvN 무단 1~2 기
 https://jmp2.uk/stvp-KRBC3200029C4
-#EXTINF:-1 channel-id="KRBC3200017JQ-kr" tvg-id="KRBC3200017JQ" tvg-chno="630" tvg-name="tvN 미생" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20250811T061433SQUARE.png" group-title="South Korea",tvN 미생
+#EXTINF:-1 channel-id="KRBC3200017JQ-kr" tvg-id="KRBC3200017JQ" tvg-chno="630" tvg-name="tvN 생" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20250811T061433SQUARE.png" group-title="South Korea",tvN 미생
 https://jmp2.uk/stvp-KRBC3200017JQ
 #EXTINF:-1 channel-id="KRBC3200021ZA-kr" tvg-id="KRBC3200021ZA" tvg-chno="684" tvg-name="tvN 벌 사 약.zip" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200021ZA_20250402T010001SQUARE.png" group-title="South Korea",tvN  세 요약.zip
 https://jmp2.uk/stvp-KRBC3200021ZA
@@ -4903,21 +4903,21 @@ https://jmp2.uk/stvp-KRBC3200021ZA
 https://jmp2.uk/stvp-KRBC3200032ZM
 #EXTINF:-1 channel-id="KRBC3200030BO-kr" tvg-id="KRBC3200030BO" tvg-chno="541" tvg-name="tvN  " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200030BO_20250402T010007SQUARE.png" group-title="South Korea",tvN 끼 고창
 https://jmp2.uk/stvp-KRBC3200030BO
-#EXTINF:-1 channel-id="KRBC32000156C-kr" tvg-id="KRBC32000156C" tvg-chno="542" tvg-name="tvN  어촌 5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000156C_20250402T010009SQUARE.png" group-title="South Korea",tvN 삼세 어 5
+#EXTINF:-1 channel-id="KRBC32000156C-kr" tvg-id="KRBC32000156C" tvg-chno="542" tvg-name="tvN  어 5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000156C_20250402T010009SQUARE.png" group-title="South Korea",tvN 삼세 어 5
 https://jmp2.uk/stvp-KRBC32000156C
 #EXTINF:-1 channel-id="KRBC3200025QG-kr" tvg-id="KRBC3200025QG" tvg-chno="569" tvg-name="tvN 서진네2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200025QG_20250811T061435SQUARE.png" group-title="South Korea",tvN 서2
 https://jmp2.uk/stvp-KRBC3200025QG
-#EXTINF:-1 channel-id="KRBC3200018FU-kr" tvg-id="KRBC3200018FU" tvg-chno="518" tvg-name="tvN 선 고 튀어" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20250813T025716SQUARE.png" group-title="South Korea",tvN 선재  
+#EXTINF:-1 channel-id="KRBC3200018FU-kr" tvg-id="KRBC3200018FU" tvg-chno="518" tvg-name="tvN 선  튀어" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20250813T025716SQUARE.png" group-title="South Korea",tvN 선재  
 https://jmp2.uk/stvp-KRBC3200018FU
 #EXTINF:-1 channel-id="KRBC4500003W6-kr" tvg-id="KRBC4500003W6" tvg-chno="622" tvg-name="tvN 운 활 1~2 어보" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500003W6_20250514T082315SQUARE.png" group-title="South Korea",tvN 기운 사 1~2 기
 https://jmp2.uk/stvp-KRBC4500003W6
-#EXTINF:-1 channel-id="KRBC32000248R-kr" tvg-id="KRBC32000248R" tvg-chno="547" tvg-name="tvN 서유 7~8 이어기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000248R_20250402T010021SQUARE.png" group-title="South Korea",tvN 신 7~8 어
+#EXTINF:-1 channel-id="KRBC32000248R-kr" tvg-id="KRBC32000248R" tvg-chno="547" tvg-name="tvN 서유 7~8 이기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000248R_20250402T010021SQUARE.png" group-title="South Korea",tvN 신 7~8 어
 https://jmp2.uk/stvp-KRBC32000248R
 #EXTINF:-1 channel-id="KRBC8000144F-kr" tvg-id="KRBC8000144F" tvg-chno="555" tvg-name="tvN 범잡 1~2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000144F_20250811T061437SQUARE.png" group-title="South Korea",tvN 알범 1~2
 https://jmp2.uk/stvp-KRBC8000144F
-#EXTINF:-1 channel-id="KRBC8000128W-kr" tvg-id="KRBC8000128W" tvg-chno="556" tvg-name="tvN 쩌다 장  즌 어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000128W_20250402T010023SQUARE.png" group-title="South Korea",tvN 어쩌   시 이기
+#EXTINF:-1 channel-id="KRBC8000128W-kr" tvg-id="KRBC8000128W" tvg-chno="556" tvg-name="tvN 쩌다 장  즌 어보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC8000128W_20250402T010023SQUARE.png" group-title="South Korea",tvN 어쩌   시 이
 https://jmp2.uk/stvp-KRBC8000128W
-#EXTINF:-1 channel-id="KR700006WZ-kr" tvg-id="KR700006WZ" tvg-chno="565" tvg-name="tvN 네 송 1~2 기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700006WZ_20250716T005517SQUARE.png" group-title="South Korea",tvN 니 지직송 1~2 어보
+#EXTINF:-1 channel-id="KR700006WZ-kr" tvg-id="KR700006WZ" tvg-chno="565" tvg-name="tvN 네  1~2 기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR700006WZ_20250716T005517SQUARE.png" group-title="South Korea",tvN 니 지직송 1~2 어보
 https://jmp2.uk/stvp-KR700006WZ
 #EXTINF:-1 channel-id="KRBD3100002JL-kr" tvg-id="KRBD3100002JL" tvg-chno="579" tvg-name="tvN    더 럭 HOT CLIP" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD3100002JL_20250402T010025SQUARE.png" group-title="South Korea",tvN 유   더 블럭 HOT CLIP
 https://jmp2.uk/stvp-KRBD3100002JL
@@ -4929,13 +4929,13 @@ https://jmp2.uk/stvp-KRBC3200031KO
 https://jmp2.uk/stvp-KRBC3200016H1
 #EXTINF:-1 channel-id="KRBC4500001A5-kr" tvg-id="KRBC4500001A5" tvg-chno="645" tvg-name="tvN  4K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4500001A5_20250514T082319SQUARE.png" group-title="South Korea",tvN 혼 4K
 https://jmp2.uk/stvp-KRBC4500001A5
-#EXTINF:-1 channel-id="KRBD2700002IV-kr" tvg-id="KRBD2700002IV" tvg-chno="577" tvg-name="TV 미스로또" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20250514T082442SQUARE.png" group-title="South Korea",TV선 
+#EXTINF:-1 channel-id="KRBD2700002IV-kr" tvg-id="KRBD2700002IV" tvg-chno="577" tvg-name="TV 미로또" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700002IV_20250514T082442SQUARE.png" group-title="South Korea",TV선 
 https://jmp2.uk/stvp-KRBD2700002IV
 #EXTINF:-1 channel-id="KRBD27000069Q-kr" tvg-id="KRBD27000069Q" tvg-chno="573" tvg-name="TV조 랑 타" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD27000069Q_20250514T082444SQUARE.png" group-title="South Korea",TV 사 콜타
 https://jmp2.uk/stvp-KRBD27000069Q
 #EXTINF:-1 channel-id="KRBD2700001QR-kr" tvg-id="KRBD2700001QR" tvg-chno="559" tvg-name="TV조선 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD2700001QR_20250514T082446SQUARE.png" group-title="South Korea",TV조 왕
 https://jmp2.uk/stvp-KRBD2700001QR
-#EXTINF:-1 channel-id="KRBC35000169K-kr" tvg-id="KRBC35000169K" tvg-chno="598" tvg-name="TV조 빠하 나고" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC35000169K_20250402T010532SQUARE.png" group-title="South Korea",TV선 아하 나
+#EXTINF:-1 channel-id="KRBC35000169K-kr" tvg-id="KRBC35000169K" tvg-chno="598" tvg-name="TV 빠하 나고" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC35000169K_20250402T010532SQUARE.png" group-title="South Korea",TV선 아하 나
 https://jmp2.uk/stvp-KRBC35000169K
 #EXTINF:-1 channel-id="USBA30002142-us" tvg-id="USBA30002142" tvg-chno="1185" tvg-name="TYT Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA30002142_20250325T020252SQUARE.png" group-title="United States",TYT Network
 https://jmp2.uk/stvp-USBA30002142
@@ -5244,7 +5244,7 @@ https://jmp2.uk/stvp-USBC2100008DP
 https://jmp2.uk/stvp-USAK3508706A
 #EXTINF:-1 channel-id="IN46000011Q-in" tvg-id="IN46000011Q" tvg-chno="1179" tvg-name="XXTreme Jobs" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000011Q_20250205T004626SQUARE.png" group-title="India",XXTreme Jobs
 https://jmp2.uk/stvp-IN46000011Q
-#EXTINF:-1 channel-id="FRBC900003KP-fr" tvg-id="FRBC900003KP" tvg-chno="4138" tvg-name="Y'a que la vrité qui compte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900003KP_20241015T040418SQUARE.png" group-title="France",Y'a que la vrité qui compte
+#EXTINF:-1 channel-id="FRBC900003KP-fr" tvg-id="FRBC900003KP" tvg-chno="4138" tvg-name="Y'a que la vrité qui compte" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900003KP_20241015T040418SQUARE.png" group-title="France",Y'a que la vrit qui compte
 https://jmp2.uk/stvp-FRBC900003KP
 #EXTINF:-1 channel-id="CHBB49000023B-ch" tvg-id="CHBB49000023B" tvg-chno="4106" tvg-name="Y'a que la vérit qui compte [FR]" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CHBB49000023B_20250107T031539SQUARE.png" group-title="Switzerland",Y'a que la vérité qui compte [FR]
 https://jmp2.uk/stvp-CHBB49000023B
@@ -5306,7 +5306,7 @@ https://jmp2.uk/stvp-CABD1700003AY
 https://jmp2.uk/stvp-USBC2400019EF
 #EXTINF:-1 channel-id="ES26000025M-es" tvg-id="ES26000025M" tvg-chno="4201" tvg-name="¡Hola! Play" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES26000025M_20241210T052650SQUARE.png" group-title="Spain",Hola! Play
 https://jmp2.uk/stvp-ES26000025M
-#EXTINF:-1 channel-id="US270000298-us" tvg-id="US270000298" tvg-chno="3907" tvg-name="¿Qué Culpa Tiene Fatmagl?" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US270000298_20241119T020402SQUARE.png" group-title="United States",Qu Culpa Tiene Fatmagül?
+#EXTINF:-1 channel-id="US270000298-us" tvg-id="US270000298" tvg-chno="3907" tvg-name="Qué Culpa Tiene Fatmagl?" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US270000298_20241119T020402SQUARE.png" group-title="United States",Qu Culpa Tiene Fatmagül?
 https://jmp2.uk/stvp-US270000298
 #EXTINF:-1 channel-id="ES500005BP-es" tvg-id="ES500005BP" tvg-chno="4242" tvg-name="Águila Roja" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES500005BP_20250610T010520SQUARE.png" group-title="Spain",Águila Roja
 https://jmp2.uk/stvp-ES500005BP
@@ -5326,15 +5326,15 @@ https://jmp2.uk/stvp-KRBD3100006X4
 https://jmp2.uk/stvp-KRBC800013YF
 #EXTINF:-1 channel-id="KRBB4200009C3-kr" tvg-id="KRBB4200009C3" tvg-chno="564" tvg-name=" " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB4200009C3_20250402T010043SQUARE.png" group-title="South Korea", 
 https://jmp2.uk/stvp-KRBB4200009C3
-#EXTINF:-1 channel-id="KR2000011GA-kr" tvg-id="KR2000011GA" tvg-chno="514" tvg-name="나" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000011GA_20250811T061444SQUARE.png" group-title="South Korea",나브
+#EXTINF:-1 channel-id="KR2000011GA-kr" tvg-id="KR2000011GA" tvg-chno="514" tvg-name="나" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000011GA_20250811T061444SQUARE.png" group-title="South Korea",나
 https://jmp2.uk/stvp-KR2000011GA
-#EXTINF:-1 channel-id="KR2000010K7-kr" tvg-id="KR2000010K7" tvg-chno="506" tvg-name="나 리에" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000010K7_20250811T061447SQUARE.png" group-title="South Korea", 리에
+#EXTINF:-1 channel-id="KR2000010K7-kr" tvg-id="KR2000010K7" tvg-chno="506" tvg-name="나 리" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000010K7_20250811T061447SQUARE.png" group-title="South Korea", 리에
 https://jmp2.uk/stvp-KR2000010K7
-#EXTINF:-1 channel-id="KRBC3500013VH-kr" tvg-id="KRBC3500013VH" tvg-chno="709" tvg-name="폴리 TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20250514T082323SQUARE.png" group-title="South Korea",로 TV
+#EXTINF:-1 channel-id="KRBC3500013VH-kr" tvg-id="KRBC3500013VH" tvg-chno="709" tvg-name="폴 TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3500013VH_20250514T082323SQUARE.png" group-title="South Korea",로 TV
 https://jmp2.uk/stvp-KRBC3500013VH
-#EXTINF:-1 channel-id="KR2000006NC-kr" tvg-id="KR2000006NC" tvg-chno="508" tvg-name="당이 있는 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000006NC_20250811T061449SQUARE.png" group-title="South Korea",마당  
+#EXTINF:-1 channel-id="KR2000006NC-kr" tvg-id="KR2000006NC" tvg-chno="508" tvg-name="당 있는 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000006NC_20250811T061449SQUARE.png" group-title="South Korea",마당  
 https://jmp2.uk/stvp-KR2000006NC
-#EXTINF:-1 channel-id="KRBC3200007D1-kr" tvg-id="KRBC3200007D1" tvg-chno="557" tvg-name=" " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20250402T010049SQUARE.png" group-title="South Korea",있는 녀석
+#EXTINF:-1 channel-id="KRBC3200007D1-kr" tvg-id="KRBC3200007D1" tvg-chno="557" tvg-name=" " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200007D1_20250402T010049SQUARE.png" group-title="South Korea",는 녀석
 https://jmp2.uk/stvp-KRBC3200007D1
 #EXTINF:-1 channel-id="KR2900001RN-kr" tvg-id="KR2900001RN" tvg-chno="582" tvg-name="밀리" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2900001RN_20250402T010051SQUARE.png" group-title="South Korea",오패리
 https://jmp2.uk/stvp-KR2900001RN
@@ -5366,9 +5366,9 @@ https://jmp2.uk/stvp-KRBD2200001QD
 https://jmp2.uk/stvp-KR2000009EC
 #EXTINF:-1 channel-id="KRBC4000003J2-kr" tvg-id="KRBC4000003J2" tvg-chno="646" tvg-name="전우" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20250514T082328SQUARE.png" group-title="South Korea",전우
 https://jmp2.uk/stvp-KRBC4000003J2
-#EXTINF:-1 channel-id="KRBC4100001LY-kr" tvg-id="KRBC4100001LY" tvg-chno="567" tvg-name="널A 나 고 와 시부" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20250402T010118SQUARE.png" group-title="South Korea",채널A 나 믿고 따 시어부
+#EXTINF:-1 channel-id="KRBC4100001LY-kr" tvg-id="KRBC4100001LY" tvg-chno="567" tvg-name="널A  고 와 시부" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20250402T010118SQUARE.png" group-title="South Korea",채널A 나 믿고 따 시어부
 https://jmp2.uk/stvp-KRBC4100001LY
-#EXTINF:-1 channel-id="KRBC4100005N5-kr" tvg-id="KRBC4100005N5" tvg-chno="597" tvg-name="채A 이제 만러 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20250402T010121SQUARE.png" group-title="South Korea",A 이 만 니다
+#EXTINF:-1 channel-id="KRBC4100005N5-kr" tvg-id="KRBC4100005N5" tvg-chno="597" tvg-name="채A 이제 만러 " tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20250402T010121SQUARE.png" group-title="South Korea",A 이 만 니
 https://jmp2.uk/stvp-KRBC4100005N5
 #EXTINF:-1 channel-id="KRBB5000364M-kr" tvg-id="KRBB5000364M" tvg-chno="815" tvg-name="초록미 K-STAR 프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20250521T005555SQUARE.png" group-title="South Korea",초뱀미어 K-STAR 
 https://jmp2.uk/stvp-KRBB5000364M
@@ -6068,7 +6068,7 @@ https://jmp2.uk/rok-5ae9fb0c6e015b0d951063f6a6b39ee5.m3u8
 https://jmp2.uk/rok-5e709cfe55d955ec899903cde681a5a4.m3u8
 #EXTINF:-1 channel-id="e3823bb513585861904499a21a736c4f" tvg-id="e3823bb513585861904499a21a736c4f" tvg-chno="977" tvg-name="Canal ViX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3823bb513585861904499a21a736c4f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1743194357309_CanalViX_HUD_ChannelLogo_260x147px.png" group-title="Entertainment",Canal ViX
 https://jmp2.uk/rok-e3823bb513585861904499a21a736c4f.m3u8
-#EXTINF:-1 channel-id="7913b5796de15cb9ab8dfd392d769dec" tvg-id="7913b5796de15cb9ab8dfd392d769dec" tvg-chno="981" tvg-name="Canela.TV Pasión Turca" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7913b5796de15cb9ab8dfd392d769dec/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562744530_ROKU-PasionTurca-InfoHUD-1.png" group-title="Drama",Canela.TV Pasión Turca
+#EXTINF:-1 channel-id="7913b5796de15cb9ab8dfd392d769dec" tvg-id="7913b5796de15cb9ab8dfd392d769dec" tvg-chno="981" tvg-name="Canela.TV Pasin Turca" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7913b5796de15cb9ab8dfd392d769dec/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562744530_ROKU-PasionTurca-InfoHUD-1.png" group-title="Drama",Canela.TV Pasión Turca
 https://jmp2.uk/rok-7913b5796de15cb9ab8dfd392d769dec.m3u8
 #EXTINF:-1 channel-id="0a85a15f5ee75646bf386d3de3083a94" tvg-id="0a85a15f5ee75646bf386d3de3083a94" tvg-chno="982" tvg-name="Canela.TV Pasión Latina" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0a85a15f5ee75646bf386d3de3083a94/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734562719513_ROKU-PasionLatina-InfoHUD-1.png" group-title="Action",Canela.TV Pasión Latina
 https://jmp2.uk/rok-0a85a15f5ee75646bf386d3de3083a94.m3u8
@@ -6128,13 +6128,13 @@ https://jmp2.uk/rok-42ee7ce6165d5342be3e509f0afe5048.m3u8
 https://jmp2.uk/rok-44bdeb3ebdff5ed3b5468ddddfcfbf1b.m3u8
 #EXTINF:-1 channel-id="b602b0edb0cd58a5a5be2b7554166c07" tvg-id="b602b0edb0cd58a5a5be2b7554166c07" tvg-chno="1032" tvg-name="FilmRise Autopista al Cielo" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/b602b0edb0cd58a5a5be2b7554166c07/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549850767_FR_AutopistaAlCielo_HUD_CenterAligned.png" group-title="Drama",FilmRise Autopista al Cielo
 https://jmp2.uk/rok-b602b0edb0cd58a5a5be2b7554166c07.m3u8
-#EXTINF:-1 channel-id="50cd4d6c632d5172834eb5b77fa395c6" tvg-id="50cd4d6c632d5172834eb5b77fa395c6" tvg-chno="1033" tvg-name="FILMEX Clásico" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/50cd4d6c632d5172834eb5b77fa395c6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744349180_FMXCHD_HUD_WHITE.png" group-title="Action",FILMEX Clásico
+#EXTINF:-1 channel-id="50cd4d6c632d5172834eb5b77fa395c6" tvg-id="50cd4d6c632d5172834eb5b77fa395c6" tvg-chno="1033" tvg-name="FILMEX Clásico" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/50cd4d6c632d5172834eb5b77fa395c6/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744349180_FMXCHD_HUD_WHITE.png" group-title="Action",FILMEX Clsico
 https://jmp2.uk/rok-50cd4d6c632d5172834eb5b77fa395c6.m3u8
 #EXTINF:-1 channel-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-chno="1034" tvg-name="FILMEX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e2a4ec82eb65f729ad7484337c0bcd4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744073738_FMXHD_HUD_WHITE.png" group-title="Action",FILMEX
 https://jmp2.uk/rok-1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
 #EXTINF:-1 channel-id="5dbf591219b15aa8bb3a7b73b59307f0" tvg-id="5dbf591219b15aa8bb3a7b73b59307f0" tvg-chno="1035" tvg-name="Cine EstrellaTV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5dbf591219b15aa8bb3a7b73b59307f0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1729603771429_LogoCINEEstrellaTV_ForHUD.png" group-title="Action",Cine EstrellaTV
 https://jmp2.uk/rok-5dbf591219b15aa8bb3a7b73b59307f0.m3u8
-#EXTINF:-1 channel-id="c39d021ed8c95682a82ce6077ac0ab47" tvg-id="c39d021ed8c95682a82ce6077ac0ab47" tvg-chno="1049" tvg-name="Runtime Sangre Fría" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c39d021ed8c95682a82ce6077ac0ab47/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748485001772_Sangre_Fria_HUD_260x147.png" group-title="Crime",Runtime Sangre Fría
+#EXTINF:-1 channel-id="c39d021ed8c95682a82ce6077ac0ab47" tvg-id="c39d021ed8c95682a82ce6077ac0ab47" tvg-chno="1049" tvg-name="Runtime Sangre Fría" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c39d021ed8c95682a82ce6077ac0ab47/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1748485001772_Sangre_Fria_HUD_260x147.png" group-title="Crime",Runtime Sangre Fra
 https://jmp2.uk/rok-c39d021ed8c95682a82ce6077ac0ab47.m3u8
 #EXTINF:-1 channel-id="c7fa77b283b35873aa6f08cf73d75b5f" tvg-id="c7fa77b283b35873aa6f08cf73d75b5f" tvg-chno="1050" tvg-name="Crímenes Verdaderos" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c7fa77b283b35873aa6f08cf73d75b5f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661441318727_1654105525363_FR_Crimenes_centeredHUD.png" group-title="Crime",Crímenes Verdaderos
 https://jmp2.uk/rok-c7fa77b283b35873aa6f08cf73d75b5f.m3u8
@@ -6501,7 +6501,7 @@ https://jmp2.uk/plu-65493029ab052400089e9d2f.m3u8
 https://jmp2.uk/plu-5b4e99f4423e067bd6df6903.m3u8
 #EXTINF:-1 channel-id="60f75771dfc72a00071fd0e0" tvg-id="60f75771dfc72a00071fd0e0" tvg-chno="795" tvg-name="Gunsmoke" tvg-logo="https://images.pluto.tv/channels/60f75771dfc72a00071fd0e0/colorLogoPNG.png" group-title="Westerns",Gunsmoke
 https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
-#EXTINF:-1 channel-id="6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-chno="4170" tvg-name="Hallmark en espaol" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG.png" group-title="En Español",Hallmark en español
+#EXTINF:-1 channel-id="6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-chno="4170" tvg-name="Hallmark en espaol" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG.png" group-title="En Español",Hallmark en espaol
 https://jmp2.uk/plu-6532e7b290a74c00084a3bb6.m3u8
 #EXTINF:-1 channel-id="628e685ba3811100070551a8" tvg-id="628e685ba3811100070551a8" tvg-chno="2080" tvg-name="Hallmark Movies & More" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png" group-title="Entertainment",Hallmark Movies & More
 https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
@@ -10335,7 +10335,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -10377,7 +10377,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-id="Cinemax" group-title="MOVIES" group-logo="" tvg-logo="https://iili.io/Ju79znp.png",Cinemax
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -10414,7 +10414,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://mimipipi22.github.io/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX
 #https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mediampd/CinemaxHD.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://mimipipi22.github.io/logo/movies/hbo.jpg" group-title="MOVIES",HBO 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -10446,7 +10446,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
-🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
@@ -10940,7 +10940,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTINF:-1 tvg-id="beINSports5.id" tvg-name="beIN Sports 5" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports5.jpg" group-title="SPORTS",BEIN SPORTS 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream=ffmpegdirect
@@ -11957,7 +11957,7 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 //========================================================================
 
 
-🔹🔹🔹🔹🔹🔹 [NASIONAL TV] 🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹 [NASIONAL TV] 🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 group-title="INDONESIA TV", ▃ ▅      INDONESIA TV     ▇  ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
@@ -12094,7 +12094,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
 https://mimipipi22.github.io/logo/offline.m3u8
 http://tr.simotvgold.com/play/live.php?mac=A0:BB:3E:01:65:3F&stream=1919441&extension=ts&play_token=1uB9lLCHKU
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
@@ -12116,7 +12116,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/inews/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="INDONESIA TV",SINDONEWS (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
@@ -12124,7 +12124,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000115/1024.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/sindonews.jpg" group-title="INDONESIA TV",SINDONEWS (IND)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/mncnews/manifest.mpd
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12282,7 +12282,7 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/transtv.jpg" group-title="INDONESIA TV",TRANS TV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
@@ -12355,7 +12355,7 @@ http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/antv.jpg" group-title="INDONESIA TV",ANTV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
@@ -12477,7 +12477,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=874&type=hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/kompastv.jpg" group-title="INDONESIA TV",KOMPAS TV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000055/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12517,7 +12517,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=777&type=hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/metrotv.jpg" group-title="INDONESIA TV",METRO TV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000004/1024.m3u8
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/cnnid.jpg" group-title="INDONESIA TV",CNN INDONESIA (STR)
@@ -12584,7 +12584,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=6165&type=hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/btv.jpg" group-title="INDONESIA TV",BTV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1919.php
@@ -12603,7 +12603,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/idtv/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/beritasatu.jpg" group-title="INDONESIA TV",BERITASATU (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=303eeb13aee345d3b04d6a407b4ff199:cdf924eb0f1b5017ac590f4f70f00a53
@@ -12689,7 +12689,7 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/daaitv.jpg" group-title="INDONESIA TV",DAAI TV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹 [LINE] 🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
@@ -12717,13 +12717,13 @@ http://103.46.10.145:9981/stream/channelid/1477399825?ticket=C6F1BC3BCCFC6767849
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mdtv.jpg" group-title="INDONESIA TV",MDTV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/bntv.jpg" group-title="INDONESIA TV",BN TV (FLV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://flv.intechmedia.net/live/ch112.m3u8|user-agent=Mozilla/5.0
 
-🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12758,7 +12758,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=9713&type=hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jtv.jpg" group-title="INDONESIA TV",JTV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -12775,7 +12775,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/magna.jpg" group-title="INDONESIA TV",MAGNA (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&userid=lite&chname=Magna_Channel
 
-🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12810,7 +12810,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=5415&type=hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jaktv.jpg" group-title="INDONESIA TV",JAKTV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -12836,7 +12836,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=7432&type=hls
 #EXTINF:-1 tvg-id="Nusantara.TV.id" tvg-name="Nusantara TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/nusantaratv.jpg" group-title="INDONESIA TV",NUSANTARA TV (PASS)
 http://103.170.33.11:9981/stream/channelid/133753?profile=pass
 
-🔹🔹 [LINE] 🔹🔹🔹
+🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/garudatv.jpg" group-title="INDONESIA TV",GARUDA TV (STR)
@@ -12855,7 +12855,7 @@ https://nextgenz.my.id/event/pidio/play.m3u8?id=18162&type=hls
 #EXTINF:-1 tvg-id="Garuda TV.id" tvg-name="Garuda TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/garudatv.jpg" group-title="INDONESIA TV",GARUDA TV (PASS)
 http://103.170.33.11:9981/stream/channelid/745960124?profile=pass
 
-🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
@@ -12892,7 +12892,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000068/1024.m3u8
 #EXTINF:-1 tvg-id="BandungTV.id" tvg-name="Bandung TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/bandungtv.jpg" group-title="INDONESIA TV",BANDUNG TV (STREAM)
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="ElshintaTV.my.id" tvg-name="ElshintaTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/elshintatv.jpg" group-title="INDONESIA TV",ELSHINTA TV (STR)
@@ -12913,7 +12913,7 @@ https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8?app_type=web&userid=li
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/antara/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 
-🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://oxygentv.id/
@@ -12922,7 +12922,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/antara/manifest.mpd
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
 https://why.biz.id/Iptv/oxygen.php?id=oxygentv
 
-🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sinpotv.jpg", group-title="INDONESIA TV", SIN PO TV (VDO)
@@ -12980,7 +12980,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
 
-🔹🔹🔹🔹🔹🔹🔹🔹 [MOVIES] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹 [MOVIES] 🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 group-title="MOVIES",   ▇     MOVIES    █   ▃ 
 https://mimipipi22.github.io/logo/offline.m3u8
@@ -13045,7 +13045,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/47c895ca72544fcfa4221c499b555a10/index
 #EXTINF:-1 tvg-id="CineEdge.id" tvg-name="CineEdge" tvg-logo="https://mimipipi22.github.io/logo/movies/cineedge.jpg" group-title="MOVIES",CINEEDGE (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹 [LINE] 🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
@@ -13062,7 +13062,7 @@ https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
@@ -13082,7 +13082,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 #EXTINF:-1 tvg-id="StudioUniversal.id" tvg-name="Studio Universal" tvg-logo="https://mimipipi22.github.io/logo/movies/studiouniversal.jpg" group-title="MOVIES",STUDIO UNIVERSAL (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1919.php
@@ -13181,7 +13181,7 @@ http://51.89.166.17:3002/index.php?id=Tvnmovie
 #EXTINF:-1 tvg-id="tvNMovies.id" tvg-name="tvN Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/tvnmovies.jpg" group-title="MOVIES",TVN MOVIES (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
@@ -13200,7 +13200,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 #EXTINF:-1 tvg-id="Thrill.id" tvg-name="Thrill" tvg-logo="https://mimipipi22.github.io/logo/movies/thrill.jpg" group-title="MOVIES",THRILL (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13220,7 +13220,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/de93893d01e6446daaf052a7fec694fc/index
 #EXTINF:-1 tvg-id="HITSMovies.id" tvg-name="Hits Movies" tvg-logo="https://mimipipi22.github.io/logo/movies/hitsmovies.jpg" group-title="MOVIES",HITS MOVIES (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -13232,7 +13232,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="MyCinemaEurope.ch" tvg-name="My Cinema Europe HD" tvg-logo="https://mimipipi22.github.io/logo/movies/mycinemaeurope.jpg" group-title="MOVIES",MY CINEMA EUROPE (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
@@ -13282,7 +13282,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856fd0d66d0170334ac
 #EXTINF:-1 tvg-id="Z Bioskop.id" tvg-name="Z Bioskop" tvg-logo="https://mimipipi22.github.io/logo/movies/zbioskop.jpg" group-title="MOVIES",Z BIOSKOP (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
@@ -13290,7 +13290,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
 #EXTINF:-1 tvg-id="citrabioskop.id" tvg-name="Citra Bioskop" tvg-logo="https://mimipipi22.github.io/logo/movies/citrabioskop.jpg" group-title="MOVIES",CITRA BIOSKOP (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mediampd/CitraBioskopHD.mpd
 
-🔹🔹 [LINE] 🔹
+🔹 [LINE] 🔹
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
@@ -13308,7 +13308,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/imc720/manifest.mpd
 #EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://mimipipi22.github.io/logo/movies/imc.jpg" group-title="MOVIES",IMC (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹
 
 #EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://mimipipi22.github.io/logo/movies/flik.jpg" group-title="MOVIES",FLIK (INDI)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -13334,8 +13334,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://mimipipi22.github.io/logo/movies/bioskopid.jpg" group-title="MOVIES",BIOSKOP INDONESIA (CBM)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹
-🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹🔹🔹🔹 [LINE] 🔹
+🔹🔹🔹 [LINE] 🔹
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",AXN MOVIES
 http://172.93.102.112:8989/278815_.m3u8
@@ -13380,7 +13380,7 @@ https://mimipipi22.github.io/logo/offline.m3u8
 http://www.hkyc.site:1991/udp/239.253.64.163:5140
 https://mimipipi22.github.io/logo/offline.m3u8
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/F60rSrv/univpremiere.png" group-title="MOVIES",UNIVERSAL PREMIERE  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13434,9 +13434,9 @@ http://156.239.254.7:5555/smt.php?id=starmovies_raj
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkmovies&channel_id=newid_219&mpf=adfc204d-39af1962-13a2f01a&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=b62c2c8b-8316a771-295eba28-f4663ddd&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 
-🔹🔹🔹🔹🔹🔹🔹 [ENTERTAINMENT] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹 [ENTERTAINMENT] 🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 group-title="ENTERTAINMENT",▂ ▃ ▅   ▓ ▒  ENTERTAINMENT     ▇  ▃ 
+#EXTINF:-1 group-title="ENTERTAINMENT", ▃ ▅   ▓ ▒  ENTERTAINMENT     ▇  ▃ 
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -13470,7 +13470,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856b6088c3016b87da2
 #EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/axn.jpg" group-title="ENTERTAINMENT",AXN (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000119/1024.m3u8
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1919.php
@@ -13484,7 +13484,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b53
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/warner/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
-🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13513,7 +13513,7 @@ http://202.169.224.202:8800/udp/239.9.1.8:1234
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://mimipipi22.github.io/logo/entertainment/rockent.jpg" group-title="ENTERTAINMENT",ROCK ENTERTAINMENT (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13549,7 +13549,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://mimipipi22.github.io/logo/entertainment/hits.jpg" group-title="ENTERTAINMENT",HITS (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000114/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13578,7 +13578,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 #EXTINF:-1 tvg-id="KIX.id" tvg-name="KIX" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kix.jpg" group-title="ENTERTAINMENT",KIX (UDP)
 http://202.169.224.202:8800/udp/239.9.1.21:1234
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13637,7 +13637,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mp
 #EXTINF:-1 tvg-id="tvN.id" tvg-name="tvN" tvg-logo="https://mimipipi22.github.io/logo/entertainment/tvn.jpg" group-title="ENTERTAINMENT",TVN (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
 
-🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13657,7 +13657,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/9ec31bcce34848d69d4771270ff23ab9/index
 #EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://mimipipi22.github.io/logo/entertainment/one.jpg" group-title="ENTERTAINMENT",ONE (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -13668,7 +13668,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 #EXTINF:-1 tvg-id="Kplus.id" tvg-name="Kplus.id" tvg-logo="https://mimipipi22.github.io/logo/entertainment/kplus.jpg" group-title="ENTERTAINMENT",K-PLUS (PHP)
 http://156.239.254.7:5555/smt.php?id=Kplus
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
@@ -13677,7 +13677,7 @@ http://156.239.254.7:5555/smt.php?id=Kplus
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/SonyMax/mediampd/SonyMax.mpd
 
-🔹🔹 [LINE] 🔹🔹
+🔹🔹 [LINE] 🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -13698,7 +13698,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index
 #EXTINF:-1 tvg-id="AnimaxAsia.id" tvg-name="Animax HD" tvg-logo="https://mimipipi22.github.io/logo/entertainment/animax.jpg" group-title="ENTERTAINMENT",ANIMAX (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 ##KODIPROP:inputstreamaddon=inputstream.adaptive
 ##KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -13766,7 +13766,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/db82aed7a1864935b8b8f960651c3db7/index
 #http://tr.simotvgold.com/play/live.php?mac=A0:BB:3E:01:65:3F&stream=1919453&extension=ts&play_token=b62p2cxAQV
 https://slive.mana2.my/DramaChannel/index.mpd
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
@@ -13776,7 +13776,7 @@ https://slive.mana2.my/DramaChannel/index.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
@@ -13813,7 +13813,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest_w1198082458_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -13821,7 +13821,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/useeprime/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -13843,7 +13843,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921
 #EXTINF:-1 tvg-id="!nsert" tvg-name="!nsert" tvg-logo="https://mimipipi22.github.io/logo/entertainment/insert.jpg" group-title="ENTERTAINMENT",!NSERT (CBM)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -13855,14 +13855,14 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h203/index.m3u8
 #EXTINF:-1 tvg-id="Dens Showbiz" tvg-name="Dens Showbiz" tvg-logo="https://mimipipi22.github.io/logo/entertainment/densshowbiz.jpg" group-title="ENTERTAINMENT",DENS SHOWBIZ (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=lite&chname=DensShowBiz
 
-🔹🔹🔹 [LINE] 🔹
+🔹🔹 [LINE] 🔹
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/wedotvamor.jpg" group-title="ENTERTAINMENT",WE DO TV AMOR (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h68/wedotv_amor.m3u8?app_type=web&userid=lite&chname=wedotvAmor
 
-🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -13877,7 +13877,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h69/wedotv_big_stories.m3u8?app_type=
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/atv/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/atv/manifest.mpd
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1919.php
@@ -14034,9 +14034,9 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=j2_twn
 http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
 
 
-🔹🔹🔹🔹🔹🔹 [SPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹 [SPORTS] 🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 group-title="SPORTS",▂    █   ░ SPORTS   ▓  ▇  ▃ ▂
+#EXTINF:-1 group-title="SPORTS",▂       ░ SPORTS   ▓  ▇  ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -14075,7 +14075,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
 https://fta4-cdn-flr.visionplus.id/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
@@ -14102,7 +14102,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://mimipipi22.github.io/logo/sports/soccer.jpg" group-title="SPORTS",SOCCER CHANNEL (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
@@ -14126,7 +14126,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-name="SPOTV" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv.jpg" group-title="SPORTS",SPOTV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
@@ -14145,13 +14145,13 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 #EXTINF:-1 tvg-id="SPOTV2.id" tvg-name="SPOTV2" tvg-logo="https://mimipipi22.github.io/logo/sports/spotv2.jpg" group-title="SPORTS",SPOTV 2 (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="beINSports2.id" tvg-name="beIN Sports 2" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports2.jpg" group-title="SPORTS",BEIN SPORTS 2 (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250Safari/533.3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/sports/v+live.jpg" group-title="SPORTS",V+ LIVE
@@ -14238,7 +14238,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.
 #EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="https://mimipipi22.github.io/logo/sports/eurosports.jpg" group-title="SPORTS",EUROSPORT
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="SPORTS",NBA TV (PXL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -14256,7 +14256,7 @@ http://156.239.254.7:5555/smt.php?id=Nba
 #EXTVLCOPT:http-reconnect=true
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹
 
 #EXTINF:-1 tvg-id="WSport" tvg-name="WSport" tvg-logo="https://mimipipi22.github.io/logo/sports/wsports.jpg" group-title="SPORTS",W-SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
@@ -14330,7 +14330,7 @@ https://db38umy8gexon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="Sportstv.tr" tvg-name="Sportstv" tvg-logo="https://mimipipi22.github.io/logo/sports/sportstvtr.jpg" group-title="SPORTS",SPORTS TV TURKEY
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-🔹🔹🔹 [LINE] 🔹
+🔹🔹 [LINE] 🔹
 🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -14348,7 +14348,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="SPORTS", NFL NETWORK 
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 
-🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s34710_h15_aa.png" group-title="SPORTS",NFL NETWORK  (PXL)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -14399,7 +14399,7 @@ https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyAf82ZyDSxJs2PI6C5
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyAiyN-O_xDpFlaxGznH--Jk/.m3u8
 
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/ctsport.jpg" group-title="SPORTS",CT SPORT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -14512,7 +14512,7 @@ https://dash3.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 #EXTVLCOPT:http-origin=https://webtv.sk
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 
-🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="Ziggo Sport.nl" tvg-logo="https://i.ibb.co.com/HV2c1Cc/ziggosport.png" group-title="SPORTS", ZIGGO SPORT 🇳🇱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -14524,7 +14524,7 @@ https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/32
 #KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
 
-#EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-logo="https://i.ibb.co.com/b2Q0RdR/ziggosport3.png" group-title="SPORTS", ZIGGO SPORT 3 🇳
+#EXTINF:-1 tvg-id="Ziggo Sport 3.nl" tvg-logo="https://i.ibb.co.com/b2Q0RdR/ziggosport3.png" group-title="SPORTS", ZIGGO SPORT 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
 https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,
@@ -14539,7 +14539,7 @@ https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3
 #KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="FOX SPORTS.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="SPORTS", FOX SPORTS 🇲
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -14557,7 +14557,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
-#EXTINF:-1 tvg-id="FOX SPORTS 3.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" group-title="SPORTS", FOX SPORTS 3 🇽
+#EXTINF:-1 tvg-id="FOX SPORTS 3.mx" tvg-name="" tvg-logo="https://i.ibb.co.com/7CNg8HK/fxsp3mx.png" group-title="SPORTS", FOX SPORTS 3 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -14573,7 +14573,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
@@ -14632,7 +14632,7 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(CLARO_SPORTS_LATAM_HD)/manifest.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="TSN1 HD.ca" tvg-logo="https://mimipipi22.github.io/logo/png/tsn1.png" group-title="SPORTS", TSN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
@@ -14669,7 +14669,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/
 
 
 
-🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" group-title="SPORTS",ASTRO ARENA
@@ -14802,7 +14802,7 @@ https://mimipipi22.github.io/logo/offline.m3u8
 
 
 
-🔹🔹🔹🔹🔹 [WORLD SPORTS] 🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹 [WORLD SPORTS] 🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FLTCyGTt/raisprot.png" group-title="WORLD SPORTS",RAI SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -14863,7 +14863,7 @@ https://a1xs.vip/9000001
 
 
 
-🔹🔹🔹🔹🔹🔹🔹 [WORLD TV] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹 [WORLD TV] 🔹🔹🔹🔹
 
 #EXTINF:-1 group-title="WORLD TV", ▃   █  ▒ ░ WORLD TV ░    ▇ ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
@@ -14911,7 +14911,7 @@ https://gooo.blog/opix/genx.m3u8?id=kbs-korea&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIU
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World (HD)" tvg-logo="https://mimipipi22.github.io/logo/international/kbsworld.jpg" group-title="WORLD TV",KBS WORLD (TS)
 http://125.227.210.55:17478/VideoInput/play.ts
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbbccb9d1f9e402293b23dcf62322d83:63d828f9c104b74c1188a651ba39c812
@@ -14941,7 +14941,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856df6711d016e111c8
 #EXTINF:-1 tvg-id="ABCAustralia.id" tvg-name="ABCAustralia.id" tvg-logo="https://mimipipi22.github.io/logo/international/abcaustralia.jpg" group-title="WORLD TV",ABC AUSTRALIA (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f699274d40f479d89804912c134830d:352d8c910649b4d332047cf2833bb43f
@@ -15010,7 +15010,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685730a4243017317e33
 #EXTINF:-1 tvg-id="CCTV4.id" tvg-name="CCTV4.id" tvg-logo="https://mimipipi22.github.io/logo/international/cctv4.jpg" group-title="WORLD TV",CCTV4 (DNS)
 https://op-group1-swiftservesd-1.dens.tv/s/s19/index.m3u8?app_type=web&userid=lite&chname=CCTV-4
 
-🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹 [LINE] 🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04fb6c48c6b4498cb9d3b9ede0d48db7:94253cf1df2659c3ea253ba1091eca4d
@@ -15023,7 +15023,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index
 #EXTINF:-1 tvg-id="Xingkong" tvg-name="Xingkong" tvg-logo="https://mimipipi22.github.io/logo/international/xingkong.jpg" group-title="WORLD TV",XING KONG (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15043,7 +15043,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/2c21b0f4792a42a09a7ed5fee3f010c0/index
 #EXTINF:-1 tvg-id="Dragon TV" tvg-name="Dragon TV" tvg-logo="https://mimipipi22.github.io/logo/international/dragontv.jpg" group-title="WORLD TV",DRAGON TV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000056/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -15060,7 +15060,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HunanTV/mediampd/HunanTV.mpd
 #EXTINF:-1 tvg-id="Hunan TV" tvg-name="Hunan TV" tvg-logo="https://mimipipi22.github.io/logo/international/hunantv.jpg" group-title="WORLD TV",HUNAN TV (VS+)
 https://fta2-cdn-flr.visionplus.id/out/v1/63e4d9f383cb4ca59317c7be9407e228/index.mpd
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15116,7 +15116,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/39a34211e80145678ce1616b52368f99/index
 #EXTINF:-1 tvg-id="Anhui TV" tvg-name="Anhui TV" tvg-logo="https://mimipipi22.github.io/logo/international/anhuitv.jpg" group-title="WORLD TV",ANHUI TV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15168,7 +15168,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mediampd/TVBSAsia.mpd
 https://stream1.freetv.fun/61a580805035058d43bff6d940274c429e47cdca7b767b44e7b4b19c5374f477.m3u8
 http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/482511
 
-🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTINF:-1 tvg-id="New TV Comprehensive" group-title="WORLD TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvcompre.png",NEW TV COMPREHENSIVE (IND)
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/newtvcomprehensive/manifest.mpd
@@ -15207,12 +15207,12 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/international/tv5monde.jpg" group-title="WORLD TV",TV5 MONDE ASIE (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/international/tv5mondeinfo.jpg" group-title="WORLD TV",TV5 MONDE INFO (OTT)
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
@@ -15246,7 +15246,7 @@ http://gooo.blog/opix/genx.m3u8?id=guangdongtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJI
 https://gooo.blog/opix/genx.m3u8?id=cetv1&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
 🔹🔹🔹 [LINE] 🔹🔹🔹
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://onlytimewilltell.xyz:2086/images/902fbdd2b1df0c4f70b4a5d23525e932.png" group-title="WORLD TV",WABC (New York) ABC East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
@@ -15289,7 +15289,7 @@ https://nlziet-live.akamaized.net/L12/4891aa65/2c23ee3a.isml/.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-four-uk.png" group-title="WORLD TV", BBC FOUR
 https://nlziet-live.akamaized.net/L24/b7d8aaf5/cfe54783.isml/.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edd08df18e523831bb1849eb897f20e0:5d936f87fd0aab2aba6578d1342d5041
@@ -15313,7 +15313,7 @@ https://cdn1oiv.akamaized.net/hrtliveorigin/hrt4.smil/1/manifest.mpd
 
 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-logo="https://iili.io/Jmo4QWB.png" group-title="WORLD TV",RAI 1 🇮
+#EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-logo="https://iili.io/Jmo4QWB.png" group-title="WORLD TV",RAI 1 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d79467df269743b3aca99a9171c54878:a7d3bc19bd09db6b581833e4a6176c8f
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
@@ -15344,7 +15344,7 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manife
 #EXTINF:-1 tvg-id="3sat.de" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/3sathd.png" group-title="WORLD TV", 3SAT 
 https://ac-009.live.p7s1video.net/4cb9b4be/t_009/3sat-de-hd/cenc-default.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="" group-title="WORLD TV",CCTV+
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
@@ -15354,7 +15354,7 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 https://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
 
 
-🔹🔹🔹🔹🔹🔹🔹🔹 [NEWS] 🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹 [NEWS] 🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 group-title="NEWS",     ▓ ▒ ░ NEWS    █  ▅ ▃ ▂
 https://mimipipi22.github.io/logo/offline.m3u8
@@ -15373,7 +15373,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="CNNInternational.id" tvg-name="CNN International" tvg-logo="https://mimipipi22.github.io/logo/news/cnn.jpg" group-title="NEWS",CNN INT (JMP)
 https://jmp2.uk/stvp-CHBD800001D0
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15415,7 +15415,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.id" tvg-name="BBC News" tvg-logo="https://mimipipi22.github.io/logo/news/bbcnews.jpg" group-title="NEWS",BBC NEWS (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15505,7 +15505,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8?app_type=web&userid=
 #EXTINF:-1 tvg-id="TRT World.id" tvg-name="TRT World" tvg-logo="https://mimipipi22.github.io/logo/news/trtworld.jpg" group-title="NEWS",TRT WORLD (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000131/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15531,7 +15531,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&userid=
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.id" tvg-name="Al Jazeera English" tvg-logo="https://mimipipi22.github.io/logo/news/aljazeeraeng.jpg" group-title="NEWS",ALJAZEERA ENGLISH (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15654,7 +15654,7 @@ https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u
 #EXTINF:-1 tvg-id="CNA.id" tvg-name="CNA" tvg-logo="https://mimipipi22.github.io/logo/news/cna.jpg" group-title="NEWS",CNA (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22dcc9a719a3411ca53b520236ded916:27425784e415cb5de6c857de6222b01b
@@ -15683,7 +15683,7 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="CGTN.id" tvg-name="CGTN" tvg-logo="https://mimipipi22.github.io/logo/news/cgtn.jpg" group-title="NEWS",CGTN (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
@@ -15701,7 +15701,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68572841ba301729d434
 #EXTINF:-1 tvg-id="WION.in" tvg-name="WION" tvg-logo="https://mimipipi22.github.io/logo/news/wion.jpg" group-title="NEWS",WION (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8?app_type=web&userid=lite&chname=WION
 
-🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2ecb7420c48463c9c1eeb9a908825ed:2ddaa7bc8fcff832464ad874ab468c3f
@@ -15720,7 +15720,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
 https://fl1.moveonjoy.com/CNBC/index.m3u8
 https://fl31.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
@@ -15744,7 +15744,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/BLOOMBERG/manifest.mpd
 #EXTINF:-1 tvg-id="BloombergTV.id" tvg-name="Bloomberg TV" tvg-logo="https://mimipipi22.github.io/logo/news/bloomberg.jpg" group-title="NEWS",BLOOMBERG (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
@@ -15777,7 +15777,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGl
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 🔹🔹🔹🔹 [LINE] 🔹🔹🔹
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png" group-title="NEWS",CNN INT
 https://jmp2.uk/stvp-CHBD800001D0
@@ -15828,7 +15828,7 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 https://aka-live1049.delivery.roku.com/818e3132-87ef-4dd8-9568-b0685b4454e9/t2-origin/out/v1/live.m3u8
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-🔹🔹🔹🔹🔹🔹🔹🔹 [KNOWLEDGE] 🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹 [KNOWLEDGE] 🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 group-title="KNOWLEDGE",▂  ▅  █ ▓   KNOWLEDGE    █ ▇  ▃ 
 https://mimipipi22.github.io/logo/offline.m3u8
@@ -15849,7 +15849,7 @@ https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="BBCEarth.id" tvg-name="BBC Earth" tvg-logo="https://mimipipi22.github.io/logo/knowledge/bbcearth.jpg" group-title="KNOWLEDGE",BBC EARTH (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000116/1024.m3u8
 
-🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15920,7 +15920,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/DiscoveryHD.
 #EXTINF:-1 tvg-id="DiscoveryChannel.id" tvg-name="Discovery Channel HD" tvg-logo="https://mimipipi22.github.io/logo/knowledge/discovery.jpg" group-title="KNOWLEDGE",DISCOVERY CHANNEL (UDP)
 http://202.169.224.202:8800/udp/239.9.1.6:1234
 
-🔹🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15980,7 +15980,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/936ed6f98448469b924a0ce456586651/index
 #EXTINF:-1 tvg-id="History.id" tvg-name="History" tvg-logo="https://mimipipi22.github.io/logo/knowledge/history.jpg" group-title="KNOWLEDGE",HISTORY (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
 
-🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15994,7 +15994,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mediampd/AnimalPla
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest_w816003161_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16035,7 +16035,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/curiosity/manifest.mpd
 #EXTINF:-1 tvg-id="Dens Life & Style" tvg-name="Dens Life & Style" tvg-logo="https://mimipipi22.github.io/logo/knowledge/densknowledge.jpg" group-title="KNOWLEDGE",DENS KNOWLEDGE (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8?app_type=web&userid=lite&chname=DensKnowledge
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=http://www.biznetvideo.net/
@@ -16112,9 +16112,9 @@ https://v16.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v1a1/playlist.m3u8
 https://e1.thetvapp.to/hls/DiscoveryLife/tracks-v1a1/playlist.m3u8|referer=https://r-strm.blogspot.com/&origin=https://r-strm.blogspot
 
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [KIDS] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹 [KIDS] 🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 group-title="KIDS",▂    █ ▓   KIDS ░ ▒   ▇ ▅ ▃ 
+#EXTINF:-1 group-title="KIDS",▂    █ ▓   KIDS  ▒   ▇ ▅ ▃ 
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16129,7 +16129,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/9041826689ae4f9c9619576d411fa989/index
 #EXTINF:-1 tvg-id="Kids_TV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/kidstv.jpg" group-title="KIDS",KIDS TV (STR)
 https://wurljansonmedia.global.transmit.live/hls/69029561e0b3f0f215eef867/playlist.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16158,7 +16158,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoH
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/boomerang/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16242,7 +16242,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/kids/cartoontvclassic.jpg" group-title="KIDS",CARTOON TV CLASSICS (CBM)
 https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
@@ -16267,7 +16267,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000125/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000162/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
@@ -16281,7 +16281,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index
 #EXTINF:-1 tvg-id="CBeebies.id" tvg-name="CBeebies HD" tvg-logo="https://mimipipi22.github.io/logo/kids/cbeebies.jpg" group-title="KIDS",CBEEBIES BBC (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
@@ -16299,7 +16299,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.id" tvg-name="Zoomoo" tvg-logo="https://mimipipi22.github.io/logo/kids/zoomoo.jpg" group-title="KIDS",ZOO MOO (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -16335,7 +16335,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16348,7 +16348,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 #EXTINF:-1 tvg-id="Horee.id" tvg-name="Horee" tvg-logo="https://mimipipi22.github.io/logo/kids/horee.jpg" group-title="KIDS",HOREE (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 
-🔹 [LINE] 🔹🔹🔹🔹
+🔹 [LINE] 🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/hiphiphoree.jpg" group-title="KIDS",HIP HIP HOREE!
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -16356,7 +16356,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
 http://202.169.224.202:8800/udp/239.9.1.28:1234
 https://mimipipi22.github.io/logo/offline.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -16368,7 +16368,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="MyKidz.id" tvg-name="My Kidz" tvg-logo="https://mimipipi22.github.io/logo/kids/mykidz.jpg" group-title="KIDS",MY KIDZ (IND)
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -16397,7 +16397,7 @@ https://mimipipi22.github.io/logo/offline.m3u8
 #https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 #https://cdn08jtedge.indihometv.com/dassdvr/134/davinci720/manifest.mpd
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹
 
 #EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/kids/spacetoon.jpg" group-title="KIDS",SPACETOON (OXY)
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -16429,8 +16429,8 @@ https://gooo.blog/opix/genx.m3u8?id=deikids&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI
 #EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.0BUFpzNT3h5xuYuhmKHMffBu22_78xn792rAWxKY4RQ"}
 https://gooo.blog/opix/genx.m3u8?id=kartoon&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTINF:-1 tvg-id="pop" tvg-name="POP" tvg-logo="https://images.pluto.tv/channels/664c94e80120f40008b860f0/colorLogoPNG.png" group-title="KIDS",POP
 https://jmp2.uk/plu-664c94e80120f40008b860f0.m3u8
@@ -16477,7 +16477,7 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 #EXTINF:-1 tvg-id="YTV" tvg-name="YTV" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/ytv.png" group-title="KIDS",YTV
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/rtejr.png" group-title="KIDS", RTE Jr. 🇮
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/png/rtejr.png" group-title="KIDS", RTE Jr. 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a3c1d1cb88ea5a8a38528d0b9702390:a4c4e53270616bc2c88c5edce8fd4474
 https://live.rte.ie/live/a/channel4/channel4.isml/manifest.mpd 
@@ -16524,7 +16524,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/c20d75deb06f401aa89681a9e5054de7/index
 #EXTINF:-1 tvg-id="MusicTV.id" tvg-name="Music TV" tvg-logo="https://mimipipi22.github.io/logo/music/musictv.jpg" group-title="MUSIC",MUSIC TV (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
@@ -16532,7 +16532,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
 #EXTINF:-1 tvg-id="MTV90s.id" tvg-name="MTV 90s" tvg-logo="https://mimipipi22.github.io/logo/music/mtv90.jpg" group-title="MUSIC",MTV 90s (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTV90sHD/mediampd/MTV90sHD.mpd
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16564,14 +16564,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest_w1796600437_qRFZS.mpd?encp=&uid=&expp=
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo720/manifest.mpd
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Prambors.id" tvg-name="Prambors" tvg-logo="https://mimipipi22.github.io/logo/music/prambors.jpg" group-title="MUSIC",PRAMBORS TV (IND)
 https://cdn10jtedge.indihometv.com/atm/DASH/PRAMBORS_TV/manifest.mpd
 
-🔹🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
@@ -16584,7 +16584,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDang
 #EXTINF:-1 tvg-id="CitraDangdut.id" tvg-name="Citra Dangdut" tvg-logo="https://mimipipi22.github.io/logo/music/citradangdut.jpg" group-title="MUSIC",CITRA DANGDUT (IND)
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 
-🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://images.pluto.tv/channels/64c37e710e086a0009e824ab/colorLogoPNG.png" group-title="MUSIC",NOW 70s
 https://jmp2.uk/plu-64c37e710e086a0009e824ab.m3u8
@@ -16605,7 +16605,7 @@ https://amg01076-amg01076c3-mytvsuper-apac-7835.playouts.now.amagi.tv/playlist/a
 https://jmp2.uk/plu-6568a78d635c3c0008765f41.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 #EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/128/9280/9280598.png" group-title="MUSIC",CDI
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -16613,8 +16613,8 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 http://gooo.blog/opix/genx.m3u8?id=cdi&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg1NDk2NTQsImV4cCI6MTc1ODU2MDQ1NCwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIxMDMuMTA3Ljg0LjE4MyJ9fQ.wMafBJ9gJ_O3Fz6vZ6mjwls65hSlf-jupah8hsAIDEc
 
 
-🔹 [LINE] 🔹🔹🔹
-🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹 [LINE] 🔹🔹
+🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/D12531s/univcinema.png" group-title="MUSIC", MTV '80
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
@@ -16785,9 +16785,9 @@ http://185.18.56.26:8888/magic/index.m3u8
 http://84.54.128.52:9090/play/a00c/index.m3u8
 
 
-🔹🔹🔹🔹🔹🔹🔹🔹 [LIFESTYLE] 🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹 [LIFESTYLE] 🔹🔹🔹🔹🔹
 
-#EXTINF:-1 group-title="LIFESTYLE", ▃  ▇    ░ LIFESTYLE ░      ▃ ▂
+#EXTINF:-1 group-title="LIFESTYLE", ▃  ▇    ░ LIFESTYLE ░       ▂
 https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -16821,7 +16821,7 @@ https://fta1-cdn-flr.visionplus.id/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index
 #EXTINF:-1 tvg-id="FoodTravel.id" tvg-name="Food Travel" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/foodtravel.jpg" group-title="LIFESTYLE",FOOD TRAVEL (TVOD)
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=367f9bf4d0684f109d74a9eeb68d32be:59983c58c1b0daa1dcc370f697ccaead
@@ -16829,7 +16829,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
 #EXTINF:-1 tvg-id="Asian Food Network.id" tvg-name="Asian Food Network.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/afn.jpg" group-title="LIFESTYLE",AFN (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mediampd/AFNHD.mpd
 
-🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
@@ -16865,7 +16865,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 #EXTINF:-1 tvg-id="TLC.id" tvg-name="TLC.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/tlc.jpg" group-title="LIFESTYLE",TLC (MVJ)
 https://fl1.moveonjoy.com/TLC/index.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/bbclifestyle.jpg" group-title="LIFESTYLE",BBC LIFESTYLE (SKYGO)
@@ -16875,7 +16875,7 @@ https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/bbclifestyle.jpg" group-title="LIFESTYLE",BBC LIFESTYLE (UDP)
 http://202.169.224.202:8800/udp/239.9.1.31:1234
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16901,7 +16901,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/s4eGYEP" group-title="LIFESTYLE",GLOBAL FASHION CHANNEL
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
-🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
+🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ikomg.com/wp-content/uploads/2019/01/Copia-di-New-Service-Logos-2024-12-800x470.png" group-title="LIFESTYLE",WORLD FASHION CHANNEL
@@ -16921,7 +16921,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/biznetlifestyle.jpg" group-title="LIFESTYLE",BIZNET LIFESTYLE
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=ZGw2r-CvzSlCW2-mTyu97hp8bHZXc9LY43O5moeKhLM1ppWpWrh6ZoIHFlbN75DU
 
-🔹 [LINE] 🔹🔹🔹
+🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
@@ -16952,7 +16952,7 @@ https://op-group1-densxvisionhd-1.dens.tv/h/h248/index.m3u8
 #EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-name="DENS Food Channel.id" tvg-logo="https://mimipipi22.github.io/logo/lifestyle/densfood.jpg" group-title="LIFESTYLE",DENSFOOD CHANNEL (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8?app_type=web&userid=lite&chname=DensFood_Channel
 
-🔹🔹🔹 [LINE] 🔹🔹
+🔹🔹 [LINE] 🔹🔹
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://delta.dens.tv/
@@ -16990,7 +16990,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/index.m3u8
 #EXTINF:-1 tvg-id="china-travel" tvg-logo="https://a.jsrdn.com/hls/23232/china-travel/poster_20251105_004701.jpg" group-title="LIFESTYLE",China Travel (AMG)
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 
-🔹🔹🔹 [LINE] 🔹🔹🔹
+🔹🔹🔹 [LINE] 🔹🔹
 
 
 //========================================================================
@@ -17129,13 +17129,13 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG
 #EXTINF:-1 group-title="MY 🇲" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sooka_Travel_%26_Taste.png",TTAVEL & TASTE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
-#EXTINF:-1 group-title="MY 🇲🇾" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",DRAMA HOTPOT
+#EXTINF:-1 group-title="MY 🇾" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Sooka_Drama_Hotpot.png",DRAMA HOTPOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
-#EXTINF:-1 group-title="MY 🇲🇾" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",FILEM MANTAP
+#EXTINF:-1 group-title="MY 🇾" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png",FILEM MANTAP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
-#EXTINF:-1 group-title="MY 🇲🇾" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sooka_Lawak_Sentral.png/640px-Sooka_Lawak_Sentral.png",LAWAK SENTRAL
+#EXTINF:-1 group-title="MY 🇾" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sooka_Lawak_Sentral.png/640px-Sooka_Lawak_Sentral.png",LAWAK SENTRAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 #EXTINF:-1, group-title="MY " tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/Sooka_Drama_Hebat.png",DRAMA HEBAT
@@ -17297,7 +17297,7 @@ https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-dash/france4hd.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-dash/france5hd.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="FR 🇫🇷", M6 HD
+#EXTINF:-1 tvg-logo="" group-title="FR 🇫", M6 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
 
@@ -17401,7 +17401,7 @@ https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-dash/tv8montblanc.
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bvn/browser-dash/bvn.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="" group-title="IT ", RAI GULP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
@@ -17427,7 +17427,7 @@ https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="IT 🇹", CHANNEL 4
+#EXTINF:-1 tvg-logo="" group-title="IT ", CHANNEL 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-dash/channel4.mpd
 
@@ -17467,9 +17467,9 @@ https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹
 
-#EXTINF:-1 tvg-logo="" group-title="GB 🇬", FILM4
+#EXTINF:-1 tvg-logo="" group-title="GB ", FILM4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-dash/film4.mpd
 
@@ -17485,7 +17485,7 @@ https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/paramount/browser-dash/paramount.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="GB 🇧", FOOD NETWORK
+#EXTINF:-1 tvg-logo="" group-title="GB ", FOOD NETWORK
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-dash/foodnetwork.mpd
 
@@ -17517,7 +17517,7 @@ https://viamotionhsi.netplus.ch/live/eds/skynews/browser-dash/skynews.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-dash/itv4.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="GB 🇬", ITV 3
+#EXTINF:-1 tvg-logo="" group-title="GB ", ITV 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/itv3/browser-dash/itv3.mpd
 
@@ -17543,7 +17543,7 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩 AT  CH ", SUPER RTL
+#EXTINF:-1 tvg-logo="" group-title="DE  AT  CH ", SUPER RTL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 
@@ -17555,7 +17555,7 @@ https://viamotionhsi.netplus.ch/live/eds/rtl/browser-dash/rtl.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-dash/sport1.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="DE  AT 🇹 CH ", VOX
+#EXTINF:-1 tvg-logo="" group-title="DE  AT  CH ", VOX
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 
@@ -17563,7 +17563,7 @@ https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-dash/orf1.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩 AT 🇦 CH ", ORF 2
+#EXTINF:-1 tvg-logo="" group-title="DE  AT 🇦 CH ", ORF 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/orf2/browser-dash/orf2.mpd
 
@@ -17579,7 +17579,7 @@ https://viamotionhsi.netplus.ch/live/eds/atv/browser-dash/atv.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DE 🇪 AT 🇦 CH 🇨", SRF 2 HD
+#EXTINF:-1 tvg-logo="" group-title="DE 🇪 AT  CH 🇨", SRF 2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-dash/srf2hd.mpd
 
@@ -17623,7 +17623,7 @@ https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-dash/eurosportde.mp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩 AT 🇹 CH ", ZDF INFO HD
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩 AT  CH ", ZDF INFO HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 
@@ -17631,7 +17631,7 @@ https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="DE  AT 🇦 CH 🇨", COMEDY CENTRAL NICK
+#EXTINF:-1 tvg-logo="" group-title="DE  AT  CH 🇨", COMEDY CENTRAL NICK
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
 
@@ -17675,7 +17675,7 @@ https://viamotionhsi.netplus.ch/live/eds/kabel1/browser-dash/kabel1.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 AT 🇦 CH ", SWRBW
+#EXTINF:-1 tvg-logo="" group-title="DE 🇩🇪 AT  CH ", SWRBW
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-dash/swrbw.mpd
 
@@ -17719,7 +17719,7 @@ https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-dash/brhdsud.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-dash/wdrhd.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="DE  AT 🇦🇹 CH ", NDR
+#EXTINF:-1 tvg-logo="" group-title="DE  AT 🇹 CH ", NDR
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/ndr/browser-dash/ndr.mpd
 
@@ -17745,7 +17745,7 @@ https://viamotionhsi.netplus.ch/live/eds/kabeleinsdocu/browser-dash/kabeleinsdoc
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="PT 🇹 PL 🇱 ES 🇪 CN 🇨 TR 🇷 ARAB", RECORD NEWS
+#EXTINF:-1 tvg-logo="" group-title="PT 🇹 PL 🇱 ES  CN 🇨 TR 🇷 ARAB", RECORD NEWS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-dash/recordnews.mpd
 
@@ -17761,7 +17761,7 @@ https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="PT 🇹 PL 🇵 ES  CN  TR 🇹🇷 ARAB", TVE INTERNACIONAL
+#EXTINF:-1 tvg-logo="" group-title="PT 🇹 PL 🇵 ES  CN  TR 🇹 ARAB", TVE INTERNACIONAL
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
 
@@ -17797,7 +17797,7 @@ https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="PT 🇵 PL  ES  CN 🇳 TR  ARAB", TRT TURK
+#EXTINF:-1 tvg-logo="" group-title="PT 🇵 PL  ES  CN  TR  ARAB", TRT TURK
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
 
@@ -17805,7 +17805,7 @@ https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-logo="" group-title="SK 🇰",novasport1 HD
 http://185.188.188.237:5000/live/novasport1/playlist.m3u8
@@ -17910,7 +17910,7 @@ https://176.116.105.82/FilmBoxExtra_HD/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SK 🇸",nickjr
 http://185.188.188.237:5000/live/nickjr/playlist.m3u8
 
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1  tvg-id="576059" group-title="Sea Games Thailand 2025" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='10298961'&EntityType='Item'&EntityId='576059'&Width=289&Height=250", SEA Games CH01
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -18009,7 +18009,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
 
-🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
+🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW ",TVB News Channel
 http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=inews_twn
@@ -18109,7 +18109,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A5%BD%E6%B6%88%E6%81%AF
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A5%BD%E6%B6%88%E6%81%AF2%E5%8F%B0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW ",Love It All 2
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E5%A4%A7%E6%84%9B%E4%BA%8C%E5%8F%B0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇼",Asian Tourism
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW ",Asian Tourism
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E4%BA%9E%E6%B4%B2%E6%97%85%E9%81%8A%E5%8F%B0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹",Korean Entertainment Channel KMTV
 https://4gtv.946985.filegear-sg.me/playlist?channel=%E9%9F%93%E5%9C%8B%E5%A8%9B%E6%A8%82%E5%8F%B0%20
@@ -18224,7 +18224,7 @@ https://4gtv.946985.filegear-sg.me/playlist?channel=TRACE%20Sport%20Stars
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TW 🇹",TV5MONDE STYLE HD 活时
 https://4gtv.946985.filegear-sg.me/playlist?channel=TV5MONDE%20STYLE%20HD%20%E7%94%9F%E6%B4%BB%E6%99%82%E5%B0%9A
 
-🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹\
+🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹\
 
 #EXTINF:-1 tvg-id="BahrainSports1.bh@SD" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) 
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
@@ -18696,7 +18696,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
-#EXTINF:-1 tvg-id="TVNMOVIESPINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJzYPlIKb1DhteWqmXM204M-zMudYo5JeRSQ&usqp=CAU" group-title="CINEMA PINOY 🎬🇵🇭", tvN Movies Pinoy
+#EXTINF:-1 tvg-id="TVNMOVIESPINOY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJzYPlIKb1DhteWqmXM204M-zMudYo5JeRSQ&usqp=CAU" group-title="CINEMA PINOY 🇵🇭", tvN Movies Pinoy
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
@@ -18812,7 +18812,7 @@ http://iptv12k.com:35461/654321/123456/3205
 http://iptv12k.com:35461/654321/123456/3220
 #EXTINF:-1 tvg-name="KR: 연합스TV" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", Yonhap NewsTV
 http://iptv12k.com:35461/654321/123456/3209
-#EXTINF:-1 tvg-name="KR: 연합뉴TVKR" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", Yonhap NewsTV (backup)
+#EXTINF:-1 tvg-name="KR: 연합TVKR" tvg-logo="http://image.sbs.co.kr/sbs/4n/favicon.png" group-title="KOREAN PREMIUM", Yonhap NewsTV (backup)
 http://dqy12.org/hls/13/index.m3u8
 #EXTINF:-1 tvg-name="KR: SBS골프 KR" tvg-logo="https://blog.kakaocdn.net/dn/bYZCX2/btqDVU80MkK/inuPxMtGkulA0zC9p1gbs0/img.jpg" group-title="KOREAN PREMIUM", SBS GOLF
 http://iptv12k.com:35461/654321/123456/3206
@@ -18982,7 +18982,7 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=bosisport1_twn
 https://haoyunlai.serv00.net/Smartv-1.php?id=bosisport2_twn
 #EXTINF:-1 tvg-id="Bosstennis" tvg-name="Boss Tennis" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1903_20210127101234.png" group-title="Taiwan Sports Premium Pack", 博斯球 // Boss Tennis
 https://haoyunlai.serv00.net/Smartv-1.php?id=bositennis_twn
-#EXTINF:-1 tvg-id="Bossgolf1" tvg-name="Boss Golf 1" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1846.png" group-title="Taiwan Sports Premium Pack", 博斯球1 // Boss Golf 1
+#EXTINF:-1 tvg-id="Bossgolf1" tvg-name="Boss Golf 1" tvg-logo="https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@149@1846.png" group-title="Taiwan Sports Premium Pack", 博斯1 // Boss Golf 1
 https://haoyunlai.serv00.net/Smartv-1.php?id=bosigolf1_twn
 #EXTINF:-1 tvg-id="Bossgolf2" tvg-name="Boss Golf 2" tvg-logo="https://www.123iptv.tv/tv_img/bosigaoqiu2_hd.jpg" group-title="Taiwan Sports Premium Pack", 博斯高2 // Boss Golf 2
 https://haoyunlai.serv00.net/Smartv-1.php?id=bosigolf2_twn
@@ -19008,7 +19008,7 @@ http://iptv12k.com:35461/654321/123456/3136
 http://iptv12k.com:35461/654321/123456/3137
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/GAORA_SPORTS_logo.svg/2560px-GAORA_SPORTS_logo.svg.png" group-title="Japan TV (Sports)", GAORATV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
-#EXTINF:-1 tvg-id="囲碁・チャンネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/igoshogi.png" group-title="Japan TV (Sports)", Igo and Shogi Channel (WILLFONK)
+#EXTINF:-1 tvg-id="囲碁・チャネル.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/igoshogi.png" group-title="Japan TV (Sports)", Igo and Shogi Channel (WILLFONK)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="js1" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png" group-title="Japan TV (Sports)", JSPORTS 1 (WILLFONK)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -19055,7 +19055,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MINNAL_FMAAC_S
 
 #EXTINF:-1 group-title="MALAYSIA RADIO  (MPB Audio)" tvg-id="Eight FM" tvg-name="8FM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png", Eight FM [8FM] 
 https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (MPB Audio)" tvg-id="Fly FM" tvg-name="FlyFM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png", Fly FM
+#EXTINF:-1 group-title="MALAYSIA RADIO  (MPB Audio)" tvg-id="Fly FM" tvg-name="FlyFM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/FlyFm.png", Fly FM
 https://mifntechnology.github.io/siaranMy/radio/FlyFm/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA RADIO  (MPB Audio)" tvg-id="Kool FM" tvg-name="Kool 101" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Kool101.png", Kool 101
 https://mifntechnology.github.io/siaranMy/radio/BuletinFm/playlist.m3u8
@@ -19105,7 +19105,7 @@ https:\u002F\u002Fplayerservices.streamtheworld.com\u002Fapi\u002Flivestream-red
 https://n40a-eu.rcs.revma.com/7ww2a4tbv4uvv/64_2yvaj6nnb69x02/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA RADIO  (Astro Radio)" tvg-id="CHN" ch-number="879" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png/revision/latest?cb=20211107023416", ERA Sabah (Astro Radio)
 https://n12a-eu.rcs.revma.com/4p3nqmmbv4uvv/18_1oxzafird6r4w02/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA RADIO 📻 (Astro Radio)" tvg-id="CHN" ch-number="880" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png/revision/latest?cb=20211107023427", ERA Sarawak (Astro Radio)
+#EXTINF:-1 group-title="MALAYSIA RADIO  (Astro Radio)" tvg-id="CHN" ch-number="880" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png/revision/latest?cb=20211107023427", ERA Sarawak (Astro Radio)
 https://n44a-eu.rcs.revma.com/bkqfqkrbv4uvv/68_p7vhxushjqmj02/playlist.m3u8
 #EXTINF:-1 group-title="MALAYSIA & SG RADIO 📻 (Others)" tvg-id="Suria FM" tvg-name="Suria FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Suria_logo-01.png/1280px-Suria_logo-01.png", Suria FM
 https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8
@@ -19115,7 +19115,7 @@ https://mifntechnology.github.io/siaranMy/radio/BestFm/playlist.m3u8
 https://mifntechnology.github.io/siaranMy/radio/RiaFm/playlist.m3u8
 #EXTINF:-1 tvg-id="Gold905" group-title="MALAYSIA & SG RADIO  (Others)" tvg-logo="https://aqfadtv.xyz/logos/Gold905.png", Gold 90.5
 https://22403.live.streamtheworld.com/GOLD905_PREM.aac
-#EXTINF:-1 tvg-id="987" group-title="MALAYSIA & SG RADIO 📻 (Others)" tvg-logo="https://aqfadtv.xyz/logos/987.png", 987
+#EXTINF:-1 tvg-id="987" group-title="MALAYSIA & SG RADIO  (Others)" tvg-logo="https://aqfadtv.xyz/logos/987.png", 987
 https://23253.live.streamtheworld.com/987FM_PREM.aac
 #EXTINF:-1 tvg-id="CNA938" group-title="MALAYSIA & SG RADIO  (Others)" tvg-logo="https://aqfadtv.xyz/logos/CNA938.png", CNA 938
 https://22893.live.streamtheworld.com/938NOW
@@ -19284,11 +19284,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="NOW TV Hong Kong [Test Channel]", HBO HK
 https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
-#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch138_160_115" group-title="NOW TV Hong Kong [Test Channel]", Now爆谷星影台 // Now Popcorn Superstar
+#EXTINF:-1 tvg-id="NOW爆谷星影台" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch138_160_115" group-title="NOW TV Hong Kong [Test Channel]", Now爆星影台 // Now Popcorn Superstar
 https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
 #EXTINF:-1 tvg-id="Now 新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="NOW TV Hong Kong [Test Channel]", Now 新聞 // Now News
 https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
-#EXTINF:-1 tvg-id="Now Sports 超1台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超1台.png" group-title="NOW TV Hong Kong [Test Channel]", Now Sports 英超1台
+#EXTINF:-1 tvg-id="Now Sports 超1台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超1台.png" group-title="NOW TV Hong Kong [Test Channel]", Now Sports 超1台
 https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 #EXTINF:-1 tvg-id="Now Sports 英超2台" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS英超2台.png" group-title="NOW TV Hong Kong [Test Channel]", Now Sports 英超2台
 https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
