@@ -17,20 +17,20 @@ https://l.hilay.tv/tvm
 #EXTINF:-1 tvg-id="TVMsd" tvg-name="TV Maldives SD" tvg-logo="https://8upload.com/image/67da2268cf994/1-tvm.png" group-title="Dhivehi", TV Maldives SD
 https://l.hilay.tv/tvmhilay
 
-#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://8upload.com/image/68e62d01e0142/raajjetvhilaytv.png" group-title="Dhivehi",Raajje TV FHD
-https://stream.raajje.mv/live/rtv_live/index.m3u8
+#EXTINF:-1 tvg-id="TVMhd" tvg-name="TV Maldives SD" tvg-logo="https://8upload.com/image/67da2268cf994/1-tvm.png" group-title="Dhivehi", TV Maldives 720p
+https://l.hilay.tv/tvm2
 
-#EXTINF:-1 tvg-id="RaajjeTV.mv" tvg-name="Raajje TV" tvg-logo="https://8upload.com/image/67da24021101d/9-rajjetv.png" group-title="Dhivehi",Raajje TV SD
-https://stream.raajje.mv/live/rtv_live/index.m3u8
+#EXTINF:-1 tvg-id="PSM.mv" tvg-name="PSM NEWS" tvg-logo="https://8upload.com/image/67da22692b909/8-psm-news.png" group-title="Dhivehi",PSM NEWS
+https://l.hilay.tv/psmnews
 
-#EXTINF:-1 tvg-id="afiringetv" tvg-name="Afiringe TV" tvg-logo="https://8upload.com/image/533e351543b0b652/afiringetvhilay.png" group-title="Dhivehi",Afiringe TV
-https://l.hilay.tv/afiringeTV
+#EXTINF:-1 tvg-id="Yes.mv" tvg-name="YES TV" tvg-logo="https://8upload.com/image/67da24021b0f7/10-yestv.png" group-title="Dhivehi",YES TV FHD
+https://l.hilay.tv/yeshilay
 
-#EXTINF:-1 tvg-id="Channel13.mv" tvg-name="Channel 13" tvg-logo="https://8upload.com/image/67da24023ddf5/13-chn_13.png" group-title="Dhivehi",Channel 13
-https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
+#EXTINF:-1 tvg-id="Yes.mv" tvg-name="YES TV" tvg-logo="https://8upload.com/image/67da24021b0f7/10-yestv.png" group-title="Dhivehi",YES TV SD
+https://l.hilay.tv/yessd
 
-#EXTINF:-1 tvg-id="DhivehiChannel" tvg-name="Dhivehi Channel Maldives" tvg-logo="https://8upload.com/image/f45be8fbbddd160c/dhivehichannelhilay.png" group-title="Dhivehi",Dhivehi Channel 
-https://l.hilay.tv/dhivehichannel
+#EXTINF:-1 tvg-id="Yes.mv" tvg-name="YES TV" tvg-logo="https://8upload.com/image/67da24021b0f7/10-yestv.png" group-title="Dhivehi",YES TV 720p
+https://l.hilay.tv/yesHD
 
 #EXTINF:-1 tvg-id="DhaarisTV.mv" tvg-name="Dhaaris TV" tvg-logo="https://8upload.com/image/67da2402561e8/15-dhaaristv.png" group-title="Dhivehi",Dhaaris TV FHD
 https://l.hilay.tv/dhaaris
@@ -38,8 +38,11 @@ https://l.hilay.tv/dhaaris
 #EXTINF:-1 tvg-id="DhaarisTV.mv" tvg-name="Dhaaris TV" tvg-logo="https://8upload.com/image/67da2402561e8/15-dhaaristv.png" group-title="Dhivehi",Dhaaris TV SD
 https://l.hilay.tv/DhaarisSD
 
-#EXTINF:-1 tvg-id="malikutv.mv" tvg-name="Maliku TV" tvg-logo="https://8upload.com/image/67e8d998185b5/malikutvhilay.png" group-title="Dhivehi",Maliku TV
-https://l.hilay.tv/malikutv
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://8upload.com/image/68e62d01e0142/raajjetvhilaytv.png" group-title="Dhivehi",Raajje TV FHD
+https://stream.raajje.mv/live/rtv_live/index.m3u8
+
+#EXTINF:-1 tvg-id="RaajjeTV.mv" tvg-name="Raajje TV" tvg-logo="https://8upload.com/image/67da24021101d/9-rajjetv.png" group-title="Dhivehi",Raajje TV SD
+https://stream.raajje.mv/live/rtv_live/index.m3u8
 
 #EXTINF:-1 tvg-id="MMTV.mv" tvg-name="MM TV" tvg-logo="https://8upload.com/image/67da2269226dd/7-mmtv.png" group-title="Dhivehi",MM TV
 https://sendlive.online/hls/mmtv.m3u8
@@ -50,17 +53,38 @@ https://sstv.ssplay.mv/hls/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/in
 #EXTINF:-1 tvg-id="ntv" tvg-name="N TV" tvg-logo="https://8upload.com/image/689e41c846c96/ntvhilay.png" group-title="Dhivehi",N TV
 https://sstv.ssplay.mv/hls/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
 
+#EXTINF:-1 tvg-id="Channel13.mv" tvg-name="Channel 13" tvg-logo="https://8upload.com/image/67da24023ddf5/13-chn_13.png" group-title="Dhivehi",Channel 13
+https://sstv.ssplay.mv/hls/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8.m3u8
+
 #EXTINF:-1 tvg-id="SSTV.mv" tvg-name="SSTV" tvg-logo="https://8upload.com/image/67da240232521/12-sstv.png" group-title="Dhivehi",SSTV
 https://sunplay-cdn.bitratelabs.com/live/sstv-live/index.m3u8
 
 #EXTINF:-1 tvg-id="SSTVextra" tvg-name="SSTVext" tvg-logo="https://8upload.com/image/67da240232521/12-sstv.png" group-title="Dhivehi",SSTV Extra (Available during Events)
 https://l.hilay.tv/sstvextra
 
-#EXTINF:-1 tvg-id="Yes.mv" tvg-name="YES TV" tvg-logo="https://8upload.com/image/67da24021b0f7/10-yestv.png" group-title="Dhivehi",YES TV FHD
-https://l.hilay.tv/yeshilay
+#EXTINF:-1 tvg-id="majilistv" tvg-name="Majilis TV" tvg-logo="https://8upload.com/image/686dfede837cd/majlistvhilay.png" group-title="Dhivehi",Majilis TV
+https://www.youtube.com/@PeoplesMajlis/live
 
-#EXTINF:-1 tvg-id="Yes.mv" tvg-name="YES TV" tvg-logo="https://8upload.com/image/67da24021b0f7/10-yestv.png" group-title="Dhivehi",YES TV SD
-https://l.hilay.tv/yessd
+#EXTINF:-1 tvg-id="DhivehiChannel" tvg-name="Dhivehi Channel Maldives" tvg-logo="https://8upload.com/image/f45be8fbbddd160c/dhivehichannelhilay.png" group-title="Dhivehi",Dhivehi Channel 
+https://l.hilay.tv/dhivehichannel
+
+#EXTINF:-1 tvg-id="malikutv.mv" tvg-name="Maliku TV" tvg-logo="https://8upload.com/image/67e8d998185b5/malikutvhilay.png" group-title="Dhivehi",Maliku TV
+https://l.hilay.tv/malikutv
+
+#EXTINF:-1 tvg-id="SanguTV.mv" tvg-name="Sangu TV" tvg-logo="https://8upload.com/image/67da24024be16/14-sangu.png" group-title="Dhivehi",Sangu TV
+https://l.hilay.tv/sangutv
+
+#EXTINF:-1 tvg-id="RelaxTV.mv" tvg-name="Relax TV" tvg-logo="https://8upload.com/image/67da25cd3ea78/19-relaxtv.png" group-title="Music",Relax TV
+https://serv1.vlix.io/media/videos/h264/4c30cad7b1f0935cd62a.mp4
+
+#EXTINF:-1 tvg-id="aslutv" tvg-name="Aslu TV" tvg-logo="https://8upload.com/image/67da22690ed9e/5-aslutv.png" group-title="Dhivehi",Aslu TV
+https://l.hilay.tv/aslutv
+
+#EXTINF:-1 tvg-id="afiringetv" tvg-name="Afiringe TV" tvg-logo="https://8upload.com/image/533e351543b0b652/afiringetvhilay.png" group-title="Dhivehi",Afiringe TV
+https://l.hilay.tv/afiringeTV
+
+#EXTINF:-1 tvg-id="mendhuru" tvg-name="Mendhuru TV" tvg-logo="https://8upload.com/image/68683c0866423/mendurutvhilay.png" group-title="Dhivehi",Mendhuru TV
+https://l.hilay.tv/mendhurutv
 
 #EXTINF:-1 tvg-id="ESPNNews.mv" tvg-name="ESPN NEWS" tvg-logo="https://8upload.com/image/67da28e96c7d3/46-espnnews.png" group-title="Sports",ESPN NEWS
 https://l.hilay.tv/espnnews
@@ -247,41 +271,6 @@ https://l.hilay.tv/skysportsnz8
 #EXTINF:-1 tvg-id="SkySports9.mv" tvg-name="Sky Sports 9 FHD" tvg-logo="https://8upload.com/image/67dcf3f6a8c72/sky-sport-9-nz.png" group-title="Sports",Sky Sports 9 FHD
 https://l.hilay.tv/skysportsnz9
 
-#EXTINF:-1 tvg-id="mondhutv" tvg-name="Mondhu TV" tvg-logo="https://8upload.com/image/68df1ddf5e230/mondhutvhilay.png" group-title="Dhivehi", Mondhu TV
-https://sunplay-cdn.bitratelabs.com/live/sunplay/mondhu-productions-3ef2da0e7f998fe8b3d44194d30d26cd/index.m3u8
-
-#EXTINF:-1 tvg-id="hilayplay1" tvg-name="Hilay Play 1" tvg-logo="https://8upload.com/image/68df10f7e1640/hilayplay.png" group-title="Dhivehi", Hilay Play 1
-https://sunplay-cdn.bitratelabs.com/live/sunplay/m-hits-780a8af3140fb1c7d7e1286b573c46c4/index.m3u8
-
-#EXTINF:-1 tvg-id="hilayplay2" tvg-name="Hilay Play 2" tvg-logo="https://8upload.com/image/68df10f7e1640/hilayplay.png" group-title="Dhivehi", Hilay Play 2
-https://sunplay-cdn.bitratelabs.com/live/sunplay/did-ai-90268398e36c817279835077b4bddba7/index.m3u8
-
-#EXTINF:-1 tvg-id="PSM.mv" tvg-name="PSM NEWS" tvg-logo="https://8upload.com/image/67da22692b909/8-psm-news.png" group-title="Dhivehi",PSM NEWS
-https://www.youtube.com/@psmnewslive/live
-
-#EXTINF:-1 tvg-id="mendhuru" tvg-name="Mendhuru TV" tvg-logo="https://8upload.com/image/68683c0866423/mendurutvhilay.png" group-title="Dhivehi",Mendhuru TV
-https://l.hilay.tv/mendhurutv
-
-#EXTINF:-1 tvg-id="SanguTV.mv" tvg-name="Sangu TV" tvg-logo="https://8upload.com/image/67da24024be16/14-sangu.png" group-title="Dhivehi",Sangu TV
-https://l.hilay.tv/sangutv
-
-#EXTINF:-1 tvg-id="RelaxTV.mv" tvg-name="Relax TV" tvg-logo="https://8upload.com/image/67da25cd3ea78/19-relaxtv.png" group-title="Music",Relax TV
-https://serv1.vlix.io/media/videos/h264/4c30cad7b1f0935cd62a.mp4
-
-#EXTINF:-1 tvg-id="aslutv" tvg-name="Aslu TV" tvg-logo="https://8upload.com/image/67da22690ed9e/5-aslutv.png" group-title="Dhivehi",Aslu TV
-https://l.hilay.tv/aslutv
-
-#EXTINF:-1 tvg-id="majilistv" tvg-name="Majilis TV" tvg-logo="https://8upload.com/image/686dfede837cd/majlistvhilay.png" group-title="Dhivehi",Majilis TV
-https://www.youtube.com/@PeoplesMajlis/live
-
-#EXTINF:-1 tvg-id="collectiontv1080" tvg-name="collectiontv" tvg-logo="" group-title="Sports", Collection TV 1080p
-https://l.hilay.tv/collectiontvhd
-
-#EXTINF:-1 tvg-id="collectiontv720" tvg-name="collectiontv" tvg-logo="" group-title="Sports", Collection TV | Auto
-http://tiny.cc/r9ow001
-
-#EXTINF:-1 tvg-id="collectiontv360" tvg-name="collectiontv" tvg-logo="" group-title="Sports", Collection TV 360p
-https://l.hilay.tv/collectiontvsd
 
 #EXTINF:-1 tvg-id="vom.mv" tvg-name="Dhivehi Rajjeyge Adu - Radio" tvg-logo="https://8upload.com/image/67da2268dc86f/2-adu.png" group-title="Radio",Dhivehi Rajjeyge Adu - Radio
 https://radio.psm.mv/draair
@@ -293,7 +282,7 @@ https://radio.psm.mv/fmair
 https://radio.psm.mv/dheenugeaduair
 
 #EXTINF:-1 tvg-id="Munnaaru.mv" tvg-name="Munnaaru TV" tvg-logo="https://8upload.com/image/67da24022770f/11-munnarutv.png" group-title="Dhivehi",Munnaaru TV
-http://xui.neongreenlight.com:8081/memfs/aa279b83-a029-4854-80f6-d85305a9106b.m3u8
+https://l.hilay.tv/munnaaruhilay
 
 #EXTINF:-1 tvg-id="quruantharujama" tvg-name="Quruan Tharujama" tvg-logo="https://8upload.com/image/689e73953c851/quruandhivehitharujamahilay.png" group-title="Dhivehi",Quruan Tharujama
 https://sstv.ssplay.mv/hls/sunplay/sunplay-qdt-41c2b06e8ed4d89b3b3e30ebcaa2f9f6/index.m3u8
@@ -438,6 +427,24 @@ https://l.hilay.tv/bloomberghd
 
 #EXTINF:-1 tvg-id="Cheddar.mv" tvg-name="Cheddar News HD" tvg-logo="https://8upload.com/image/67da271aebe3d/25-cheddar_news.png" group-title="News",Cheddar News HD
 https://l.hilay.tv/cheddarnews
+
+#EXTINF:-1 tvg-id="collectiontv1080" tvg-name="collectiontv" tvg-logo="" group-title="Sports", Collection TV 1080p
+https://l.hilay.tv/collectiontvhd
+
+#EXTINF:-1 tvg-id="collectiontv720" tvg-name="collectiontv" tvg-logo="" group-title="Sports", Collection TV | Auto
+http://tiny.cc/r9ow001
+
+#EXTINF:-1 tvg-id="collectiontv360" tvg-name="collectiontv" tvg-logo="" group-title="Sports", Collection TV 360p
+https://l.hilay.tv/collectiontvsd
+
+#EXTINF:-1 tvg-id="mondhutv" tvg-name="Mondhu TV" tvg-logo="https://8upload.com/image/68df1ddf5e230/mondhutvhilay.png" group-title="Dhivehi", Mondhu TV
+https://sunplay-cdn.bitratelabs.com/live/sunplay/mondhu-productions-3ef2da0e7f998fe8b3d44194d30d26cd/index.m3u8
+
+#EXTINF:-1 tvg-id="hilayplay1" tvg-name="Hilay Play 1" tvg-logo="https://8upload.com/image/68df10f7e1640/hilayplay.png" group-title="Dhivehi", Hilay Play 1
+https://sunplay-cdn.bitratelabs.com/live/sunplay/m-hits-780a8af3140fb1c7d7e1286b573c46c4/index.m3u8
+
+#EXTINF:-1 tvg-id="hilayplay2" tvg-name="Hilay Play 2" tvg-logo="https://8upload.com/image/68df10f7e1640/hilayplay.png" group-title="Dhivehi", Hilay Play 2
+https://sunplay-cdn.bitratelabs.com/live/sunplay/did-ai-90268398e36c817279835077b4bddba7/index.m3u8
 
 #EXTINF:-1 tvg-id="howto.mv" tvg-name="How it's Made" tvg-logo="https://8upload.com/image/6823ed929bee9/howtohilay.png" group-title="News",How it's Made
 https://l.hilay.tv/howto
